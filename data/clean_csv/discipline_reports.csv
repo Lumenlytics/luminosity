@@ -1,0 +1,300 @@
+report_id,student_id,date,type,severity,action_taken,description
+D_f3a0ab,143,2015-11-19,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_cf8eeb,143,2015-09-16,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_a4fe49,143,2015-11-24,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_220a0c,143,2015-09-14,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_6cae8f,143,2015-11-24,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_5cb1cb,457,2015-11-04,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_52ed4d,457,2016-06-02,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_0dd082,369,2015-11-02,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_f1b1df,34,2016-01-07,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_c83136,34,2015-09-30,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_eadf29,34,2016-02-23,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_0c8e05,34,2016-03-09,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_ea123d,34,2015-10-16,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_cac03d,431,2015-09-28,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_a56c09,431,2016-04-26,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_0221a7,431,2016-03-21,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_08bb53,315,2015-11-09,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_136d83,411,2016-04-26,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_418ce7,411,2015-11-09,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_740715,411,2016-06-01,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_2de5ce,411,2015-11-17,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_996824,60,2016-03-11,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_3883aa,60,2016-02-01,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_4367e7,462,2015-11-11,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_f7c0f7,462,2016-02-18,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_5d4a9e,462,2016-03-09,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_536b8e,448,2015-11-18,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_faf713,448,2016-04-20,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_326ebf,448,2015-12-03,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_8b0139,448,2016-01-07,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_b248eb,448,2015-12-09,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_79893c,181,2016-03-18,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_491a0c,181,2016-04-04,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_aaeee8,442,2016-03-03,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_1d5fc0,442,2015-08-25,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_d63925,442,2015-11-05,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_79c64a,442,2015-09-14,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_10d4c4,197,2016-01-14,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_b661a4,197,2015-12-07,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_d17205,207,2016-02-29,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_1682a1,207,2016-04-25,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_4c8b61,378,2015-12-11,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_8bd825,378,2016-04-21,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_2d9eda,378,2016-04-26,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_75766b,125,2015-10-19,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_737845,125,2016-04-25,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_45f374,125,2015-12-04,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_5b2ef9,125,2015-12-10,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_085679,33,2015-09-11,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_a92c45,33,2015-10-02,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_96dd22,33,2016-02-09,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_11c15b,33,2016-02-17,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_7a9015,33,2015-12-18,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_c965d2,152,2015-08-28,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_1a6de7,152,2015-09-24,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_d9ef66,152,2015-10-30,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_aef3d4,152,2016-03-08,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_c7ba2c,152,2016-04-29,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_7c892c,345,2016-01-26,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_ea4c0e,345,2016-04-25,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_81def9,345,2016-03-22,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_8fe1c6,345,2015-09-02,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_c71b6d,395,2016-05-02,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_ebd698,395,2015-11-16,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_f75a8f,395,2015-10-06,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_2bda6d,395,2015-10-06,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_37d72d,8,2016-04-11,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_bb77ea,300,2016-06-07,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_477d40,300,2016-02-16,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_0e59e3,300,2016-01-15,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_337809,300,2016-05-20,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_44b63b,229,2015-10-20,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_f59be8,229,2015-09-01,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_88f910,229,2015-09-21,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_fa838a,229,2016-01-27,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_770843,302,2016-01-14,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_f172d9,302,2016-06-09,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_2af492,307,2016-05-03,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_bd983a,307,2016-03-08,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_6a6bb1,255,2016-01-19,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_0e20e9,255,2016-05-24,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_0b022f,255,2016-05-27,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_349ffa,255,2016-05-13,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_889d17,255,2016-06-03,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_a40954,114,2016-05-13,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_2563db,114,2015-10-12,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_d96ba4,384,2015-12-17,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_8b254e,384,2016-01-11,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_09449d,164,2016-03-24,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_3db819,164,2015-10-28,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_5d7183,437,2015-08-31,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_272a0e,437,2015-12-15,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_98b747,437,2016-05-26,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_b105f2,53,2015-09-08,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_277a50,53,2016-03-09,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_7e9fd5,53,2016-06-02,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_8e2db6,53,2016-05-23,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_c2a438,215,2016-04-11,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_468a71,215,2016-02-09,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_10bd34,215,2016-06-07,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_766763,392,2016-03-02,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_25d7f7,392,2015-09-01,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_4764ad,209,2015-12-02,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_beab0e,209,2016-01-07,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_10dfa7,328,2015-12-18,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_a3b71e,328,2015-12-11,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_4d23bd,328,2016-04-20,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_6292a1,328,2016-01-05,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_946e1d,71,2016-04-19,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_2d7ec6,439,2016-05-10,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_ef9bd3,439,2015-11-11,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_43a0a3,439,2015-09-03,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_28d2d1,439,2016-05-26,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_430d46,138,2015-10-16,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_36ebcb,138,2016-03-23,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_ed9310,397,2016-05-09,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_36df66,153,2016-06-03,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_a857ac,334,2016-05-20,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_0c117d,334,2015-09-16,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_e9108d,334,2016-04-20,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_c70926,334,2015-10-20,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_a1a086,450,2015-10-01,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_735c7d,450,2016-06-03,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_314f1b,450,2016-02-02,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_72f077,450,2016-01-29,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_019db3,450,2015-10-28,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_6c9bd6,145,2015-09-29,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_85bd96,145,2016-04-20,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_113674,145,2016-03-22,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_50a8fb,145,2015-12-08,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_70453c,471,2015-10-05,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_05e011,186,2016-03-25,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_5f1dc0,186,2016-02-17,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_005359,186,2015-10-15,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_1ae5c1,186,2015-10-20,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_5f0117,327,2016-03-09,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_a1de67,327,2015-11-06,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_97865d,327,2015-09-02,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_c79136,327,2016-02-18,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_36fa65,327,2015-11-24,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_0e8322,17,2016-04-04,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_40ccb2,456,2015-11-13,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_861fe1,454,2016-02-11,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_0bc58c,308,2015-10-30,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_e151ec,308,2016-05-26,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_b95a02,40,2016-02-11,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_b5d2d0,40,2016-05-31,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_ac273f,40,2015-08-27,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_3d8618,40,2016-06-09,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_1133c4,399,2016-02-08,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_f9cb16,399,2016-05-24,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_be628b,172,2016-05-31,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_370c75,172,2016-03-23,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_97004f,172,2016-03-02,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_4e8375,172,2016-02-17,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_0f6fb3,104,2015-11-30,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_034d91,305,2016-06-03,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_d191d7,305,2016-01-15,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_8adf39,282,2016-03-17,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_a1e16d,282,2016-03-14,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_fbc366,282,2015-10-08,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_060ce1,385,2015-12-01,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_58c90e,385,2015-08-28,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_7f5e73,385,2015-11-20,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_12dc8f,385,2015-10-22,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_ee7ee0,385,2015-10-14,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_467d73,224,2016-03-15,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_657186,224,2016-02-11,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_1239af,224,2016-03-17,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_2d2395,224,2016-02-11,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_e76ba6,150,2016-05-10,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_7a5393,150,2015-10-16,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_a62489,371,2016-03-08,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_70e4ff,371,2016-04-19,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_f82eb4,371,2015-12-17,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_246943,417,2015-09-11,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_fd50fb,417,2016-03-09,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_26f7f3,417,2016-06-09,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_18e2c7,417,2016-01-27,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_8d89b9,210,2015-12-08,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_26be82,210,2016-04-14,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_0ee1e4,210,2016-01-21,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_995703,41,2016-06-08,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_be63be,41,2016-04-11,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_bc63e5,41,2015-09-16,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_0ec668,147,2015-11-12,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_3d2a51,147,2015-12-10,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_6a7bb6,147,2015-12-10,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_b2862b,295,2015-11-05,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_d4a6d7,295,2015-09-15,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_7d7c2b,295,2016-05-03,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_7be4b8,295,2016-02-12,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_6b6dfc,295,2015-09-03,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_f2f405,367,2015-11-04,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_dd5cd6,358,2015-08-26,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_b0de87,107,2016-04-13,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_a28ef1,107,2015-12-08,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_3b782b,107,2016-04-27,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_0d8055,236,2016-04-11,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_5f8ac7,236,2015-10-23,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_3ee223,236,2015-12-15,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_993083,236,2015-09-03,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_978f25,82,2016-02-23,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_c1e2b6,82,2016-05-03,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_0eb0b0,82,2015-10-28,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_9da1a6,83,2016-02-03,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_6f85b7,289,2016-06-02,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_6b1acc,289,2016-01-25,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_667bd5,364,2015-09-10,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_f99389,364,2015-09-04,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_793351,364,2016-05-25,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_2ac990,364,2015-08-28,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_5e2115,408,2015-10-12,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_99eef3,119,2016-04-04,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_896607,119,2015-11-04,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_1669ec,148,2016-04-26,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_e19d49,148,2015-12-09,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_c5d778,148,2016-03-15,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_d6c609,51,2015-10-20,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_725f7e,51,2015-08-24,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_3dab86,51,2015-11-04,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_71ead4,166,2015-08-26,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_39da34,166,2016-03-15,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_ef361f,166,2015-10-02,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_c1e97a,166,2016-03-25,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_89fb39,166,2015-12-02,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_a15cac,238,2015-11-13,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_92f233,238,2016-05-20,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_ce2c51,238,2016-05-03,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_06f3e0,483,2015-11-30,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_684181,483,2016-01-25,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_7e63a8,480,2016-02-11,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_b0ea97,120,2016-05-04,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_737a51,481,2016-04-05,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_95947a,481,2016-05-25,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_a2749c,481,2015-09-09,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_1a1f22,481,2016-05-24,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_e41913,314,2016-02-09,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_bcf4aa,314,2016-04-14,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_cb4a78,314,2015-12-01,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_f45e88,314,2015-11-04,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_daa2d3,170,2015-10-15,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_3b0f46,170,2015-11-09,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_c8bd55,170,2016-03-14,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_3aa6b3,170,2016-04-15,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_8e78c8,170,2015-11-05,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_13411f,116,2016-03-24,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_60e60c,116,2016-04-04,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_9aaa67,139,2015-11-06,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_ff8fbd,139,2015-11-23,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_765de5,139,2016-06-09,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_56153f,430,2015-11-30,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_15a0ad,430,2016-02-12,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_9ddd8d,430,2016-01-12,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_cd6ba3,430,2015-09-24,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_2c0aee,85,2016-01-22,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_9f04cc,85,2016-02-17,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_af7b26,85,2016-01-13,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_814545,85,2016-03-02,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_5235e5,85,2016-01-22,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_5c39f7,232,2015-10-15,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_aec6ce,232,2015-08-24,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_04dbe6,232,2016-04-29,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_9331c4,232,2016-04-28,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_6b94c1,232,2016-06-01,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_3af8fb,349,2015-09-11,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_82c1df,349,2015-11-16,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_c7b627,280,2015-10-07,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_86a4f7,280,2015-10-21,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_12a624,280,2016-06-08,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_924f6d,194,2016-06-01,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_0d53b7,194,2015-09-18,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_877cdd,410,2016-05-02,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_f0b584,410,2015-10-20,Dress Code Violation,Minor,Parent Contact,Wore clothing not in line with dress policy.
+D_863f72,410,2016-05-20,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_8765f0,410,2015-12-03,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_971600,317,2015-08-31,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_5dcf6e,362,2016-04-20,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_4b1fbb,373,2016-06-03,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_5aa80b,373,2015-09-24,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_7422ea,264,2016-06-08,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_24287f,264,2015-11-24,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_0d326d,350,2015-10-22,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_7d63d7,355,2015-10-01,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_f8467c,355,2016-02-18,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_0b660e,272,2016-02-19,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.
+D_c6ba84,272,2016-05-31,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_46dc65,12,2015-09-03,Disruption,Minor,Verbal Warning,Talked loudly or interrupted class repeatedly.
+D_35ee4c,12,2016-01-11,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_46a150,12,2015-09-28,Inappropriate Language,Moderate,Detention,Used offensive or inappropriate words.
+D_c22a65,12,2016-02-26,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_a956d8,77,2015-08-31,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_7b4cdc,77,2015-10-29,Tardiness,Minor,Warning,Arrived late without a valid excuse.
+D_394eed,77,2016-03-14,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_c677bb,3,2015-11-20,Skipping Class,Moderate,Parent Meeting,Did not attend assigned class without excuse.
+D_69a4ab,3,2016-05-20,Physical Aggression,Severe,Suspension,"Pushed, hit, or physically harmed another student."
+D_a5c553,3,2015-11-09,Fighting,Severe,Suspension,Engaged in a physical altercation with another student.
+D_ed8076,3,2015-11-13,Defiance,Moderate,Detention,Refused to follow teacher directions.
+D_6da6a3,3,2016-01-14,Bullying,Severe,Suspension,Repeated harassment or intimidation of a peer.

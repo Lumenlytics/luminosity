@@ -1,0 +1,300 @@
+report_id,date,type,severity,action_taken
+D_f3a0ab,2015-11-19,Dress Code Violation,Minor,Parent Contact
+D_cf8eeb,2015-09-16,Physical Aggression,Severe,Suspension
+D_a4fe49,2015-11-24,Physical Aggression,Severe,Suspension
+D_220a0c,2015-09-14,Skipping Class,Moderate,Parent Meeting
+D_6cae8f,2015-11-24,Inappropriate Language,Moderate,Detention
+D_5cb1cb,2015-11-04,Dress Code Violation,Minor,Parent Contact
+D_52ed4d,2016-06-02,Disruption,Minor,Verbal Warning
+D_0dd082,2015-11-02,Bullying,Severe,Suspension
+D_f1b1df,2016-01-07,Disruption,Minor,Verbal Warning
+D_c83136,2015-09-30,Defiance,Moderate,Detention
+D_eadf29,2016-02-23,Inappropriate Language,Moderate,Detention
+D_0c8e05,2016-03-09,Tardiness,Minor,Warning
+D_ea123d,2015-10-16,Disruption,Minor,Verbal Warning
+D_cac03d,2015-09-28,Bullying,Severe,Suspension
+D_a56c09,2016-04-26,Physical Aggression,Severe,Suspension
+D_0221a7,2016-03-21,Fighting,Severe,Suspension
+D_08bb53,2015-11-09,Disruption,Minor,Verbal Warning
+D_136d83,2016-04-26,Physical Aggression,Severe,Suspension
+D_418ce7,2015-11-09,Bullying,Severe,Suspension
+D_740715,2016-06-01,Inappropriate Language,Moderate,Detention
+D_2de5ce,2015-11-17,Fighting,Severe,Suspension
+D_996824,2016-03-11,Tardiness,Minor,Warning
+D_3883aa,2016-02-01,Inappropriate Language,Moderate,Detention
+D_4367e7,2015-11-11,Tardiness,Minor,Warning
+D_f7c0f7,2016-02-18,Bullying,Severe,Suspension
+D_5d4a9e,2016-03-09,Inappropriate Language,Moderate,Detention
+D_536b8e,2015-11-18,Dress Code Violation,Minor,Parent Contact
+D_faf713,2016-04-20,Fighting,Severe,Suspension
+D_326ebf,2015-12-03,Dress Code Violation,Minor,Parent Contact
+D_8b0139,2016-01-07,Bullying,Severe,Suspension
+D_b248eb,2015-12-09,Inappropriate Language,Moderate,Detention
+D_79893c,2016-03-18,Inappropriate Language,Moderate,Detention
+D_491a0c,2016-04-04,Bullying,Severe,Suspension
+D_aaeee8,2016-03-03,Disruption,Minor,Verbal Warning
+D_1d5fc0,2015-08-25,Skipping Class,Moderate,Parent Meeting
+D_d63925,2015-11-05,Defiance,Moderate,Detention
+D_79c64a,2015-09-14,Fighting,Severe,Suspension
+D_10d4c4,2016-01-14,Dress Code Violation,Minor,Parent Contact
+D_b661a4,2015-12-07,Skipping Class,Moderate,Parent Meeting
+D_d17205,2016-02-29,Fighting,Severe,Suspension
+D_1682a1,2016-04-25,Dress Code Violation,Minor,Parent Contact
+D_4c8b61,2015-12-11,Bullying,Severe,Suspension
+D_8bd825,2016-04-21,Defiance,Moderate,Detention
+D_2d9eda,2016-04-26,Disruption,Minor,Verbal Warning
+D_75766b,2015-10-19,Defiance,Moderate,Detention
+D_737845,2016-04-25,Bullying,Severe,Suspension
+D_45f374,2015-12-04,Tardiness,Minor,Warning
+D_5b2ef9,2015-12-10,Tardiness,Minor,Warning
+D_085679,2015-09-11,Defiance,Moderate,Detention
+D_a92c45,2015-10-02,Defiance,Moderate,Detention
+D_96dd22,2016-02-09,Physical Aggression,Severe,Suspension
+D_11c15b,2016-02-17,Disruption,Minor,Verbal Warning
+D_7a9015,2015-12-18,Bullying,Severe,Suspension
+D_c965d2,2015-08-28,Dress Code Violation,Minor,Parent Contact
+D_1a6de7,2015-09-24,Dress Code Violation,Minor,Parent Contact
+D_d9ef66,2015-10-30,Bullying,Severe,Suspension
+D_aef3d4,2016-03-08,Tardiness,Minor,Warning
+D_c7ba2c,2016-04-29,Skipping Class,Moderate,Parent Meeting
+D_7c892c,2016-01-26,Dress Code Violation,Minor,Parent Contact
+D_ea4c0e,2016-04-25,Disruption,Minor,Verbal Warning
+D_81def9,2016-03-22,Fighting,Severe,Suspension
+D_8fe1c6,2015-09-02,Disruption,Minor,Verbal Warning
+D_c71b6d,2016-05-02,Tardiness,Minor,Warning
+D_ebd698,2015-11-16,Disruption,Minor,Verbal Warning
+D_f75a8f,2015-10-06,Inappropriate Language,Moderate,Detention
+D_2bda6d,2015-10-06,Physical Aggression,Severe,Suspension
+D_37d72d,2016-04-11,Bullying,Severe,Suspension
+D_bb77ea,2016-06-07,Tardiness,Minor,Warning
+D_477d40,2016-02-16,Physical Aggression,Severe,Suspension
+D_0e59e3,2016-01-15,Dress Code Violation,Minor,Parent Contact
+D_337809,2016-05-20,Disruption,Minor,Verbal Warning
+D_44b63b,2015-10-20,Fighting,Severe,Suspension
+D_f59be8,2015-09-01,Dress Code Violation,Minor,Parent Contact
+D_88f910,2015-09-21,Inappropriate Language,Moderate,Detention
+D_fa838a,2016-01-27,Bullying,Severe,Suspension
+D_770843,2016-01-14,Dress Code Violation,Minor,Parent Contact
+D_f172d9,2016-06-09,Tardiness,Minor,Warning
+D_2af492,2016-05-03,Dress Code Violation,Minor,Parent Contact
+D_bd983a,2016-03-08,Inappropriate Language,Moderate,Detention
+D_6a6bb1,2016-01-19,Dress Code Violation,Minor,Parent Contact
+D_0e20e9,2016-05-24,Fighting,Severe,Suspension
+D_0b022f,2016-05-27,Tardiness,Minor,Warning
+D_349ffa,2016-05-13,Physical Aggression,Severe,Suspension
+D_889d17,2016-06-03,Physical Aggression,Severe,Suspension
+D_a40954,2016-05-13,Disruption,Minor,Verbal Warning
+D_2563db,2015-10-12,Physical Aggression,Severe,Suspension
+D_d96ba4,2015-12-17,Tardiness,Minor,Warning
+D_8b254e,2016-01-11,Defiance,Moderate,Detention
+D_09449d,2016-03-24,Physical Aggression,Severe,Suspension
+D_3db819,2015-10-28,Skipping Class,Moderate,Parent Meeting
+D_5d7183,2015-08-31,Fighting,Severe,Suspension
+D_272a0e,2015-12-15,Dress Code Violation,Minor,Parent Contact
+D_98b747,2016-05-26,Inappropriate Language,Moderate,Detention
+D_b105f2,2015-09-08,Fighting,Severe,Suspension
+D_277a50,2016-03-09,Inappropriate Language,Moderate,Detention
+D_7e9fd5,2016-06-02,Defiance,Moderate,Detention
+D_8e2db6,2016-05-23,Inappropriate Language,Moderate,Detention
+D_c2a438,2016-04-11,Bullying,Severe,Suspension
+D_468a71,2016-02-09,Disruption,Minor,Verbal Warning
+D_10bd34,2016-06-07,Skipping Class,Moderate,Parent Meeting
+D_766763,2016-03-02,Skipping Class,Moderate,Parent Meeting
+D_25d7f7,2015-09-01,Tardiness,Minor,Warning
+D_4764ad,2015-12-02,Bullying,Severe,Suspension
+D_beab0e,2016-01-07,Dress Code Violation,Minor,Parent Contact
+D_10dfa7,2015-12-18,Defiance,Moderate,Detention
+D_a3b71e,2015-12-11,Physical Aggression,Severe,Suspension
+D_4d23bd,2016-04-20,Disruption,Minor,Verbal Warning
+D_6292a1,2016-01-05,Defiance,Moderate,Detention
+D_946e1d,2016-04-19,Disruption,Minor,Verbal Warning
+D_2d7ec6,2016-05-10,Fighting,Severe,Suspension
+D_ef9bd3,2015-11-11,Fighting,Severe,Suspension
+D_43a0a3,2015-09-03,Inappropriate Language,Moderate,Detention
+D_28d2d1,2016-05-26,Physical Aggression,Severe,Suspension
+D_430d46,2015-10-16,Inappropriate Language,Moderate,Detention
+D_36ebcb,2016-03-23,Dress Code Violation,Minor,Parent Contact
+D_ed9310,2016-05-09,Skipping Class,Moderate,Parent Meeting
+D_36df66,2016-06-03,Dress Code Violation,Minor,Parent Contact
+D_a857ac,2016-05-20,Physical Aggression,Severe,Suspension
+D_0c117d,2015-09-16,Disruption,Minor,Verbal Warning
+D_e9108d,2016-04-20,Tardiness,Minor,Warning
+D_c70926,2015-10-20,Skipping Class,Moderate,Parent Meeting
+D_a1a086,2015-10-01,Bullying,Severe,Suspension
+D_735c7d,2016-06-03,Skipping Class,Moderate,Parent Meeting
+D_314f1b,2016-02-02,Disruption,Minor,Verbal Warning
+D_72f077,2016-01-29,Bullying,Severe,Suspension
+D_019db3,2015-10-28,Tardiness,Minor,Warning
+D_6c9bd6,2015-09-29,Defiance,Moderate,Detention
+D_85bd96,2016-04-20,Skipping Class,Moderate,Parent Meeting
+D_113674,2016-03-22,Skipping Class,Moderate,Parent Meeting
+D_50a8fb,2015-12-08,Tardiness,Minor,Warning
+D_70453c,2015-10-05,Tardiness,Minor,Warning
+D_05e011,2016-03-25,Bullying,Severe,Suspension
+D_5f1dc0,2016-02-17,Bullying,Severe,Suspension
+D_005359,2015-10-15,Dress Code Violation,Minor,Parent Contact
+D_1ae5c1,2015-10-20,Defiance,Moderate,Detention
+D_5f0117,2016-03-09,Skipping Class,Moderate,Parent Meeting
+D_a1de67,2015-11-06,Skipping Class,Moderate,Parent Meeting
+D_97865d,2015-09-02,Bullying,Severe,Suspension
+D_c79136,2016-02-18,Physical Aggression,Severe,Suspension
+D_36fa65,2015-11-24,Inappropriate Language,Moderate,Detention
+D_0e8322,2016-04-04,Inappropriate Language,Moderate,Detention
+D_40ccb2,2015-11-13,Fighting,Severe,Suspension
+D_861fe1,2016-02-11,Bullying,Severe,Suspension
+D_0bc58c,2015-10-30,Disruption,Minor,Verbal Warning
+D_e151ec,2016-05-26,Tardiness,Minor,Warning
+D_b95a02,2016-02-11,Disruption,Minor,Verbal Warning
+D_b5d2d0,2016-05-31,Defiance,Moderate,Detention
+D_ac273f,2015-08-27,Skipping Class,Moderate,Parent Meeting
+D_3d8618,2016-06-09,Tardiness,Minor,Warning
+D_1133c4,2016-02-08,Fighting,Severe,Suspension
+D_f9cb16,2016-05-24,Defiance,Moderate,Detention
+D_be628b,2016-05-31,Inappropriate Language,Moderate,Detention
+D_370c75,2016-03-23,Disruption,Minor,Verbal Warning
+D_97004f,2016-03-02,Tardiness,Minor,Warning
+D_4e8375,2016-02-17,Inappropriate Language,Moderate,Detention
+D_0f6fb3,2015-11-30,Inappropriate Language,Moderate,Detention
+D_034d91,2016-06-03,Bullying,Severe,Suspension
+D_d191d7,2016-01-15,Dress Code Violation,Minor,Parent Contact
+D_8adf39,2016-03-17,Skipping Class,Moderate,Parent Meeting
+D_a1e16d,2016-03-14,Physical Aggression,Severe,Suspension
+D_fbc366,2015-10-08,Disruption,Minor,Verbal Warning
+D_060ce1,2015-12-01,Tardiness,Minor,Warning
+D_58c90e,2015-08-28,Dress Code Violation,Minor,Parent Contact
+D_7f5e73,2015-11-20,Defiance,Moderate,Detention
+D_12dc8f,2015-10-22,Bullying,Severe,Suspension
+D_ee7ee0,2015-10-14,Defiance,Moderate,Detention
+D_467d73,2016-03-15,Physical Aggression,Severe,Suspension
+D_657186,2016-02-11,Defiance,Moderate,Detention
+D_1239af,2016-03-17,Tardiness,Minor,Warning
+D_2d2395,2016-02-11,Tardiness,Minor,Warning
+D_e76ba6,2016-05-10,Defiance,Moderate,Detention
+D_7a5393,2015-10-16,Skipping Class,Moderate,Parent Meeting
+D_a62489,2016-03-08,Fighting,Severe,Suspension
+D_70e4ff,2016-04-19,Defiance,Moderate,Detention
+D_f82eb4,2015-12-17,Bullying,Severe,Suspension
+D_246943,2015-09-11,Fighting,Severe,Suspension
+D_fd50fb,2016-03-09,Skipping Class,Moderate,Parent Meeting
+D_26f7f3,2016-06-09,Skipping Class,Moderate,Parent Meeting
+D_18e2c7,2016-01-27,Fighting,Severe,Suspension
+D_8d89b9,2015-12-08,Disruption,Minor,Verbal Warning
+D_26be82,2016-04-14,Bullying,Severe,Suspension
+D_0ee1e4,2016-01-21,Dress Code Violation,Minor,Parent Contact
+D_995703,2016-06-08,Tardiness,Minor,Warning
+D_be63be,2016-04-11,Disruption,Minor,Verbal Warning
+D_bc63e5,2015-09-16,Defiance,Moderate,Detention
+D_0ec668,2015-11-12,Inappropriate Language,Moderate,Detention
+D_3d2a51,2015-12-10,Fighting,Severe,Suspension
+D_6a7bb6,2015-12-10,Physical Aggression,Severe,Suspension
+D_b2862b,2015-11-05,Disruption,Minor,Verbal Warning
+D_d4a6d7,2015-09-15,Dress Code Violation,Minor,Parent Contact
+D_7d7c2b,2016-05-03,Bullying,Severe,Suspension
+D_7be4b8,2016-02-12,Defiance,Moderate,Detention
+D_6b6dfc,2015-09-03,Skipping Class,Moderate,Parent Meeting
+D_f2f405,2015-11-04,Bullying,Severe,Suspension
+D_dd5cd6,2015-08-26,Inappropriate Language,Moderate,Detention
+D_b0de87,2016-04-13,Inappropriate Language,Moderate,Detention
+D_a28ef1,2015-12-08,Defiance,Moderate,Detention
+D_3b782b,2016-04-27,Disruption,Minor,Verbal Warning
+D_0d8055,2016-04-11,Disruption,Minor,Verbal Warning
+D_5f8ac7,2015-10-23,Fighting,Severe,Suspension
+D_3ee223,2015-12-15,Inappropriate Language,Moderate,Detention
+D_993083,2015-09-03,Inappropriate Language,Moderate,Detention
+D_978f25,2016-02-23,Skipping Class,Moderate,Parent Meeting
+D_c1e2b6,2016-05-03,Disruption,Minor,Verbal Warning
+D_0eb0b0,2015-10-28,Inappropriate Language,Moderate,Detention
+D_9da1a6,2016-02-03,Physical Aggression,Severe,Suspension
+D_6f85b7,2016-06-02,Disruption,Minor,Verbal Warning
+D_6b1acc,2016-01-25,Inappropriate Language,Moderate,Detention
+D_667bd5,2015-09-10,Disruption,Minor,Verbal Warning
+D_f99389,2015-09-04,Fighting,Severe,Suspension
+D_793351,2016-05-25,Skipping Class,Moderate,Parent Meeting
+D_2ac990,2015-08-28,Skipping Class,Moderate,Parent Meeting
+D_5e2115,2015-10-12,Dress Code Violation,Minor,Parent Contact
+D_99eef3,2016-04-04,Dress Code Violation,Minor,Parent Contact
+D_896607,2015-11-04,Disruption,Minor,Verbal Warning
+D_1669ec,2016-04-26,Inappropriate Language,Moderate,Detention
+D_e19d49,2015-12-09,Skipping Class,Moderate,Parent Meeting
+D_c5d778,2016-03-15,Skipping Class,Moderate,Parent Meeting
+D_d6c609,2015-10-20,Tardiness,Minor,Warning
+D_725f7e,2015-08-24,Defiance,Moderate,Detention
+D_3dab86,2015-11-04,Fighting,Severe,Suspension
+D_71ead4,2015-08-26,Physical Aggression,Severe,Suspension
+D_39da34,2016-03-15,Tardiness,Minor,Warning
+D_ef361f,2015-10-02,Tardiness,Minor,Warning
+D_c1e97a,2016-03-25,Physical Aggression,Severe,Suspension
+D_89fb39,2015-12-02,Tardiness,Minor,Warning
+D_a15cac,2015-11-13,Tardiness,Minor,Warning
+D_92f233,2016-05-20,Disruption,Minor,Verbal Warning
+D_ce2c51,2016-05-03,Dress Code Violation,Minor,Parent Contact
+D_06f3e0,2015-11-30,Dress Code Violation,Minor,Parent Contact
+D_684181,2016-01-25,Physical Aggression,Severe,Suspension
+D_7e63a8,2016-02-11,Skipping Class,Moderate,Parent Meeting
+D_b0ea97,2016-05-04,Dress Code Violation,Minor,Parent Contact
+D_737a51,2016-04-05,Inappropriate Language,Moderate,Detention
+D_95947a,2016-05-25,Skipping Class,Moderate,Parent Meeting
+D_a2749c,2015-09-09,Disruption,Minor,Verbal Warning
+D_1a1f22,2016-05-24,Physical Aggression,Severe,Suspension
+D_e41913,2016-02-09,Fighting,Severe,Suspension
+D_bcf4aa,2016-04-14,Dress Code Violation,Minor,Parent Contact
+D_cb4a78,2015-12-01,Bullying,Severe,Suspension
+D_f45e88,2015-11-04,Physical Aggression,Severe,Suspension
+D_daa2d3,2015-10-15,Dress Code Violation,Minor,Parent Contact
+D_3b0f46,2015-11-09,Disruption,Minor,Verbal Warning
+D_c8bd55,2016-03-14,Inappropriate Language,Moderate,Detention
+D_3aa6b3,2016-04-15,Inappropriate Language,Moderate,Detention
+D_8e78c8,2015-11-05,Dress Code Violation,Minor,Parent Contact
+D_13411f,2016-03-24,Fighting,Severe,Suspension
+D_60e60c,2016-04-04,Dress Code Violation,Minor,Parent Contact
+D_9aaa67,2015-11-06,Inappropriate Language,Moderate,Detention
+D_ff8fbd,2015-11-23,Tardiness,Minor,Warning
+D_765de5,2016-06-09,Inappropriate Language,Moderate,Detention
+D_56153f,2015-11-30,Tardiness,Minor,Warning
+D_15a0ad,2016-02-12,Physical Aggression,Severe,Suspension
+D_9ddd8d,2016-01-12,Skipping Class,Moderate,Parent Meeting
+D_cd6ba3,2015-09-24,Tardiness,Minor,Warning
+D_2c0aee,2016-01-22,Dress Code Violation,Minor,Parent Contact
+D_9f04cc,2016-02-17,Tardiness,Minor,Warning
+D_af7b26,2016-01-13,Tardiness,Minor,Warning
+D_814545,2016-03-02,Bullying,Severe,Suspension
+D_5235e5,2016-01-22,Tardiness,Minor,Warning
+D_5c39f7,2015-10-15,Bullying,Severe,Suspension
+D_aec6ce,2015-08-24,Inappropriate Language,Moderate,Detention
+D_04dbe6,2016-04-29,Tardiness,Minor,Warning
+D_9331c4,2016-04-28,Physical Aggression,Severe,Suspension
+D_6b94c1,2016-06-01,Skipping Class,Moderate,Parent Meeting
+D_3af8fb,2015-09-11,Physical Aggression,Severe,Suspension
+D_82c1df,2015-11-16,Bullying,Severe,Suspension
+D_c7b627,2015-10-07,Inappropriate Language,Moderate,Detention
+D_86a4f7,2015-10-21,Bullying,Severe,Suspension
+D_12a624,2016-06-08,Bullying,Severe,Suspension
+D_924f6d,2016-06-01,Fighting,Severe,Suspension
+D_0d53b7,2015-09-18,Dress Code Violation,Minor,Parent Contact
+D_877cdd,2016-05-02,Defiance,Moderate,Detention
+D_f0b584,2015-10-20,Dress Code Violation,Minor,Parent Contact
+D_863f72,2016-05-20,Bullying,Severe,Suspension
+D_8765f0,2015-12-03,Defiance,Moderate,Detention
+D_971600,2015-08-31,Inappropriate Language,Moderate,Detention
+D_5dcf6e,2016-04-20,Tardiness,Minor,Warning
+D_4b1fbb,2016-06-03,Fighting,Severe,Suspension
+D_5aa80b,2015-09-24,Skipping Class,Moderate,Parent Meeting
+D_7422ea,2016-06-08,Defiance,Moderate,Detention
+D_24287f,2015-11-24,Physical Aggression,Severe,Suspension
+D_0d326d,2015-10-22,Defiance,Moderate,Detention
+D_7d63d7,2015-10-01,Inappropriate Language,Moderate,Detention
+D_f8467c,2016-02-18,Defiance,Moderate,Detention
+D_0b660e,2016-02-19,Bullying,Severe,Suspension
+D_c6ba84,2016-05-31,Inappropriate Language,Moderate,Detention
+D_46dc65,2015-09-03,Disruption,Minor,Verbal Warning
+D_35ee4c,2016-01-11,Fighting,Severe,Suspension
+D_46a150,2015-09-28,Inappropriate Language,Moderate,Detention
+D_c22a65,2016-02-26,Fighting,Severe,Suspension
+D_a956d8,2015-08-31,Skipping Class,Moderate,Parent Meeting
+D_7b4cdc,2015-10-29,Tardiness,Minor,Warning
+D_394eed,2016-03-14,Defiance,Moderate,Detention
+D_c677bb,2015-11-20,Skipping Class,Moderate,Parent Meeting
+D_69a4ab,2016-05-20,Physical Aggression,Severe,Suspension
+D_a5c553,2015-11-09,Fighting,Severe,Suspension
+D_ed8076,2015-11-13,Defiance,Moderate,Detention
+D_6da6a3,2016-01-14,Bullying,Severe,Suspension
