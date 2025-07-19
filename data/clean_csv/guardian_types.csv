@@ -1,11 +1,11 @@
-guardian_type_id,type_name
+guardian_type_id,label
 1,Mother
 2,Father
 3,Step-Mother
 4,Step-Father
-5,Grandmother
-6,Grandfather
-7,Aunt
-8,Uncle
-9,Legal Guardian
+5,Legal Guardian
+6,Grandparent
+7,Aunt/Uncle
+8,Sibling
+9,Foster Parent
 10,Other

@@ -1,5 +1,14 @@
+# Python environment
 .venv/
 __pycache__/
+*.py[cod]
+
+# Environment variables
 .env
-*.pyc
-.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Data folders (optional)
+data/raw_csv/
+data/clean_csv/

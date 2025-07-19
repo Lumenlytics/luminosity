@@ -1,4 +1,4 @@
-period_id,name,start_time,end_time
+period_id,label,start_time,end_time
 1,Period 1,08:00:00,08:50:00
 2,Period 2,09:00:00,09:50:00
 3,Period 3,10:00:00,10:50:00
