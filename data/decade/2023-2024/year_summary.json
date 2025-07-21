@@ -1,0 +1,38 @@
+{
+  "year": 2023,
+  "label": "2023-2024",
+  "enrollment": {
+    "total": 552,
+    "target": 570,
+    "graduated": 40,
+    "new_kindergarten": 49,
+    "transfers_in": 8,
+    "transfers_out": 3
+  },
+  "staff": {
+    "total_teachers": 62,
+    "retirements": 2,
+    "resignations": 1,
+    "new_hires": 3,
+    "turnover_rate": 0.06
+  },
+  "curriculum": {
+    "changes": [
+      "Added: International Baccalaureate (Global curriculum)",
+      "Added: Dual Enrollment Math (College partnership)"
+    ],
+    "active_subjects": 20
+  },
+  "events": {
+    "major_events": [
+      "Academic excellence initiative",
+      "College partnerships"
+    ],
+    "technology_updates": [
+      "Learning management system"
+    ],
+    "fee_adjustments": {
+      "Tuition": 1.05
+    }
+  }
+}

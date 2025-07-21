@@ -1,0 +1,36 @@
+{
+  "year": 2017,
+  "label": "2017-2018",
+  "enrollment": {
+    "total": 506,
+    "target": 510,
+    "graduated": 37,
+    "new_kindergarten": 39,
+    "transfers_in": 5,
+    "transfers_out": 6
+  },
+  "staff": {
+    "total_teachers": 62,
+    "retirements": 0,
+    "resignations": 4,
+    "new_hires": 4,
+    "turnover_rate": 0.07
+  },
+  "curriculum": {
+    "changes": [
+      "Added: AP Calculus (Advanced mathematics option)",
+      "Added: Environmental Science (STEM expansion)"
+    ],
+    "active_subjects": 14
+  },
+  "events": {
+    "major_events": [
+      "New science lab",
+      "Department head changes"
+    ],
+    "technology_updates": [
+      "WiFi infrastructure upgrade"
+    ],
+    "fee_adjustments": {}
+  }
+}

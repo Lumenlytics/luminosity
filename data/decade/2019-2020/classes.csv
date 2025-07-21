@@ -1,0 +1,76 @@
+class_id,name,grade_level_id,teacher_id,classroom_id,period_id,term_id
+1,Homeroom,5,6,19,1,3
+2,Mathematics,5,11,20,2,4
+3,Reading,5,25,6,3,4
+4,Science,5,4,9,4,4
+5,Social Studies,5,72,11,5,4
+6,Homeroom,6,78,9,1,1
+7,Mathematics,6,23,4,2,3
+8,Reading,6,56,6,3,1
+9,Science,6,61,20,4,4
+10,Social Studies,6,41,6,5,3
+11,Mathematics,7,15,16,1,2
+12,English Language Arts,7,51,1,2,2
+13,Science,7,6,10,3,2
+14,Social Studies,7,48,7,4,1
+15,Art,7,54,1,5,4
+16,PE,7,76,3,6,2
+17,Technology,7,59,20,7,4
+18,Mathematics,8,64,18,1,1
+19,English Language Arts,8,23,19,2,4
+20,Science,8,56,14,3,4
+21,Social Studies,8,76,7,4,4
+22,Art,8,59,15,5,2
+23,PE,8,32,9,6,2
+24,Technology,8,51,20,7,3
+25,Mathematics,9,74,17,1,2
+26,English Language Arts,9,20,17,2,3
+27,Science,9,3,16,3,4
+28,Social Studies,9,51,15,4,2
+29,Art,9,38,6,5,4
+30,PE,9,41,11,6,1
+31,Technology,9,21,10,7,1
+32,Mathematics,10,16,16,1,4
+33,English,10,1,2,2,3
+34,Science,10,29,3,3,4
+35,Social Studies,10,56,10,4,1
+36,PE,10,70,4,5,2
+37,Elective,10,15,18,6,2
+38,Mathematics,11,20,3,1,2
+39,English,11,16,14,2,3
+40,Science,11,28,6,3,4
+41,Social Studies,11,48,16,4,1
+42,PE,11,26,1,5,1
+43,Elective,11,8,12,6,4
+44,Mathematics,12,56,15,1,2
+45,English,12,29,20,2,4
+46,Science,12,66,15,3,3
+47,Social Studies,12,67,5,4,2
+48,PE,12,43,15,5,1
+49,Elective,12,28,8,6,3
+50,Mathematics,13,74,3,1,2
+51,English,13,13,6,2,3
+52,Science,13,3,12,3,2
+53,Social Studies,13,66,20,4,4
+54,PE,13,76,14,5,1
+55,Elective,13,15,14,6,4
+56,Homeroom,4,41,7,1,1
+57,Mathematics,4,60,2,2,1
+58,Reading,4,34,8,3,4
+59,Science,4,25,6,4,1
+60,Social Studies,4,44,4,5,3
+61,Homeroom,3,75,6,1,1
+62,Mathematics,3,35,8,2,4
+63,Reading,3,22,7,3,4
+64,Science,3,33,5,4,2
+65,Social Studies,3,23,16,5,1
+66,Homeroom,2,27,11,1,3
+67,Mathematics,2,76,17,2,3
+68,Reading,2,29,18,3,1
+69,Science,2,44,4,4,1
+70,Social Studies,2,14,12,5,3
+71,Homeroom,1,32,1,1,1
+72,Mathematics,1,73,13,2,3
+73,Reading,1,72,7,3,4
+74,Science,1,23,11,4,1
+75,Social Studies,1,37,18,5,4

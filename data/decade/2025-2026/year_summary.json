@@ -1,0 +1,35 @@
+{
+  "year": 2025,
+  "label": "2025-2026",
+  "enrollment": {
+    "total": 584,
+    "target": 585,
+    "graduated": 35,
+    "new_kindergarten": 51,
+    "transfers_in": 8,
+    "transfers_out": 2
+  },
+  "staff": {
+    "total_teachers": 62,
+    "retirements": 0,
+    "resignations": 3,
+    "new_hires": 3,
+    "turnover_rate": 0.05
+  },
+  "curriculum": {
+    "changes": [],
+    "active_subjects": 20
+  },
+  "events": {
+    "major_events": [
+      "10-year anniversary",
+      "Alumni network launch"
+    ],
+    "technology_updates": [
+      "Next-gen learning tools"
+    ],
+    "fee_adjustments": {
+      "Tuition": 1.03
+    }
+  }
+}

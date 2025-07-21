@@ -1,0 +1,358 @@
+{
+  "2016": {
+    "year": 2016,
+    "label": "2016-2017",
+    "enrollment": {
+      "total": 505,
+      "target": 505,
+      "graduated": 38,
+      "new_kindergarten": 42,
+      "transfers_in": 7,
+      "transfers_out": 6
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 0,
+      "resignations": 4,
+      "new_hires": 5,
+      "turnover_rate": 0.08
+    },
+    "curriculum": {
+      "changes": [
+        "Added: Digital Literacy (Technology integration begins)",
+        "Could not find subject: Old World History"
+      ],
+      "active_subjects": 12
+    },
+    "events": {
+      "major_events": [
+        "Technology initiative launch"
+      ],
+      "technology_updates": [
+        "Tablet program pilot"
+      ],
+      "fee_adjustments": {
+        "Technology Fee": 1.1
+      }
+    }
+  },
+  "2017": {
+    "year": 2017,
+    "label": "2017-2018",
+    "enrollment": {
+      "total": 506,
+      "target": 510,
+      "graduated": 37,
+      "new_kindergarten": 39,
+      "transfers_in": 5,
+      "transfers_out": 6
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 0,
+      "resignations": 4,
+      "new_hires": 4,
+      "turnover_rate": 0.07
+    },
+    "curriculum": {
+      "changes": [
+        "Added: AP Calculus (Advanced mathematics option)",
+        "Added: Environmental Science (STEM expansion)"
+      ],
+      "active_subjects": 14
+    },
+    "events": {
+      "major_events": [
+        "New science lab",
+        "Department head changes"
+      ],
+      "technology_updates": [
+        "WiFi infrastructure upgrade"
+      ],
+      "fee_adjustments": {}
+    }
+  },
+  "2018": {
+    "year": 2018,
+    "label": "2018-2019",
+    "enrollment": {
+      "total": 513,
+      "target": 515,
+      "graduated": 37,
+      "new_kindergarten": 44,
+      "transfers_in": 4,
+      "transfers_out": 4
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 0,
+      "resignations": 5,
+      "new_hires": 5,
+      "turnover_rate": 0.09
+    },
+    "curriculum": {
+      "changes": [],
+      "active_subjects": 14
+    },
+    "events": {
+      "major_events": [
+        "Growing neighborhood enrollment"
+      ],
+      "technology_updates": [
+        "Tablet program expansion"
+      ],
+      "fee_adjustments": {}
+    }
+  },
+  "2019": {
+    "year": 2019,
+    "label": "2019-2020",
+    "enrollment": {
+      "total": 527,
+      "target": 525,
+      "graduated": 38,
+      "new_kindergarten": 48,
+      "transfers_in": 8,
+      "transfers_out": 4
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 1,
+      "resignations": 2,
+      "new_hires": 3,
+      "turnover_rate": 0.06
+    },
+    "curriculum": {
+      "changes": [
+        "Added: Robotics (STEM Academy launch)",
+        "Added: Mandarin Chinese (Language diversity)"
+      ],
+      "active_subjects": 16
+    },
+    "events": {
+      "major_events": [
+        "Facility expansion",
+        "New classrooms"
+      ],
+      "technology_updates": [
+        "1:1 tablet deployment"
+      ],
+      "fee_adjustments": {
+        "Technology Fee": 1.25
+      }
+    }
+  },
+  "2020": {
+    "year": 2020,
+    "label": "2020-2021",
+    "enrollment": {
+      "total": 522,
+      "target": 495,
+      "graduated": 42,
+      "new_kindergarten": 35,
+      "transfers_in": 8,
+      "transfers_out": 6
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 2,
+      "resignations": 5,
+      "new_hires": 7,
+      "turnover_rate": 0.12
+    },
+    "curriculum": {
+      "changes": [],
+      "active_subjects": 16
+    },
+    "events": {
+      "major_events": [
+        "COVID-19 pandemic",
+        "Hybrid learning model"
+      ],
+      "technology_updates": [
+        "Remote learning platform"
+      ],
+      "fee_adjustments": {
+        "Technology Fee": 1.5
+      }
+    }
+  },
+  "2021": {
+    "year": 2021,
+    "label": "2021-2022",
+    "enrollment": {
+      "total": 528,
+      "target": 540,
+      "graduated": 43,
+      "new_kindergarten": 52,
+      "transfers_in": 3,
+      "transfers_out": 6
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 1,
+      "resignations": 3,
+      "new_hires": 4,
+      "turnover_rate": 0.08
+    },
+    "curriculum": {
+      "changes": [],
+      "active_subjects": 16
+    },
+    "events": {
+      "major_events": [
+        "Return to in-person",
+        "Academic support programs"
+      ],
+      "technology_updates": [
+        "Health screening systems"
+      ],
+      "fee_adjustments": {}
+    }
+  },
+  "2022": {
+    "year": 2022,
+    "label": "2022-2023",
+    "enrollment": {
+      "total": 538,
+      "target": 555,
+      "graduated": 37,
+      "new_kindergarten": 48,
+      "transfers_in": 5,
+      "transfers_out": 6
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 1,
+      "resignations": 3,
+      "new_hires": 4,
+      "turnover_rate": 0.07
+    },
+    "curriculum": {
+      "changes": [
+        "Added: Cybersecurity (Modern technology focus)",
+        "Added: Data Science (21st century mathematics)"
+      ],
+      "active_subjects": 18
+    },
+    "events": {
+      "major_events": [
+        "Teacher professional development",
+        "New evaluation system"
+      ],
+      "technology_updates": [
+        "Laptop replacement program"
+      ],
+      "fee_adjustments": {
+        "Technology Fee": 1.3,
+        "Tuition": 1.1
+      }
+    }
+  },
+  "2023": {
+    "year": 2023,
+    "label": "2023-2024",
+    "enrollment": {
+      "total": 552,
+      "target": 570,
+      "graduated": 40,
+      "new_kindergarten": 49,
+      "transfers_in": 8,
+      "transfers_out": 3
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 2,
+      "resignations": 1,
+      "new_hires": 3,
+      "turnover_rate": 0.06
+    },
+    "curriculum": {
+      "changes": [
+        "Added: International Baccalaureate (Global curriculum)",
+        "Added: Dual Enrollment Math (College partnership)"
+      ],
+      "active_subjects": 20
+    },
+    "events": {
+      "major_events": [
+        "Academic excellence initiative",
+        "College partnerships"
+      ],
+      "technology_updates": [
+        "Learning management system"
+      ],
+      "fee_adjustments": {
+        "Tuition": 1.05
+      }
+    }
+  },
+  "2024": {
+    "year": 2024,
+    "label": "2024-2025",
+    "enrollment": {
+      "total": 562,
+      "target": 580,
+      "graduated": 37,
+      "new_kindergarten": 50,
+      "transfers_in": 4,
+      "transfers_out": 7
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 2,
+      "resignations": 1,
+      "new_hires": 3,
+      "turnover_rate": 0.05
+    },
+    "curriculum": {
+      "changes": [],
+      "active_subjects": 20
+    },
+    "events": {
+      "major_events": [
+        "Science lab renovation",
+        "Library modernization"
+      ],
+      "technology_updates": [
+        "AI tutoring pilot"
+      ],
+      "fee_adjustments": {}
+    }
+  },
+  "2025": {
+    "year": 2025,
+    "label": "2025-2026",
+    "enrollment": {
+      "total": 584,
+      "target": 585,
+      "graduated": 35,
+      "new_kindergarten": 51,
+      "transfers_in": 8,
+      "transfers_out": 2
+    },
+    "staff": {
+      "total_teachers": 62,
+      "retirements": 0,
+      "resignations": 3,
+      "new_hires": 3,
+      "turnover_rate": 0.05
+    },
+    "curriculum": {
+      "changes": [],
+      "active_subjects": 20
+    },
+    "events": {
+      "major_events": [
+        "10-year anniversary",
+        "Alumni network launch"
+      ],
+      "technology_updates": [
+        "Next-gen learning tools"
+      ],
+      "fee_adjustments": {
+        "Tuition": 1.03
+      }
+    }
+  }
+}

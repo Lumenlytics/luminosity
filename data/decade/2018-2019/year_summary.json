@@ -1,0 +1,32 @@
+{
+  "year": 2018,
+  "label": "2018-2019",
+  "enrollment": {
+    "total": 513,
+    "target": 515,
+    "graduated": 37,
+    "new_kindergarten": 44,
+    "transfers_in": 4,
+    "transfers_out": 4
+  },
+  "staff": {
+    "total_teachers": 62,
+    "retirements": 0,
+    "resignations": 5,
+    "new_hires": 5,
+    "turnover_rate": 0.09
+  },
+  "curriculum": {
+    "changes": [],
+    "active_subjects": 14
+  },
+  "events": {
+    "major_events": [
+      "Growing neighborhood enrollment"
+    ],
+    "technology_updates": [
+      "Tablet program expansion"
+    ],
+    "fee_adjustments": {}
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "year": 2024,
+  "label": "2024-2025",
+  "enrollment": {
+    "total": 562,
+    "target": 580,
+    "graduated": 37,
+    "new_kindergarten": 50,
+    "transfers_in": 4,
+    "transfers_out": 7
+  },
+  "staff": {
+    "total_teachers": 62,
+    "retirements": 2,
+    "resignations": 1,
+    "new_hires": 3,
+    "turnover_rate": 0.05
+  },
+  "curriculum": {
+    "changes": [],
+    "active_subjects": 20
+  },
+  "events": {
+    "major_events": [
+      "Science lab renovation",
+      "Library modernization"
+    ],
+    "technology_updates": [
+      "AI tutoring pilot"
+    ],
+    "fee_adjustments": {}
+  }
+}

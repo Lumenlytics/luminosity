@@ -1,0 +1,81 @@
+class_id,name,grade_level_id,teacher_id,classroom_id,period_id,term_id
+1,Mathematics,9,62,16,1,4
+2,English Language Arts,9,48,20,2,3
+3,Science,9,21,1,3,4
+4,Social Studies,9,78,19,4,4
+5,Art,9,85,11,5,4
+6,PE,9,34,9,6,2
+7,Technology,9,73,2,7,4
+8,Mathematics,10,74,14,1,2
+9,English,10,25,19,2,1
+10,Science,10,80,9,3,2
+11,Social Studies,10,62,9,4,3
+12,PE,10,65,10,5,3
+13,Elective,10,8,7,6,4
+14,Mathematics,11,67,2,1,4
+15,English,11,74,13,2,1
+16,Science,11,8,15,3,2
+17,Social Studies,11,20,2,4,1
+18,PE,11,11,6,5,4
+19,Elective,11,77,6,6,2
+20,Mathematics,12,27,2,1,1
+21,English,12,48,12,2,4
+22,Science,12,43,4,3,1
+23,Social Studies,12,5,18,4,3
+24,PE,12,26,7,5,2
+25,Elective,12,21,15,6,1
+26,Mathematics,13,56,8,1,2
+27,English,13,73,20,2,4
+28,Science,13,48,19,3,4
+29,Social Studies,13,44,15,4,2
+30,PE,13,81,12,5,3
+31,Elective,13,74,17,6,3
+32,Mathematics,8,68,3,1,3
+33,English Language Arts,8,77,9,2,2
+34,Science,8,74,1,3,1
+35,Social Studies,8,74,5,4,3
+36,Art,8,87,6,5,3
+37,PE,8,79,19,6,1
+38,Technology,8,14,16,7,2
+39,Mathematics,7,62,19,1,2
+40,English Language Arts,7,18,9,2,1
+41,Science,7,18,15,3,4
+42,Social Studies,7,56,18,4,4
+43,Art,7,25,5,5,1
+44,PE,7,64,2,6,2
+45,Technology,7,84,11,7,3
+46,Homeroom,6,64,6,1,2
+47,Mathematics,6,56,1,2,4
+48,Reading,6,13,4,3,2
+49,Science,6,26,16,4,3
+50,Social Studies,6,54,7,5,1
+51,Homeroom,5,64,15,1,4
+52,Mathematics,5,80,15,2,4
+53,Reading,5,56,3,3,3
+54,Science,5,65,5,4,1
+55,Social Studies,5,91,6,5,4
+56,Homeroom,4,81,2,1,1
+57,Mathematics,4,14,1,2,4
+58,Reading,4,59,11,3,2
+59,Science,4,81,6,4,4
+60,Social Studies,4,72,8,5,4
+61,Homeroom,3,18,11,1,4
+62,Mathematics,3,18,14,2,4
+63,Reading,3,67,19,3,4
+64,Science,3,96,13,4,2
+65,Social Studies,3,25,16,5,2
+66,Homeroom,3,11,1,1,4
+67,Mathematics,3,4,13,2,3
+68,Reading,3,72,12,3,1
+69,Science,3,65,11,4,1
+70,Social Studies,3,86,17,5,3
+71,Homeroom,2,93,17,1,2
+72,Mathematics,2,96,7,2,2
+73,Reading,2,77,8,3,1
+74,Science,2,18,5,4,4
+75,Social Studies,2,29,19,5,3
+76,Homeroom,1,72,3,1,3
+77,Mathematics,1,44,19,2,1
+78,Reading,1,11,19,3,1
+79,Science,1,62,10,4,4
+80,Social Studies,1,11,10,5,4
