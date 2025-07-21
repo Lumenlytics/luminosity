@@ -40,7 +40,7 @@ LUMINOSITY/
 
 ## 🔑 Environment Variables (.env)
 SUPABASE_URL=https://wzcegcaedtuyftxqmnsq.supabase.co
-SUPABASE_KEY=sb_secret_XbDMQ2EVsFVzvjEvssEqnQ_8oJxz5UZ
+SUPABASE_KEY=[redacted]
 
 ## 🚀 How to Run
 ```bash
