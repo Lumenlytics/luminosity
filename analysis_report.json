@@ -1,0 +1,684 @@
+{
+  "analysis_date": "2025-07-21T13:00:17.976187",
+  "baseline_data_analysis": {
+    "data_overview": {
+      "assignments": {
+        "record_count": 1540,
+        "column_count": 7,
+        "columns": [
+          "assignment_id",
+          "class_id",
+          "title",
+          "due_date",
+          "points_possible",
+          "category",
+          "term_id"
+        ],
+        "memory_usage_mb": 0.3
+      },
+      "attendance": {
+        "record_count": 91000,
+        "column_count": 4,
+        "columns": [
+          "attendance_id",
+          "student_id",
+          "date",
+          "status"
+        ],
+        "memory_usage_mb": 15.7
+      },
+      "classes": {
+        "record_count": 77,
+        "column_count": 7,
+        "columns": [
+          "class_id",
+          "name",
+          "grade_level_id",
+          "teacher_id",
+          "classroom_id",
+          "period_id",
+          "term_id"
+        ],
+        "memory_usage_mb": 0.01
+      },
+      "classrooms": {
+        "record_count": 20,
+        "column_count": 3,
+        "columns": [
+          "classroom_id",
+          "room_number",
+          "capacity"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "departments": {
+        "record_count": 9,
+        "column_count": 2,
+        "columns": [
+          "department_id",
+          "name"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "discipline_reports": {
+        "record_count": 200,
+        "column_count": 6,
+        "columns": [
+          "discipline_report_id",
+          "student_id",
+          "date",
+          "severity",
+          "type",
+          "action_taken"
+        ],
+        "memory_usage_mb": 0.06
+      },
+      "enrollments": {
+        "record_count": 2956,
+        "column_count": 3,
+        "columns": [
+          "enrollment_id",
+          "student_id",
+          "class_id"
+        ],
+        "memory_usage_mb": 0.21
+      },
+      "fee_types": {
+        "record_count": 5,
+        "column_count": 4,
+        "columns": [
+          "fee_type_id",
+          "name",
+          "amount",
+          "frequency"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "grades": {
+        "record_count": 59120,
+        "column_count": 6,
+        "columns": [
+          "grade_id",
+          "student_id",
+          "assignment_id",
+          "score",
+          "submitted_on",
+          "term_id"
+        ],
+        "memory_usage_mb": 5.58
+      },
+      "grade_levels": {
+        "record_count": 13,
+        "column_count": 2,
+        "columns": [
+          "grade_level_id",
+          "label"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "guardians": {
+        "record_count": 681,
+        "column_count": 5,
+        "columns": [
+          "guardian_id",
+          "first_name",
+          "last_name",
+          "email",
+          "phone"
+        ],
+        "memory_usage_mb": 0.17
+      },
+      "guardian_types": {
+        "record_count": 10,
+        "column_count": 2,
+        "columns": [
+          "guardian_type_id",
+          "label"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "payments": {
+        "record_count": 300,
+        "column_count": 5,
+        "columns": [
+          "payment_id",
+          "guardian_id",
+          "fee_type_id",
+          "amount_paid",
+          "payment_date"
+        ],
+        "memory_usage_mb": 0.04
+      },
+      "periods": {
+        "record_count": 7,
+        "column_count": 4,
+        "columns": [
+          "period_id",
+          "label",
+          "start_time",
+          "end_time"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "school_calendar": {
+        "record_count": 285,
+        "column_count": 7,
+        "columns": [
+          "calendar_date",
+          "day_type",
+          "label",
+          "is_school_day",
+          "is_holiday",
+          "holiday_name",
+          "comment"
+        ],
+        "memory_usage_mb": 0.06
+      },
+      "school_metadata": {
+        "record_count": 1,
+        "column_count": 8,
+        "columns": [
+          "school_name",
+          "address",
+          "city",
+          "state",
+          "zip",
+          "phone",
+          "email",
+          "principal"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "school_years": {
+        "record_count": 1,
+        "column_count": 3,
+        "columns": [
+          "school_year_id",
+          "start_date",
+          "end_date"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "standardized_tests": {
+        "record_count": 500,
+        "column_count": 7,
+        "columns": [
+          "test_id",
+          "student_id",
+          "test_name",
+          "test_date",
+          "score",
+          "subject",
+          "percentile"
+        ],
+        "memory_usage_mb": 0.12
+      },
+      "students": {
+        "record_count": 500,
+        "column_count": 6,
+        "columns": [
+          "student_id",
+          "first_name",
+          "last_name",
+          "gender",
+          "date_of_birth",
+          "grade_level_id"
+        ],
+        "memory_usage_mb": 0.11
+      },
+      "student_grade_history": {
+        "record_count": 500,
+        "column_count": 5,
+        "columns": [
+          "student_grade_history_id",
+          "student_id",
+          "school_year_id",
+          "gpa",
+          "grade_level_id"
+        ],
+        "memory_usage_mb": 0.04
+      },
+      "student_guardians": {
+        "record_count": 681,
+        "column_count": 3,
+        "columns": [
+          "student_id",
+          "guardian_id",
+          "guardian_type_id"
+        ],
+        "memory_usage_mb": 0.02
+      },
+      "subjects": {
+        "record_count": 11,
+        "column_count": 3,
+        "columns": [
+          "subject_id",
+          "name",
+          "department_id"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "teachers": {
+        "record_count": 61,
+        "column_count": 4,
+        "columns": [
+          "teacher_id",
+          "first_name",
+          "last_name",
+          "department_id"
+        ],
+        "memory_usage_mb": 0.01
+      },
+      "teacher_subjects": {
+        "record_count": 61,
+        "column_count": 3,
+        "columns": [
+          "teacher_id",
+          "subject_id",
+          "department_id"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "terms": {
+        "record_count": 4,
+        "column_count": 5,
+        "columns": [
+          "term_id",
+          "label",
+          "start_date",
+          "end_date",
+          "school_year_id"
+        ],
+        "memory_usage_mb": 0.0
+      },
+      "summary": {
+        "total_tables": 25,
+        "total_records": 158543,
+        "total_memory_mb": 22.43
+      }
+    },
+    "student_demographics": {
+      "total_students": 500,
+      "gender_distribution": {
+        "F": 261,
+        "M": 239
+      },
+      "grade_distribution": {
+        "Kindergarten": 39,
+        "1st Grade": 39,
+        "2nd Grade": 39,
+        "3rd Grade": 39,
+        "4th Grade": 39,
+        "5th Grade": 39,
+        "6th Grade": 38,
+        "7th Grade": 38,
+        "8th Grade": 38,
+        "9th Grade": 38,
+        "10th Grade": 38,
+        "11th Grade": 38,
+        "12th Grade": 38
+      },
+      "age_analysis": {
+        "mean_age": 21.5,
+        "min_age": 14.6,
+        "max_age": 28.5,
+        "age_by_grade": {
+          "1": 15.6,
+          "2": 16.4,
+          "3": 17.5,
+          "4": 18.5,
+          "5": 19.6,
+          "6": 20.6,
+          "7": 21.7,
+          "8": 22.7,
+          "9": 23.5,
+          "10": 24.6,
+          "11": 25.6,
+          "12": 26.5,
+          "13": 27.5
+        }
+      },
+      "name_patterns": {
+        "unique_first_names": 255,
+        "unique_last_names": 315,
+        "most_common_first_names": {
+          "David": 12,
+          "Michael": 9,
+          "Jason": 8,
+          "John": 8,
+          "Lisa": 8
+        },
+        "most_common_last_names": {
+          "Smith": 14,
+          "Johnson": 11,
+          "Williams": 10,
+          "Jones": 9,
+          "Miller": 7
+        }
+      }
+    },
+    "academic_structure": {
+      "classes_overview": {
+        "total_classes": 77,
+        "classes_by_grade": {
+          "1": 5,
+          "2": 5,
+          "3": 5,
+          "4": 5,
+          "5": 5,
+          "6": 5,
+          "7": 7,
+          "8": 7,
+          "9": 7,
+          "10": 7,
+          "11": 7,
+          "12": 7,
+          "13": 5
+        },
+        "classes_by_period": {
+          "1": 37,
+          "2": 7,
+          "3": 7,
+          "4": 7,
+          "5": 7,
+          "6": 6,
+          "7": 6
+        },
+        "classes_by_term": {
+          "1": 16,
+          "2": 21,
+          "3": 15,
+          "4": 25
+        }
+      },
+      "enrollment_patterns": {
+        "total_enrollments": 2956,
+        "unique_students_enrolled": 500,
+        "unique_classes_with_enrollment": 77,
+        "avg_enrollments_per_student": 5.9
+      },
+      "subject_distribution": {
+        "total_subjects": 11,
+        "subjects_by_department": {}
+      },
+      "teacher_assignments": {
+        "total_teachers": 61,
+        "teachers_with_classes": "43",
+        "avg_classes_per_teacher": 1.8,
+        "max_classes_per_teacher": "6",
+        "min_classes_per_teacher": "1"
+      }
+    },
+    "performance_patterns": {
+      "grades_analysis": {
+        "total_grades": 59120,
+        "unique_students_with_grades": 500,
+        "unique_assignments": 1540,
+        "score_statistics": {
+          "mean_score": 36.0,
+          "median_score": 25.0,
+          "min_score": "0",
+          "max_score": "100",
+          "std_score": 26.2
+        },
+        "percentage_statistics": {
+          "mean_percentage": 85.1,
+          "median_percentage": 86.9,
+          "grades_90_plus": 22358,
+          "grades_below_70": 2978
+        }
+      },
+      "attendance_patterns": {
+        "total_attendance_records": 91000,
+        "unique_students_tracked": 500,
+        "status_distribution": {
+          "Present": 84000,
+          "Tardy": 2500,
+          "Excused": 2266,
+          "Absent": 2234
+        },
+        "attendance_rates": {
+          "present_rate": 92.3,
+          "absent_rate": 2.5,
+          "tardy_rate": 2.7
+        }
+      },
+      "assignment_distribution": {
+        "total_assignments": 1540,
+        "assignments_by_category": {
+          "Homework": 627,
+          "Quiz": 384,
+          "Test": 308,
+          "Project": 163,
+          "Participation": 58
+        },
+        "points_distribution": {
+          "mean_points": 42.2,
+          "median_points": 31.0,
+          "min_points": "5",
+          "max_points": "100"
+        }
+      }
+    },
+    "teacher_distribution": {
+      "total_teachers": 61,
+      "department_distribution": {
+        "1": 7,
+        "2": 7,
+        "3": 7,
+        "4": 7,
+        "5": 7,
+        "6": 7,
+        "7": 7,
+        "8": 6,
+        "9": 6
+      },
+      "name_patterns": {
+        "unique_first_names": 54,
+        "unique_last_names": 55
+      },
+      "department_distribution_named": {
+        "Mathematics": 7,
+        "Science": 7,
+        "English": 7,
+        "Social Studies": 7,
+        "Physical Education": 7,
+        "Fine Arts": 7,
+        "Technology": 7,
+        "Foreign Language": 6,
+        "Electives": 6
+      }
+    },
+    "financial_patterns": {
+      "payments_analysis": {
+        "total_payments": 300,
+        "total_amount_paid": "497550",
+        "unique_guardians_paying": 224,
+        "payment_statistics": {
+          "mean_payment": 1658.5,
+          "median_payment": 150.0,
+          "min_payment": "50",
+          "max_payment": "8000"
+        }
+      },
+      "fee_structure": {
+        "total_fee_types": 5,
+        "fee_types_breakdown": [
+          {
+            "name": "Tech Fee",
+            "amount": 100,
+            "frequency": "One Time"
+          },
+          {
+            "name": "Field Trip Fund",
+            "amount": 50,
+            "frequency": "One Time"
+          },
+          {
+            "name": "Lunch Plan",
+            "amount": 400,
+            "frequency": "Monthly"
+          },
+          {
+            "name": "Tuition",
+            "amount": 8000,
+            "frequency": "Annual"
+          },
+          {
+            "name": "Activity Fee",
+            "amount": 75,
+            "frequency": "Per Term"
+          }
+        ]
+      }
+    },
+    "data_quality": {
+      "referential_integrity": {
+        "issues_found": 0,
+        "issues": [],
+        "status": "PASS"
+      },
+      "data_completeness": {
+        "issues_found": 3,
+        "issues": [
+          "school_calendar.label: 63.9% null values",
+          "school_calendar.holiday_name: 97.2% null values",
+          "school_calendar.comment: 63.9% null values"
+        ],
+        "status": "WARN"
+      },
+      "data_consistency": {
+        "issues_found": 1,
+        "issues": [
+          "Age-grade mismatches: 500 students"
+        ],
+        "status": "WARN"
+      },
+      "business_rule_compliance": {
+        "issues_found": 1,
+        "issues": [
+          "Absence rate 2.5% outside expected 5% range"
+        ],
+        "status": "WARN"
+      },
+      "quality_score": 86.0
+    }
+  },
+  "data_validation_results": {},
+  "decade_expansion_plan": {
+    "baseline_summary": {
+      "data_ready_for_expansion": false,
+      "baseline_year": "2015-2016",
+      "total_students": 500,
+      "total_teachers": 61,
+      "total_classes": 77,
+      "data_quality_score": 0,
+      "critical_issues": [
+        "Referential integrity failures must be fixed"
+      ]
+    },
+    "expansion_strategy": {
+      "approach": "gradual_growth",
+      "target_enrollment_by_year": {
+        "2016": 510,
+        "2017": 520,
+        "2018": 530,
+        "2019": 540,
+        "2020": 513,
+        "2021": 554,
+        "2022": 598,
+        "2023": 603,
+        "2024": 609,
+        "2025": 615
+      },
+      "teacher_scaling_plan": {
+        "2016": 63,
+        "2017": 65,
+        "2018": 66,
+        "2019": 67,
+        "2020": 64,
+        "2021": 69,
+        "2022": 74,
+        "2023": 75,
+        "2024": 76,
+        "2025": 76
+      },
+      "curriculum_evolution": {},
+      "infrastructure_needs": {}
+    },
+    "data_migration_plan": {
+      "phase_1": "Backup current data and create decade schema",
+      "phase_2": "Generate years 2016-2020 (including COVID impact)",
+      "phase_3": "Generate years 2021-2025 (recovery and growth)",
+      "phase_4": "Validate complete decade and optimize performance",
+      "estimated_timeline": "2-3 weeks",
+      "resource_requirements": {
+        "storage": "3-5 GB additional space",
+        "processing_time": "4-6 hours for complete generation",
+        "validation_time": "1-2 hours per year"
+      }
+    },
+    "quality_assurance_plan": {
+      "validation_checkpoints": [
+        "After each year generation",
+        "After 5-year milestone",
+        "Final comprehensive validation"
+      ],
+      "key_metrics_to_track": [
+        "Student progression accuracy",
+        "Teacher retention realism",
+        "Grade distribution consistency",
+        "Attendance pattern compliance",
+        "Financial data accuracy"
+      ],
+      "automated_tests": [
+        "Referential integrity checks",
+        "Business rule compliance",
+        "Statistical distribution validation",
+        "Longitudinal consistency checks"
+      ]
+    },
+    "timeline": {
+      "week_1": [
+        "Complete current data analysis",
+        "Set up decade generation environment",
+        "Create backup of current data"
+      ],
+      "week_2": [
+        "Generate and validate years 2016-2018",
+        "Implement quality assurance framework",
+        "Test single-year generation pipeline"
+      ],
+      "week_3": [
+        "Generate years 2019-2022 (including COVID)",
+        "Validate major transitions and events",
+        "Optimize performance for large datasets"
+      ],
+      "week_4": [
+        "Generate years 2023-2025",
+        "Complete final validation",
+        "Deploy enhanced dashboard and analytics"
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "Data Quality",
+      "recommendation": "Address data quality issues before decade expansion",
+      "details": "Fix referential integrity and consistency issues identified in validation"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Performance",
+      "recommendation": "Implement database indexing strategy",
+      "details": "Large dataset will benefit from proper indexing for decade queries"
+    },
+    {
+      "priority": "LOW",
+      "category": "Expansion",
+      "recommendation": "Student population ready for realistic decade expansion",
+      "details": "Current population size supports believable 10-year growth patterns"
+    }
+  ]
+}
