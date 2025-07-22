@@ -1,0 +1,52 @@
+discipline_report_id,student_id,date,severity,type,action_taken
+DISC000001,260,2016-09-21,Minor,Other,Detention
+DISC000002,367,2017-04-13,Minor,Fighting,Detention
+DISC000003,139,2016-11-09,Major,Tardiness,Parent Conference
+DISC000004,32,2017-04-05,Minor,Other,Detention
+DISC000005,32,2016-10-13,Minor,Disrespect,Verbal Warning
+DISC000006,506,2017-04-30,Major,Other,Parent Conference
+DISC000007,506,2017-03-11,Major,Disruption,In-School Suspension
+DISC000008,506,2016-12-03,Minor,Academic Dishonesty,Detention
+DISC000009,398,2017-01-11,Minor,Academic Dishonesty,Verbal Warning
+DISC000010,398,2017-02-05,Minor,Tardiness,Detention
+DISC000011,267,2017-02-28,Minor,Fighting,Parent Contact
+DISC000012,267,2017-06-03,Major,Vandalism,Office Referral
+DISC000013,267,2017-04-24,Minor,Disruption,Detention
+DISC000014,238,2017-02-14,Major,Tardiness,Office Referral
+DISC000015,238,2016-11-06,Severe,Tardiness,Behavior Plan
+DISC000016,376,2016-11-28,Minor,Tardiness,Parent Contact
+DISC000017,244,2016-10-18,Minor,Disruption,Parent Contact
+DISC000018,244,2016-09-12,Minor,Vandalism,Detention
+DISC000019,244,2016-09-18,Major,Academic Dishonesty,Parent Conference
+DISC000020,396,2016-10-14,Minor,Fighting,Detention
+DISC000021,396,2016-12-25,Minor,Academic Dishonesty,Detention
+DISC000022,193,2017-04-10,Minor,Other,Parent Contact
+DISC000023,193,2017-02-11,Minor,Academic Dishonesty,Detention
+DISC000024,450,2017-03-13,Minor,Academic Dishonesty,Detention
+DISC000025,226,2017-05-06,Minor,Academic Dishonesty,Verbal Warning
+DISC000026,226,2017-01-11,Minor,Academic Dishonesty,Detention
+DISC000027,226,2016-12-24,Minor,Academic Dishonesty,Verbal Warning
+DISC000028,142,2017-04-09,Minor,Academic Dishonesty,Verbal Warning
+DISC000029,142,2017-03-24,Minor,Fighting,Detention
+DISC000030,540,2016-10-21,Minor,Disruption,Parent Contact
+DISC000031,385,2016-10-22,Minor,Fighting,Detention
+DISC000032,385,2017-02-24,Major,Disruption,Office Referral
+DISC000033,58,2016-12-23,Minor,Fighting,Parent Contact
+DISC000034,58,2017-04-17,Major,Vandalism,In-School Suspension
+DISC000035,58,2017-01-06,Minor,Other,Parent Contact
+DISC000036,121,2016-12-17,Minor,Fighting,Parent Contact
+DISC000037,121,2017-01-16,Minor,Disrespect,Parent Contact
+DISC000038,121,2016-08-29,Minor,Disruption,Detention
+DISC000039,204,2017-03-15,Minor,Disrespect,Parent Contact
+DISC000040,204,2017-04-10,Minor,Academic Dishonesty,Verbal Warning
+DISC000041,327,2017-05-08,Major,Disrespect,Parent Conference
+DISC000042,327,2017-05-16,Minor,Tardiness,Verbal Warning
+DISC000043,327,2016-10-21,Minor,Disruption,Detention
+DISC000044,415,2016-09-17,Major,Disrespect,Office Referral
+DISC000045,444,2016-11-26,Severe,Disruption,Out-of-School Suspension
+DISC000046,444,2017-03-10,Major,Vandalism,Parent Conference
+DISC000047,444,2017-03-31,Minor,Academic Dishonesty,Verbal Warning
+DISC000048,280,2016-09-16,Minor,Vandalism,Detention
+DISC000049,293,2017-02-05,Minor,Academic Dishonesty,Verbal Warning
+DISC000050,293,2017-01-06,Major,Disruption,Office Referral
+DISC000051,293,2016-11-09,Minor,Vandalism,Parent Contact

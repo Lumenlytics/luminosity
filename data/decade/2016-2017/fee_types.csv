@@ -1,0 +1,6 @@
+fee_type_id,name,amount,frequency
+1,Tech Fee,100,One Time
+2,Field Trip Fund,50,One Time
+3,Lunch Plan,400,Monthly
+4,Tuition,8000,Annual
+5,Activity Fee,75,Per Term

@@ -1,0 +1,58 @@
+discipline_report_id,student_id,date,severity,type,action_taken
+DISC000001,1,2019-12-28,Minor,Other,Verbal Warning
+DISC000002,1,2020-03-04,Major,Disrespect,In-School Suspension
+DISC000003,1,2020-04-15,Minor,Disruption,Detention
+DISC000004,37,2019-09-17,Minor,Disrespect,Parent Contact
+DISC000005,37,2020-03-29,Minor,Disruption,Parent Contact
+DISC000006,37,2020-04-07,Major,Tardiness,Parent Conference
+DISC000007,215,2019-12-21,Minor,Academic Dishonesty,Verbal Warning
+DISC000008,215,2020-01-16,Minor,Disrespect,Detention
+DISC000009,529,2020-03-11,Minor,Academic Dishonesty,Detention
+DISC000010,529,2020-04-18,Major,Disruption,Parent Conference
+DISC000011,529,2020-05-28,Major,Disruption,In-School Suspension
+DISC000012,138,2020-04-25,Major,Fighting,In-School Suspension
+DISC000013,138,2020-01-24,Major,Fighting,Parent Conference
+DISC000014,310,2019-10-30,Minor,Tardiness,Parent Contact
+DISC000015,310,2020-01-30,Minor,Disrespect,Detention
+DISC000016,634,2020-03-26,Minor,Disrespect,Detention
+DISC000017,320,2019-11-15,Minor,Disruption,Parent Contact
+DISC000018,299,2020-03-09,Minor,Vandalism,Verbal Warning
+DISC000019,299,2019-12-06,Minor,Disruption,Verbal Warning
+DISC000020,299,2020-03-26,Minor,Other,Verbal Warning
+DISC000021,49,2020-03-11,Severe,Disrespect,Behavior Plan
+DISC000022,82,2020-02-14,Minor,Vandalism,Parent Contact
+DISC000023,82,2020-02-01,Minor,Academic Dishonesty,Verbal Warning
+DISC000024,554,2019-11-13,Minor,Disrespect,Verbal Warning
+DISC000025,554,2020-03-16,Minor,Disrespect,Detention
+DISC000026,348,2019-09-03,Minor,Disruption,Parent Contact
+DISC000027,348,2019-10-25,Minor,Academic Dishonesty,Verbal Warning
+DISC000028,348,2019-09-01,Minor,Vandalism,Detention
+DISC000029,154,2020-05-18,Minor,Other,Parent Contact
+DISC000030,592,2020-02-28,Minor,Vandalism,Detention
+DISC000031,20,2020-01-27,Major,Tardiness,Office Referral
+DISC000032,20,2019-09-25,Minor,Academic Dishonesty,Verbal Warning
+DISC000033,620,2019-10-23,Minor,Other,Verbal Warning
+DISC000034,620,2019-11-26,Severe,Academic Dishonesty,Out-of-School Suspension
+DISC000035,688,2020-04-12,Major,Tardiness,Parent Conference
+DISC000036,688,2020-01-28,Major,Vandalism,Parent Conference
+DISC000037,624,2020-05-16,Minor,Vandalism,Parent Contact
+DISC000038,624,2019-10-07,Major,Vandalism,In-School Suspension
+DISC000039,624,2019-11-04,Minor,Fighting,Verbal Warning
+DISC000040,83,2019-10-09,Minor,Fighting,Detention
+DISC000041,83,2020-04-27,Major,Disruption,Office Referral
+DISC000042,83,2020-05-11,Major,Disruption,Parent Conference
+DISC000043,43,2020-04-16,Major,Other,Parent Conference
+DISC000044,43,2019-09-05,Major,Academic Dishonesty,Parent Conference
+DISC000045,43,2020-04-27,Minor,Disruption,Verbal Warning
+DISC000046,512,2020-01-02,Minor,Disruption,Detention
+DISC000047,512,2019-09-29,Minor,Vandalism,Parent Contact
+DISC000048,512,2020-03-25,Minor,Academic Dishonesty,Parent Contact
+DISC000049,682,2020-03-25,Major,Academic Dishonesty,Office Referral
+DISC000050,682,2019-10-03,Minor,Disruption,Detention
+DISC000051,313,2019-10-25,Minor,Tardiness,Verbal Warning
+DISC000052,313,2020-04-02,Major,Vandalism,Parent Conference
+DISC000053,313,2020-05-03,Minor,Tardiness,Detention
+DISC000054,303,2020-03-22,Major,Vandalism,Office Referral
+DISC000055,303,2020-03-16,Minor,Disrespect,Parent Contact
+DISC000056,254,2020-05-01,Minor,Disruption,Parent Contact
+DISC000057,254,2020-01-23,Minor,Fighting,Detention

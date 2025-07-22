@@ -1,37 +1,31 @@
 {
   "year": 2016,
-  "label": "2016-2017",
-  "enrollment": {
-    "total": 505,
-    "target": 505,
+  "school_year_label": "2016-2017",
+  "enrollment_target": 505,
+  "actual_enrollment": 505,
+  "student_changes": {
     "graduated": 38,
     "new_kindergarten": 42,
     "transfers_in": 7,
     "transfers_out": 6
   },
-  "staff": {
-    "total_teachers": 62,
-    "retirements": 0,
-    "resignations": 4,
+  "teacher_changes": {
+    "retirements": 1,
+    "resignations": 3,
     "new_hires": 5,
-    "turnover_rate": 0.08
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [
-      "Added: Digital Literacy (Technology integration begins)",
-      "Could not find subject: Old World History"
-    ],
-    "active_subjects": 12
-  },
-  "events": {
-    "major_events": [
-      "Technology initiative launch"
-    ],
-    "technology_updates": [
-      "Tablet program pilot"
-    ],
-    "fee_adjustments": {
-      "Technology Fee": 1.1
-    }
+  "curriculum_changes": [
+    "Added: Digital Literacy (Technology integration begins)",
+    "Could not find subject: Old World History"
+  ],
+  "major_events": [
+    "Technology initiative launch"
+  ],
+  "technology_updates": [
+    "Tablet program pilot"
+  ],
+  "fee_adjustments": {
+    "Technology Fee": 1.1
   }
 }

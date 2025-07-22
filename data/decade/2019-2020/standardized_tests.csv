@@ -1,0 +1,1222 @@
+test_id,student_id,test_name,test_date,score,subject,percentile
+TEST000001,1,State Math Assessment,2019-05-22,197,Mathematics,3
+TEST000002,1,State Reading Assessment,2019-05-03,243,Reading,33
+TEST000003,2,State Math Assessment,2019-05-16,295,Mathematics,79
+TEST000004,2,State Reading Assessment,2019-05-14,218,Reading,83
+TEST000005,3,State Math Assessment,2019-03-10,180,Mathematics,65
+TEST000006,3,State Reading Assessment,2019-04-19,153,Reading,77
+TEST000007,4,State Math Assessment,2019-05-14,160,Mathematics,66
+TEST000008,4,State Reading Assessment,2019-03-13,163,Reading,96
+TEST000009,5,State Math Assessment,2019-05-19,261,Mathematics,16
+TEST000010,5,State Reading Assessment,2019-05-18,292,Reading,87
+TEST000011,6,State Math Assessment,2019-03-03,189,Mathematics,31
+TEST000012,6,State Reading Assessment,2019-05-02,281,Reading,57
+TEST000013,7,State Math Assessment,2019-05-20,238,Mathematics,87
+TEST000014,7,State Reading Assessment,2019-04-17,253,Reading,44
+TEST000015,8,State Math Assessment,2019-03-01,171,Mathematics,72
+TEST000016,8,State Reading Assessment,2019-05-28,171,Reading,86
+TEST000017,9,State Math Assessment,2019-04-09,284,Mathematics,17
+TEST000018,9,State Reading Assessment,2019-04-07,190,Reading,25
+TEST000019,10,State Math Assessment,2019-05-09,264,Mathematics,88
+TEST000020,10,State Reading Assessment,2019-05-13,220,Reading,20
+TEST000021,11,State Math Assessment,2019-05-22,208,Mathematics,39
+TEST000022,11,State Reading Assessment,2019-04-27,254,Reading,27
+TEST000023,12,State Math Assessment,2019-03-04,175,Mathematics,3
+TEST000024,12,State Reading Assessment,2019-05-24,257,Reading,18
+TEST000025,13,State Math Assessment,2019-03-12,239,Mathematics,90
+TEST000026,13,State Reading Assessment,2019-03-05,188,Reading,70
+TEST000027,14,State Math Assessment,2019-04-14,182,Mathematics,14
+TEST000028,14,State Reading Assessment,2019-04-26,193,Reading,77
+TEST000029,15,State Math Assessment,2019-03-13,161,Mathematics,20
+TEST000030,15,State Reading Assessment,2019-03-22,167,Reading,65
+TEST000031,16,State Math Assessment,2019-04-16,176,Mathematics,20
+TEST000032,16,State Reading Assessment,2019-05-15,287,Reading,1
+TEST000033,17,State Math Assessment,2019-03-15,160,Mathematics,94
+TEST000034,17,State Reading Assessment,2019-04-27,163,Reading,6
+TEST000035,18,State Math Assessment,2019-04-23,186,Mathematics,63
+TEST000036,18,State Reading Assessment,2019-03-14,246,Reading,81
+TEST000037,19,State Math Assessment,2019-04-07,166,Mathematics,51
+TEST000038,19,State Reading Assessment,2019-04-23,214,Reading,94
+TEST000039,20,State Math Assessment,2019-04-28,254,Mathematics,89
+TEST000040,20,State Reading Assessment,2019-05-26,154,Reading,63
+TEST000041,21,State Math Assessment,2019-03-23,237,Mathematics,39
+TEST000042,21,State Reading Assessment,2019-03-22,255,Reading,13
+TEST000043,22,State Math Assessment,2019-03-27,151,Mathematics,97
+TEST000044,22,State Reading Assessment,2019-05-27,198,Reading,85
+TEST000045,23,State Math Assessment,2019-05-08,186,Mathematics,38
+TEST000046,23,State Reading Assessment,2019-04-19,240,Reading,7
+TEST000047,24,State Math Assessment,2019-05-04,192,Mathematics,63
+TEST000048,24,State Reading Assessment,2019-05-30,169,Reading,10
+TEST000049,26,State Math Assessment,2019-05-22,157,Mathematics,42
+TEST000050,26,State Reading Assessment,2019-04-12,195,Reading,21
+TEST000051,27,State Math Assessment,2019-05-04,274,Mathematics,84
+TEST000052,27,State Reading Assessment,2019-03-30,236,Reading,78
+TEST000053,28,State Math Assessment,2019-04-28,165,Mathematics,58
+TEST000054,28,State Reading Assessment,2019-05-27,156,Reading,80
+TEST000055,29,State Math Assessment,2019-04-14,208,Mathematics,19
+TEST000056,29,State Reading Assessment,2019-05-29,253,Reading,33
+TEST000057,31,State Math Assessment,2019-03-05,210,Mathematics,91
+TEST000058,31,State Reading Assessment,2019-03-24,236,Reading,84
+TEST000059,32,State Math Assessment,2019-05-09,284,Mathematics,45
+TEST000060,32,State Reading Assessment,2019-03-31,269,Reading,94
+TEST000061,33,State Math Assessment,2019-03-05,257,Mathematics,2
+TEST000062,33,State Reading Assessment,2019-04-10,191,Reading,39
+TEST000063,34,State Math Assessment,2019-04-17,268,Mathematics,95
+TEST000064,34,State Reading Assessment,2019-04-01,151,Reading,48
+TEST000065,35,State Math Assessment,2019-04-14,269,Mathematics,89
+TEST000066,35,State Reading Assessment,2019-04-19,232,Reading,46
+TEST000067,36,State Math Assessment,2019-04-29,218,Mathematics,17
+TEST000068,36,State Reading Assessment,2019-04-10,171,Reading,10
+TEST000069,37,State Math Assessment,2019-05-23,206,Mathematics,11
+TEST000070,37,State Reading Assessment,2019-04-20,203,Reading,76
+TEST000071,38,State Math Assessment,2019-05-16,195,Mathematics,22
+TEST000072,38,State Reading Assessment,2019-05-10,193,Reading,87
+TEST000073,39,State Math Assessment,2019-05-23,300,Mathematics,37
+TEST000074,39,State Reading Assessment,2019-03-22,172,Reading,37
+TEST000075,40,State Math Assessment,2019-03-19,244,Mathematics,34
+TEST000076,40,State Reading Assessment,2019-04-02,194,Reading,72
+TEST000077,41,State Math Assessment,2019-04-04,202,Mathematics,34
+TEST000078,41,State Reading Assessment,2019-05-07,159,Reading,40
+TEST000079,43,State Math Assessment,2019-04-13,225,Mathematics,76
+TEST000080,43,State Reading Assessment,2019-03-02,263,Reading,64
+TEST000081,44,State Math Assessment,2019-05-17,187,Mathematics,84
+TEST000082,44,State Reading Assessment,2019-04-17,239,Reading,16
+TEST000083,45,State Math Assessment,2019-04-12,156,Mathematics,33
+TEST000084,45,State Reading Assessment,2019-03-23,189,Reading,36
+TEST000085,47,State Math Assessment,2019-05-11,203,Mathematics,29
+TEST000086,47,State Reading Assessment,2019-03-10,224,Reading,12
+TEST000087,48,State Math Assessment,2019-05-14,193,Mathematics,14
+TEST000088,48,State Reading Assessment,2019-03-17,294,Reading,30
+TEST000089,49,State Math Assessment,2019-05-21,195,Mathematics,14
+TEST000090,49,State Reading Assessment,2019-05-18,245,Reading,39
+TEST000091,50,State Math Assessment,2019-05-03,183,Mathematics,46
+TEST000092,50,State Reading Assessment,2019-05-27,217,Reading,1
+TEST000093,51,State Math Assessment,2019-05-25,226,Mathematics,44
+TEST000094,51,State Reading Assessment,2019-03-22,255,Reading,88
+TEST000095,52,State Math Assessment,2019-03-10,191,Mathematics,9
+TEST000096,52,State Reading Assessment,2019-04-01,199,Reading,46
+TEST000097,53,State Math Assessment,2019-04-01,257,Mathematics,16
+TEST000098,53,State Reading Assessment,2019-04-03,166,Reading,94
+TEST000099,54,State Math Assessment,2019-05-01,298,Mathematics,90
+TEST000100,54,State Reading Assessment,2019-03-05,284,Reading,16
+TEST000101,55,State Math Assessment,2019-05-06,207,Mathematics,91
+TEST000102,55,State Reading Assessment,2019-05-21,187,Reading,56
+TEST000103,56,State Math Assessment,2019-05-14,298,Mathematics,66
+TEST000104,56,State Reading Assessment,2019-03-31,242,Reading,34
+TEST000105,57,State Math Assessment,2019-04-12,230,Mathematics,18
+TEST000106,57,State Reading Assessment,2019-05-05,293,Reading,46
+TEST000107,58,State Math Assessment,2019-05-27,278,Mathematics,40
+TEST000108,58,State Reading Assessment,2019-03-04,175,Reading,65
+TEST000109,59,State Math Assessment,2019-04-04,199,Mathematics,94
+TEST000110,59,State Reading Assessment,2019-03-13,187,Reading,65
+TEST000111,60,State Math Assessment,2019-05-02,280,Mathematics,39
+TEST000112,60,State Reading Assessment,2019-03-10,267,Reading,44
+TEST000113,61,State Math Assessment,2019-04-20,242,Mathematics,39
+TEST000114,61,State Reading Assessment,2019-04-16,289,Reading,53
+TEST000115,62,State Math Assessment,2019-04-29,205,Mathematics,25
+TEST000116,62,State Reading Assessment,2019-04-28,189,Reading,54
+TEST000117,63,State Math Assessment,2019-05-05,243,Mathematics,18
+TEST000118,63,State Reading Assessment,2019-05-25,286,Reading,42
+TEST000119,64,State Math Assessment,2019-05-11,292,Mathematics,68
+TEST000120,64,State Reading Assessment,2019-03-22,246,Reading,33
+TEST000121,65,State Math Assessment,2019-04-20,219,Mathematics,40
+TEST000122,65,State Reading Assessment,2019-03-27,234,Reading,84
+TEST000123,66,State Math Assessment,2019-05-09,180,Mathematics,98
+TEST000124,66,State Reading Assessment,2019-05-19,251,Reading,78
+TEST000125,67,State Math Assessment,2019-03-28,227,Mathematics,27
+TEST000126,67,State Reading Assessment,2019-03-26,194,Reading,36
+TEST000127,68,State Math Assessment,2019-03-05,276,Mathematics,85
+TEST000128,68,State Reading Assessment,2019-03-31,280,Reading,62
+TEST000129,69,State Math Assessment,2019-04-05,152,Mathematics,75
+TEST000130,69,State Reading Assessment,2019-04-19,193,Reading,26
+TEST000131,70,State Math Assessment,2019-04-22,198,Mathematics,48
+TEST000132,70,State Reading Assessment,2019-03-21,244,Reading,41
+TEST000133,71,State Math Assessment,2019-03-11,211,Mathematics,83
+TEST000134,71,State Reading Assessment,2019-03-08,276,Reading,52
+TEST000135,72,State Math Assessment,2019-03-31,198,Mathematics,42
+TEST000136,72,State Reading Assessment,2019-03-07,250,Reading,25
+TEST000137,73,State Math Assessment,2019-03-30,288,Mathematics,57
+TEST000138,73,State Reading Assessment,2019-05-26,204,Reading,49
+TEST000139,74,State Math Assessment,2019-04-16,169,Mathematics,59
+TEST000140,74,State Reading Assessment,2019-03-05,226,Reading,5
+TEST000141,75,State Math Assessment,2019-05-03,185,Mathematics,94
+TEST000142,75,State Reading Assessment,2019-05-29,189,Reading,68
+TEST000143,76,State Math Assessment,2019-05-08,284,Mathematics,74
+TEST000144,76,State Reading Assessment,2019-03-10,270,Reading,55
+TEST000145,77,State Math Assessment,2019-05-13,205,Mathematics,75
+TEST000146,77,State Reading Assessment,2019-03-15,199,Reading,85
+TEST000147,78,State Math Assessment,2019-05-30,151,Mathematics,10
+TEST000148,78,State Reading Assessment,2019-03-23,270,Reading,89
+TEST000149,79,State Math Assessment,2019-05-02,281,Mathematics,1
+TEST000150,79,State Reading Assessment,2019-05-17,297,Reading,69
+TEST000151,80,State Math Assessment,2019-04-01,241,Mathematics,5
+TEST000152,80,State Reading Assessment,2019-05-22,162,Reading,20
+TEST000153,82,State Math Assessment,2019-03-05,226,Mathematics,62
+TEST000154,82,State Reading Assessment,2019-03-20,258,Reading,80
+TEST000155,83,State Math Assessment,2019-04-08,228,Mathematics,35
+TEST000156,83,State Reading Assessment,2019-04-22,220,Reading,58
+TEST000157,84,State Math Assessment,2019-04-13,296,Mathematics,33
+TEST000158,84,State Reading Assessment,2019-03-12,288,Reading,3
+TEST000159,85,State Math Assessment,2019-04-01,224,Mathematics,44
+TEST000160,85,State Reading Assessment,2019-04-30,215,Reading,33
+TEST000161,86,State Math Assessment,2019-05-12,229,Mathematics,31
+TEST000162,86,State Reading Assessment,2019-04-08,221,Reading,24
+TEST000163,87,State Math Assessment,2019-05-19,296,Mathematics,65
+TEST000164,87,State Reading Assessment,2019-05-30,300,Reading,6
+TEST000165,88,State Math Assessment,2019-05-15,230,Mathematics,71
+TEST000166,88,State Reading Assessment,2019-04-21,279,Reading,62
+TEST000167,89,State Math Assessment,2019-04-28,282,Mathematics,48
+TEST000168,89,State Reading Assessment,2019-03-08,280,Reading,73
+TEST000169,90,State Math Assessment,2019-05-12,258,Mathematics,3
+TEST000170,90,State Reading Assessment,2019-03-04,150,Reading,49
+TEST000171,91,State Math Assessment,2019-04-26,295,Mathematics,97
+TEST000172,91,State Reading Assessment,2019-05-02,241,Reading,90
+TEST000173,93,State Math Assessment,2019-04-12,287,Mathematics,2
+TEST000174,93,State Reading Assessment,2019-05-25,197,Reading,91
+TEST000175,94,State Math Assessment,2019-05-24,153,Mathematics,51
+TEST000176,94,State Reading Assessment,2019-04-13,264,Reading,17
+TEST000177,95,State Math Assessment,2019-04-29,231,Mathematics,65
+TEST000178,95,State Reading Assessment,2019-04-13,208,Reading,74
+TEST000179,96,State Math Assessment,2019-04-22,200,Mathematics,57
+TEST000180,96,State Reading Assessment,2019-03-06,271,Reading,47
+TEST000181,97,State Math Assessment,2019-05-24,284,Mathematics,54
+TEST000182,97,State Reading Assessment,2019-05-25,265,Reading,69
+TEST000183,99,State Math Assessment,2019-03-14,282,Mathematics,12
+TEST000184,99,State Reading Assessment,2019-03-23,158,Reading,27
+TEST000185,100,State Math Assessment,2019-05-02,167,Mathematics,47
+TEST000186,100,State Reading Assessment,2019-03-30,246,Reading,50
+TEST000187,101,State Math Assessment,2019-05-18,291,Mathematics,44
+TEST000188,101,State Reading Assessment,2019-05-15,241,Reading,92
+TEST000189,102,State Math Assessment,2019-04-30,212,Mathematics,38
+TEST000190,102,State Reading Assessment,2019-03-26,281,Reading,67
+TEST000191,103,State Math Assessment,2019-04-04,175,Mathematics,2
+TEST000192,103,State Reading Assessment,2019-04-11,158,Reading,27
+TEST000193,104,State Math Assessment,2019-04-19,197,Mathematics,7
+TEST000194,104,State Reading Assessment,2019-03-29,292,Reading,40
+TEST000195,105,State Math Assessment,2019-03-26,213,Mathematics,92
+TEST000196,105,State Reading Assessment,2019-04-10,210,Reading,53
+TEST000197,106,State Math Assessment,2019-04-15,232,Mathematics,22
+TEST000198,106,State Reading Assessment,2019-04-25,286,Reading,29
+TEST000199,107,State Math Assessment,2019-05-18,250,Mathematics,99
+TEST000200,107,State Reading Assessment,2019-03-29,297,Reading,98
+TEST000201,108,State Math Assessment,2019-03-03,150,Mathematics,14
+TEST000202,108,State Reading Assessment,2019-05-28,256,Reading,99
+TEST000203,109,State Math Assessment,2019-05-13,226,Mathematics,16
+TEST000204,109,State Reading Assessment,2019-03-23,157,Reading,27
+TEST000205,110,State Math Assessment,2019-05-19,225,Mathematics,40
+TEST000206,110,State Reading Assessment,2019-05-14,212,Reading,73
+TEST000207,111,State Math Assessment,2019-04-11,254,Mathematics,58
+TEST000208,111,State Reading Assessment,2019-05-10,291,Reading,74
+TEST000209,112,State Math Assessment,2019-05-23,156,Mathematics,78
+TEST000210,112,State Reading Assessment,2019-04-11,297,Reading,69
+TEST000211,113,State Math Assessment,2019-03-29,163,Mathematics,5
+TEST000212,113,State Reading Assessment,2019-05-19,289,Reading,29
+TEST000213,114,State Math Assessment,2019-03-03,200,Mathematics,71
+TEST000214,114,State Reading Assessment,2019-03-07,207,Reading,57
+TEST000215,115,State Math Assessment,2019-04-11,272,Mathematics,73
+TEST000216,115,State Reading Assessment,2019-03-22,295,Reading,45
+TEST000217,116,State Math Assessment,2019-03-14,300,Mathematics,43
+TEST000218,116,State Reading Assessment,2019-04-29,240,Reading,41
+TEST000219,117,State Math Assessment,2019-04-01,207,Mathematics,45
+TEST000220,117,State Reading Assessment,2019-04-16,185,Reading,40
+TEST000221,118,State Math Assessment,2019-03-22,215,Mathematics,7
+TEST000222,118,State Reading Assessment,2019-05-13,164,Reading,76
+TEST000223,119,State Math Assessment,2019-04-18,270,Mathematics,46
+TEST000224,119,State Reading Assessment,2019-04-19,173,Reading,83
+TEST000225,120,State Math Assessment,2019-05-04,221,Mathematics,96
+TEST000226,120,State Reading Assessment,2019-03-21,180,Reading,73
+TEST000227,121,State Math Assessment,2019-05-24,289,Mathematics,84
+TEST000228,121,State Reading Assessment,2019-03-12,253,Reading,22
+TEST000229,122,State Math Assessment,2019-04-04,237,Mathematics,83
+TEST000230,122,State Reading Assessment,2019-04-26,256,Reading,9
+TEST000231,123,State Math Assessment,2019-04-18,221,Mathematics,66
+TEST000232,123,State Reading Assessment,2019-04-05,158,Reading,73
+TEST000233,124,State Math Assessment,2019-04-13,179,Mathematics,9
+TEST000234,124,State Reading Assessment,2019-05-08,217,Reading,4
+TEST000235,125,State Math Assessment,2019-05-29,279,Mathematics,74
+TEST000236,125,State Reading Assessment,2019-03-16,202,Reading,47
+TEST000237,126,State Math Assessment,2019-04-28,156,Mathematics,98
+TEST000238,126,State Reading Assessment,2019-05-28,277,Reading,50
+TEST000239,127,State Math Assessment,2019-05-08,179,Mathematics,78
+TEST000240,127,State Reading Assessment,2019-05-04,189,Reading,85
+TEST000241,128,State Math Assessment,2019-03-15,224,Mathematics,32
+TEST000242,128,State Reading Assessment,2019-05-04,199,Reading,3
+TEST000243,130,State Math Assessment,2019-04-12,281,Mathematics,51
+TEST000244,130,State Reading Assessment,2019-03-23,232,Reading,10
+TEST000245,131,State Math Assessment,2019-03-11,216,Mathematics,39
+TEST000246,131,State Reading Assessment,2019-04-19,290,Reading,43
+TEST000247,132,State Math Assessment,2019-04-08,164,Mathematics,62
+TEST000248,132,State Reading Assessment,2019-04-24,157,Reading,68
+TEST000249,133,State Math Assessment,2019-05-15,244,Mathematics,4
+TEST000250,133,State Reading Assessment,2019-05-12,270,Reading,90
+TEST000251,134,State Math Assessment,2019-03-21,221,Mathematics,43
+TEST000252,134,State Reading Assessment,2019-05-08,266,Reading,91
+TEST000253,135,State Math Assessment,2019-03-04,241,Mathematics,12
+TEST000254,135,State Reading Assessment,2019-03-14,255,Reading,23
+TEST000255,136,State Math Assessment,2019-04-24,225,Mathematics,89
+TEST000256,136,State Reading Assessment,2019-05-20,244,Reading,17
+TEST000257,137,State Math Assessment,2019-03-09,157,Mathematics,73
+TEST000258,137,State Reading Assessment,2019-04-02,257,Reading,16
+TEST000259,138,State Math Assessment,2019-04-24,295,Mathematics,79
+TEST000260,138,State Reading Assessment,2019-04-05,207,Reading,54
+TEST000261,139,State Math Assessment,2019-05-29,213,Mathematics,25
+TEST000262,139,State Reading Assessment,2019-05-08,290,Reading,19
+TEST000263,140,State Math Assessment,2019-05-04,181,Mathematics,45
+TEST000264,140,State Reading Assessment,2019-03-30,255,Reading,29
+TEST000265,141,State Math Assessment,2019-05-02,264,Mathematics,62
+TEST000266,141,State Reading Assessment,2019-03-16,157,Reading,48
+TEST000267,142,State Math Assessment,2019-05-19,268,Mathematics,80
+TEST000268,142,State Reading Assessment,2019-03-23,240,Reading,4
+TEST000269,143,State Math Assessment,2019-03-23,162,Mathematics,38
+TEST000270,143,State Reading Assessment,2019-03-17,270,Reading,38
+TEST000271,144,State Math Assessment,2019-03-30,237,Mathematics,51
+TEST000272,144,State Reading Assessment,2019-03-09,238,Reading,34
+TEST000273,145,State Math Assessment,2019-04-06,244,Mathematics,36
+TEST000274,145,State Reading Assessment,2019-05-22,266,Reading,97
+TEST000275,146,State Math Assessment,2019-05-11,212,Mathematics,25
+TEST000276,146,State Reading Assessment,2019-04-06,183,Reading,53
+TEST000277,147,State Math Assessment,2019-03-07,185,Mathematics,51
+TEST000278,147,State Reading Assessment,2019-04-23,240,Reading,96
+TEST000279,148,State Math Assessment,2019-04-03,180,Mathematics,24
+TEST000280,148,State Reading Assessment,2019-04-30,266,Reading,58
+TEST000281,149,State Math Assessment,2019-05-11,217,Mathematics,69
+TEST000282,149,State Reading Assessment,2019-03-25,222,Reading,74
+TEST000283,150,State Math Assessment,2019-04-22,232,Mathematics,87
+TEST000284,150,State Reading Assessment,2019-03-25,197,Reading,45
+TEST000285,151,State Math Assessment,2019-04-26,187,Mathematics,25
+TEST000286,151,State Reading Assessment,2019-04-12,259,Reading,77
+TEST000287,153,State Math Assessment,2019-05-17,161,Mathematics,66
+TEST000288,153,State Reading Assessment,2019-04-07,255,Reading,12
+TEST000289,154,State Math Assessment,2019-03-03,294,Mathematics,44
+TEST000290,154,State Reading Assessment,2019-04-15,283,Reading,17
+TEST000291,155,State Math Assessment,2019-05-28,278,Mathematics,85
+TEST000292,155,State Reading Assessment,2019-03-21,206,Reading,66
+TEST000293,156,State Math Assessment,2019-03-30,239,Mathematics,63
+TEST000294,156,State Reading Assessment,2019-03-29,186,Reading,15
+TEST000295,157,State Math Assessment,2019-05-17,215,Mathematics,1
+TEST000296,157,State Reading Assessment,2019-04-07,184,Reading,38
+TEST000297,158,State Math Assessment,2019-05-22,289,Mathematics,13
+TEST000298,158,State Reading Assessment,2019-04-15,267,Reading,41
+TEST000299,159,State Math Assessment,2019-05-08,300,Mathematics,34
+TEST000300,159,State Reading Assessment,2019-03-25,229,Reading,39
+TEST000301,160,State Math Assessment,2019-04-07,193,Mathematics,33
+TEST000302,160,State Reading Assessment,2019-03-18,153,Reading,15
+TEST000303,161,State Math Assessment,2019-05-10,243,Mathematics,16
+TEST000304,161,State Reading Assessment,2019-03-12,177,Reading,37
+TEST000305,163,State Math Assessment,2019-04-03,242,Mathematics,72
+TEST000306,163,State Reading Assessment,2019-05-12,181,Reading,76
+TEST000307,164,State Math Assessment,2019-05-01,204,Mathematics,63
+TEST000308,164,State Reading Assessment,2019-04-25,274,Reading,54
+TEST000309,165,State Math Assessment,2019-04-04,222,Mathematics,66
+TEST000310,165,State Reading Assessment,2019-04-22,249,Reading,26
+TEST000311,166,State Math Assessment,2019-03-28,212,Mathematics,27
+TEST000312,166,State Reading Assessment,2019-05-03,267,Reading,4
+TEST000313,167,State Math Assessment,2019-03-08,206,Mathematics,80
+TEST000314,167,State Reading Assessment,2019-05-29,230,Reading,87
+TEST000315,168,State Math Assessment,2019-04-30,269,Mathematics,36
+TEST000316,168,State Reading Assessment,2019-04-17,163,Reading,50
+TEST000317,169,State Math Assessment,2019-03-26,238,Mathematics,64
+TEST000318,169,State Reading Assessment,2019-05-11,267,Reading,97
+TEST000319,170,State Math Assessment,2019-05-30,203,Mathematics,78
+TEST000320,170,State Reading Assessment,2019-05-29,247,Reading,37
+TEST000321,171,State Math Assessment,2019-05-30,238,Mathematics,16
+TEST000322,171,State Reading Assessment,2019-04-29,232,Reading,54
+TEST000323,172,State Math Assessment,2019-03-12,255,Mathematics,28
+TEST000324,172,State Reading Assessment,2019-04-11,192,Reading,98
+TEST000325,173,State Math Assessment,2019-03-07,294,Mathematics,64
+TEST000326,173,State Reading Assessment,2019-04-12,256,Reading,97
+TEST000327,174,State Math Assessment,2019-03-01,272,Mathematics,47
+TEST000328,174,State Reading Assessment,2019-04-02,200,Reading,55
+TEST000329,175,State Math Assessment,2019-03-02,298,Mathematics,62
+TEST000330,175,State Reading Assessment,2019-03-16,157,Reading,3
+TEST000331,176,State Math Assessment,2019-05-27,193,Mathematics,53
+TEST000332,176,State Reading Assessment,2019-03-17,260,Reading,67
+TEST000333,177,State Math Assessment,2019-03-08,259,Mathematics,54
+TEST000334,177,State Reading Assessment,2019-04-19,221,Reading,83
+TEST000335,178,State Math Assessment,2019-05-04,246,Mathematics,64
+TEST000336,178,State Reading Assessment,2019-03-10,183,Reading,72
+TEST000337,179,State Math Assessment,2019-04-09,276,Mathematics,96
+TEST000338,179,State Reading Assessment,2019-04-24,288,Reading,41
+TEST000339,180,State Math Assessment,2019-04-23,205,Mathematics,74
+TEST000340,180,State Reading Assessment,2019-03-07,196,Reading,21
+TEST000341,181,State Math Assessment,2019-05-02,283,Mathematics,11
+TEST000342,181,State Reading Assessment,2019-05-20,213,Reading,47
+TEST000343,182,State Math Assessment,2019-03-28,283,Mathematics,68
+TEST000344,182,State Reading Assessment,2019-05-26,277,Reading,69
+TEST000345,183,State Math Assessment,2019-03-10,209,Mathematics,89
+TEST000346,183,State Reading Assessment,2019-03-23,246,Reading,36
+TEST000347,184,State Math Assessment,2019-05-16,198,Mathematics,55
+TEST000348,184,State Reading Assessment,2019-05-14,282,Reading,83
+TEST000349,185,State Math Assessment,2019-03-30,189,Mathematics,10
+TEST000350,185,State Reading Assessment,2019-05-21,218,Reading,53
+TEST000351,186,State Math Assessment,2019-03-27,227,Mathematics,63
+TEST000352,186,State Reading Assessment,2019-05-04,232,Reading,67
+TEST000353,187,State Math Assessment,2019-04-16,161,Mathematics,79
+TEST000354,187,State Reading Assessment,2019-04-07,295,Reading,68
+TEST000355,188,State Math Assessment,2019-05-07,257,Mathematics,19
+TEST000356,188,State Reading Assessment,2019-05-26,231,Reading,51
+TEST000357,190,State Math Assessment,2019-03-06,233,Mathematics,98
+TEST000358,190,State Reading Assessment,2019-05-08,283,Reading,47
+TEST000359,191,State Math Assessment,2019-04-27,183,Mathematics,61
+TEST000360,191,State Reading Assessment,2019-03-25,252,Reading,78
+TEST000361,192,State Math Assessment,2019-05-19,195,Mathematics,11
+TEST000362,192,State Reading Assessment,2019-04-24,288,Reading,1
+TEST000363,193,State Math Assessment,2019-03-20,276,Mathematics,4
+TEST000364,193,State Reading Assessment,2019-05-07,231,Reading,37
+TEST000365,194,State Math Assessment,2019-04-17,199,Mathematics,66
+TEST000366,194,State Reading Assessment,2019-05-18,260,Reading,25
+TEST000367,195,State Math Assessment,2019-04-13,159,Mathematics,20
+TEST000368,195,State Reading Assessment,2019-03-28,223,Reading,26
+TEST000369,196,State Math Assessment,2019-03-03,283,Mathematics,92
+TEST000370,196,State Reading Assessment,2019-05-11,267,Reading,4
+TEST000371,196,PSAT,2019-03-13,575,Reading,14
+TEST000372,196,SAT,2019-04-27,1312,Reading,76
+TEST000373,197,State Math Assessment,2019-05-18,253,Mathematics,22
+TEST000374,197,State Reading Assessment,2019-05-09,245,Reading,14
+TEST000375,197,PSAT,2019-05-23,603,Reading,16
+TEST000376,197,SAT,2019-03-13,462,Reading,5
+TEST000377,198,State Math Assessment,2019-04-22,230,Mathematics,23
+TEST000378,198,State Reading Assessment,2019-04-09,256,Reading,3
+TEST000379,198,PSAT,2019-03-29,982,Reading,48
+TEST000380,198,SAT,2019-05-04,901,Reading,41
+TEST000381,199,State Math Assessment,2019-05-01,260,Mathematics,51
+TEST000382,199,State Reading Assessment,2019-03-24,216,Reading,58
+TEST000383,199,PSAT,2019-03-20,712,Reading,26
+TEST000384,199,SAT,2019-05-14,1512,Reading,92
+TEST000385,200,State Math Assessment,2019-05-30,204,Mathematics,36
+TEST000386,200,State Reading Assessment,2019-03-03,154,Reading,36
+TEST000387,200,PSAT,2019-05-18,405,Reading,1
+TEST000388,200,SAT,2019-03-15,1031,Reading,52
+TEST000389,201,State Math Assessment,2019-04-11,237,Mathematics,17
+TEST000390,201,State Reading Assessment,2019-05-22,265,Reading,64
+TEST000391,201,PSAT,2019-05-01,984,Reading,48
+TEST000392,201,SAT,2019-04-03,1006,Reading,50
+TEST000393,202,State Math Assessment,2019-05-30,270,Mathematics,27
+TEST000394,202,State Reading Assessment,2019-05-12,157,Reading,94
+TEST000395,202,PSAT,2019-03-03,1082,Reading,56
+TEST000396,202,SAT,2019-04-25,1261,Reading,71
+TEST000397,203,State Math Assessment,2019-05-10,219,Mathematics,79
+TEST000398,203,State Reading Assessment,2019-05-02,182,Reading,11
+TEST000399,203,PSAT,2019-04-26,1172,Reading,64
+TEST000400,203,SAT,2019-04-07,998,Reading,49
+TEST000401,204,State Math Assessment,2019-05-08,172,Mathematics,63
+TEST000402,204,State Reading Assessment,2019-05-19,232,Reading,90
+TEST000403,204,PSAT,2019-03-19,1245,Reading,70
+TEST000404,204,SAT,2019-03-12,1594,Reading,99
+TEST000405,205,State Math Assessment,2019-04-24,281,Mathematics,19
+TEST000406,205,State Reading Assessment,2019-05-26,257,Reading,26
+TEST000407,205,PSAT,2019-03-19,828,Reading,35
+TEST000408,205,SAT,2019-04-10,931,Reading,44
+TEST000409,206,State Math Assessment,2019-04-06,178,Mathematics,45
+TEST000410,206,State Reading Assessment,2019-04-13,288,Reading,64
+TEST000411,206,PSAT,2019-04-14,1050,Reading,54
+TEST000412,206,SAT,2019-03-12,1066,Reading,55
+TEST000413,207,State Math Assessment,2019-04-28,243,Mathematics,55
+TEST000414,207,State Reading Assessment,2019-05-12,263,Reading,6
+TEST000415,207,PSAT,2019-04-06,554,Reading,12
+TEST000416,207,SAT,2019-04-10,893,Reading,41
+TEST000417,208,State Math Assessment,2019-04-10,263,Mathematics,9
+TEST000418,208,State Reading Assessment,2019-04-12,177,Reading,81
+TEST000419,208,PSAT,2019-03-08,933,Reading,44
+TEST000420,208,SAT,2019-03-01,705,Reading,25
+TEST000421,209,State Math Assessment,2019-03-14,228,Mathematics,19
+TEST000422,209,State Reading Assessment,2019-03-31,172,Reading,55
+TEST000423,209,PSAT,2019-05-12,1040,Reading,53
+TEST000424,209,SAT,2019-04-08,844,Reading,37
+TEST000425,210,State Math Assessment,2019-05-28,182,Mathematics,62
+TEST000426,210,State Reading Assessment,2019-03-24,205,Reading,8
+TEST000427,210,PSAT,2019-03-27,1049,Reading,54
+TEST000428,210,SAT,2019-03-17,1465,Reading,88
+TEST000429,211,State Math Assessment,2019-05-18,251,Mathematics,89
+TEST000430,211,State Reading Assessment,2019-05-29,289,Reading,27
+TEST000431,211,PSAT,2019-03-04,450,Reading,4
+TEST000432,211,SAT,2019-03-14,588,Reading,15
+TEST000433,212,State Math Assessment,2019-05-17,287,Mathematics,31
+TEST000434,212,State Reading Assessment,2019-05-22,253,Reading,73
+TEST000435,212,PSAT,2019-05-21,1461,Reading,88
+TEST000436,212,SAT,2019-03-13,584,Reading,15
+TEST000437,213,State Math Assessment,2019-03-13,176,Mathematics,27
+TEST000438,213,State Reading Assessment,2019-05-06,184,Reading,42
+TEST000439,213,PSAT,2019-05-07,1417,Reading,84
+TEST000440,213,SAT,2019-03-22,1139,Reading,61
+TEST000441,214,State Math Assessment,2019-03-27,275,Mathematics,47
+TEST000442,214,State Reading Assessment,2019-04-29,239,Reading,18
+TEST000443,214,PSAT,2019-04-27,625,Reading,18
+TEST000444,214,SAT,2019-04-22,462,Reading,5
+TEST000445,215,State Math Assessment,2019-03-04,278,Mathematics,36
+TEST000446,215,State Reading Assessment,2019-03-08,170,Reading,34
+TEST000447,215,PSAT,2019-05-27,1364,Reading,80
+TEST000448,215,SAT,2019-03-21,1031,Reading,52
+TEST000449,216,State Math Assessment,2019-05-10,246,Mathematics,57
+TEST000450,216,State Reading Assessment,2019-04-12,231,Reading,45
+TEST000451,216,PSAT,2019-04-11,577,Reading,14
+TEST000452,216,SAT,2019-04-23,1377,Reading,81
+TEST000453,217,State Math Assessment,2019-03-22,222,Mathematics,92
+TEST000454,217,State Reading Assessment,2019-05-26,166,Reading,34
+TEST000455,217,PSAT,2019-04-10,1459,Reading,88
+TEST000456,217,SAT,2019-04-17,463,Reading,5
+TEST000457,218,State Math Assessment,2019-04-04,229,Mathematics,5
+TEST000458,218,State Reading Assessment,2019-04-29,223,Reading,48
+TEST000459,218,PSAT,2019-05-11,1087,Reading,57
+TEST000460,218,SAT,2019-03-02,1383,Reading,81
+TEST000461,219,State Math Assessment,2019-03-10,284,Mathematics,35
+TEST000462,219,State Reading Assessment,2019-04-16,238,Reading,38
+TEST000463,219,PSAT,2019-05-23,1429,Reading,85
+TEST000464,219,SAT,2019-04-13,1336,Reading,78
+TEST000465,220,State Math Assessment,2019-04-29,255,Mathematics,93
+TEST000466,220,State Reading Assessment,2019-03-08,191,Reading,49
+TEST000467,220,PSAT,2019-04-01,511,Reading,9
+TEST000468,220,SAT,2019-03-15,760,Reading,30
+TEST000469,221,State Math Assessment,2019-05-01,191,Mathematics,34
+TEST000470,221,State Reading Assessment,2019-03-30,266,Reading,95
+TEST000471,221,PSAT,2019-03-27,1513,Reading,92
+TEST000472,221,SAT,2019-05-19,440,Reading,3
+TEST000473,222,State Math Assessment,2019-04-09,221,Mathematics,23
+TEST000474,222,State Reading Assessment,2019-03-12,298,Reading,77
+TEST000475,222,PSAT,2019-03-27,434,Reading,2
+TEST000476,222,SAT,2019-03-29,563,Reading,13
+TEST000477,223,State Math Assessment,2019-03-03,189,Mathematics,18
+TEST000478,223,State Reading Assessment,2019-04-29,226,Reading,33
+TEST000479,223,PSAT,2019-03-16,550,Reading,12
+TEST000480,223,SAT,2019-03-21,1251,Reading,70
+TEST000481,224,State Math Assessment,2019-03-24,170,Mathematics,64
+TEST000482,224,State Reading Assessment,2019-05-15,202,Reading,19
+TEST000483,224,PSAT,2019-05-23,1326,Reading,77
+TEST000484,224,SAT,2019-04-04,881,Reading,40
+TEST000485,225,State Math Assessment,2019-03-07,252,Mathematics,58
+TEST000486,225,State Reading Assessment,2019-04-14,251,Reading,79
+TEST000487,225,PSAT,2019-03-30,1289,Reading,74
+TEST000488,225,SAT,2019-05-22,551,Reading,12
+TEST000489,226,State Math Assessment,2019-04-08,196,Mathematics,55
+TEST000490,226,State Reading Assessment,2019-05-28,243,Reading,80
+TEST000491,226,PSAT,2019-04-05,691,Reading,24
+TEST000492,226,SAT,2019-04-12,1114,Reading,59
+TEST000493,227,State Math Assessment,2019-05-25,180,Mathematics,24
+TEST000494,227,State Reading Assessment,2019-03-30,227,Reading,89
+TEST000495,227,PSAT,2019-03-14,1474,Reading,89
+TEST000496,227,SAT,2019-05-24,775,Reading,31
+TEST000497,228,State Math Assessment,2019-05-18,155,Mathematics,14
+TEST000498,228,State Reading Assessment,2019-04-06,160,Reading,93
+TEST000499,228,PSAT,2019-05-18,612,Reading,17
+TEST000500,228,SAT,2019-03-06,1364,Reading,80
+TEST000501,229,State Math Assessment,2019-03-11,182,Mathematics,9
+TEST000502,229,State Reading Assessment,2019-04-23,229,Reading,23
+TEST000503,229,PSAT,2019-04-07,402,Reading,1
+TEST000504,229,SAT,2019-03-24,839,Reading,36
+TEST000505,230,State Math Assessment,2019-04-17,190,Mathematics,98
+TEST000506,230,State Reading Assessment,2019-05-12,258,Reading,87
+TEST000507,230,PSAT,2019-03-13,731,Reading,27
+TEST000508,230,SAT,2019-04-06,820,Reading,35
+TEST000509,231,State Math Assessment,2019-03-22,272,Mathematics,82
+TEST000510,231,State Reading Assessment,2019-03-07,277,Reading,51
+TEST000511,231,PSAT,2019-04-25,1091,Reading,57
+TEST000512,231,SAT,2019-04-26,1010,Reading,50
+TEST000513,232,State Math Assessment,2019-05-15,169,Mathematics,15
+TEST000514,232,State Reading Assessment,2019-05-12,276,Reading,34
+TEST000515,232,PSAT,2019-04-04,1131,Reading,60
+TEST000516,232,SAT,2019-05-11,1198,Reading,66
+TEST000517,233,State Math Assessment,2019-05-27,300,Mathematics,98
+TEST000518,233,State Reading Assessment,2019-05-02,242,Reading,55
+TEST000519,233,PSAT,2019-04-07,839,Reading,36
+TEST000520,233,SAT,2019-05-26,1068,Reading,55
+TEST000521,234,State Math Assessment,2019-04-29,258,Mathematics,93
+TEST000522,234,State Reading Assessment,2019-05-01,188,Reading,48
+TEST000523,234,PSAT,2019-04-02,1071,Reading,55
+TEST000524,234,SAT,2019-04-04,1466,Reading,88
+TEST000525,235,State Math Assessment,2019-04-26,180,Mathematics,12
+TEST000526,235,State Reading Assessment,2019-05-13,175,Reading,14
+TEST000527,235,PSAT,2019-03-16,791,Reading,32
+TEST000528,235,SAT,2019-05-02,1178,Reading,64
+TEST000529,235,AP Exam,2019-03-18,234,Reading,93
+TEST000530,236,State Math Assessment,2019-04-17,162,Mathematics,27
+TEST000531,236,State Reading Assessment,2019-05-06,270,Reading,41
+TEST000532,236,PSAT,2019-04-12,784,Reading,32
+TEST000533,236,SAT,2019-04-06,1055,Reading,54
+TEST000534,237,State Math Assessment,2019-05-22,173,Mathematics,52
+TEST000535,237,State Reading Assessment,2019-05-25,194,Reading,66
+TEST000536,237,PSAT,2019-03-26,1143,Reading,61
+TEST000537,237,SAT,2019-05-18,1086,Reading,57
+TEST000538,238,State Math Assessment,2019-03-09,223,Mathematics,31
+TEST000539,238,State Reading Assessment,2019-03-29,156,Reading,22
+TEST000540,238,PSAT,2019-04-29,1571,Reading,97
+TEST000541,238,SAT,2019-03-05,491,Reading,7
+TEST000542,239,State Math Assessment,2019-03-03,237,Mathematics,30
+TEST000543,239,State Reading Assessment,2019-03-22,269,Reading,52
+TEST000544,239,PSAT,2019-05-30,1343,Reading,78
+TEST000545,239,SAT,2019-05-23,1336,Reading,78
+TEST000546,240,State Math Assessment,2019-05-16,150,Mathematics,81
+TEST000547,240,State Reading Assessment,2019-05-29,241,Reading,42
+TEST000548,240,PSAT,2019-05-19,626,Reading,18
+TEST000549,240,SAT,2019-04-23,1269,Reading,72
+TEST000550,240,AP Exam,2019-04-01,156,Reading,22
+TEST000551,241,State Math Assessment,2019-03-01,195,Mathematics,82
+TEST000552,241,State Reading Assessment,2019-03-18,172,Reading,68
+TEST000553,241,PSAT,2019-05-12,1091,Reading,57
+TEST000554,241,SAT,2019-05-17,1475,Reading,89
+TEST000555,242,State Math Assessment,2019-04-02,284,Mathematics,48
+TEST000556,242,State Reading Assessment,2019-04-03,253,Reading,65
+TEST000557,242,PSAT,2019-03-07,1102,Reading,58
+TEST000558,242,SAT,2019-05-10,1562,Reading,96
+TEST000559,243,State Math Assessment,2019-05-10,201,Mathematics,1
+TEST000560,243,State Reading Assessment,2019-03-21,188,Reading,41
+TEST000561,243,PSAT,2019-05-20,988,Reading,49
+TEST000562,243,SAT,2019-05-30,1051,Reading,54
+TEST000563,243,AP Exam,2019-05-15,213,Reading,86
+TEST000564,244,State Math Assessment,2019-03-27,243,Mathematics,14
+TEST000565,244,State Reading Assessment,2019-05-15,222,Reading,85
+TEST000566,244,PSAT,2019-03-29,1378,Reading,81
+TEST000567,244,SAT,2019-05-29,1189,Reading,65
+TEST000568,245,State Math Assessment,2019-05-06,168,Mathematics,62
+TEST000569,245,State Reading Assessment,2019-03-25,183,Reading,21
+TEST000570,245,PSAT,2019-05-24,609,Reading,17
+TEST000571,245,SAT,2019-04-23,1039,Reading,53
+TEST000572,246,State Math Assessment,2019-04-08,174,Mathematics,94
+TEST000573,246,State Reading Assessment,2019-04-16,271,Reading,14
+TEST000574,246,PSAT,2019-03-14,1059,Reading,54
+TEST000575,246,SAT,2019-03-18,1100,Reading,58
+TEST000576,247,State Math Assessment,2019-04-21,187,Mathematics,73
+TEST000577,247,State Reading Assessment,2019-05-28,220,Reading,18
+TEST000578,247,PSAT,2019-04-22,1060,Reading,55
+TEST000579,247,SAT,2019-03-23,1326,Reading,77
+TEST000580,248,State Math Assessment,2019-04-25,174,Mathematics,38
+TEST000581,248,State Reading Assessment,2019-03-01,285,Reading,47
+TEST000582,248,PSAT,2019-03-30,1171,Reading,64
+TEST000583,248,SAT,2019-04-15,1545,Reading,95
+TEST000584,249,State Math Assessment,2019-05-13,214,Mathematics,36
+TEST000585,249,State Reading Assessment,2019-03-24,245,Reading,8
+TEST000586,249,PSAT,2019-03-23,1250,Reading,70
+TEST000587,249,SAT,2019-03-07,1146,Reading,62
+TEST000588,250,State Math Assessment,2019-03-25,239,Mathematics,40
+TEST000589,250,State Reading Assessment,2019-05-29,217,Reading,96
+TEST000590,250,PSAT,2019-04-05,607,Reading,17
+TEST000591,250,SAT,2019-03-27,736,Reading,28
+TEST000592,250,AP Exam,2019-04-06,180,Reading,37
+TEST000593,251,State Math Assessment,2019-05-10,198,Mathematics,62
+TEST000594,251,State Reading Assessment,2019-05-11,220,Reading,19
+TEST000595,251,PSAT,2019-05-07,872,Reading,39
+TEST000596,251,SAT,2019-03-09,719,Reading,26
+TEST000597,252,State Math Assessment,2019-04-06,193,Mathematics,64
+TEST000598,252,State Reading Assessment,2019-05-06,167,Reading,60
+TEST000599,252,PSAT,2019-04-16,1576,Reading,98
+TEST000600,252,SAT,2019-03-29,759,Reading,29
+TEST000601,253,State Math Assessment,2019-04-26,260,Mathematics,13
+TEST000602,253,State Reading Assessment,2019-05-20,246,Reading,41
+TEST000603,253,PSAT,2019-03-20,1171,Reading,64
+TEST000604,253,SAT,2019-03-15,874,Reading,39
+TEST000605,254,State Math Assessment,2019-04-04,168,Mathematics,17
+TEST000606,254,State Reading Assessment,2019-03-10,154,Reading,78
+TEST000607,254,PSAT,2019-03-12,444,Reading,3
+TEST000608,254,SAT,2019-03-26,425,Reading,2
+TEST000609,254,AP Exam,2019-05-07,242,Reading,52
+TEST000610,255,State Math Assessment,2019-05-15,199,Mathematics,81
+TEST000611,255,State Reading Assessment,2019-04-27,158,Reading,62
+TEST000612,255,PSAT,2019-04-14,464,Reading,5
+TEST000613,255,SAT,2019-04-21,974,Reading,47
+TEST000614,255,AP Exam,2019-04-20,277,Reading,98
+TEST000615,256,State Math Assessment,2019-04-15,296,Mathematics,72
+TEST000616,256,State Reading Assessment,2019-04-27,206,Reading,62
+TEST000617,256,PSAT,2019-05-19,1252,Reading,71
+TEST000618,256,SAT,2019-03-31,1453,Reading,87
+TEST000619,257,State Math Assessment,2019-03-21,273,Mathematics,74
+TEST000620,257,State Reading Assessment,2019-03-07,240,Reading,59
+TEST000621,257,PSAT,2019-03-14,508,Reading,9
+TEST000622,257,SAT,2019-05-24,1205,Reading,67
+TEST000623,258,State Math Assessment,2019-05-06,169,Mathematics,36
+TEST000624,258,State Reading Assessment,2019-03-01,204,Reading,30
+TEST000625,258,PSAT,2019-03-29,1528,Reading,94
+TEST000626,258,SAT,2019-03-02,1131,Reading,60
+TEST000627,258,AP Exam,2019-04-26,261,Reading,38
+TEST000628,259,State Math Assessment,2019-04-01,249,Mathematics,32
+TEST000629,259,State Reading Assessment,2019-03-28,293,Reading,65
+TEST000630,259,PSAT,2019-03-24,1165,Reading,63
+TEST000631,259,SAT,2019-04-12,1216,Reading,68
+TEST000632,260,State Math Assessment,2019-04-18,165,Mathematics,6
+TEST000633,260,State Reading Assessment,2019-05-03,209,Reading,96
+TEST000634,260,PSAT,2019-04-12,875,Reading,39
+TEST000635,260,SAT,2019-04-11,1592,Reading,99
+TEST000636,260,AP Exam,2019-03-10,166,Reading,17
+TEST000637,262,State Math Assessment,2019-04-19,272,Mathematics,86
+TEST000638,262,State Reading Assessment,2019-03-19,233,Reading,20
+TEST000639,262,PSAT,2019-03-06,900,Reading,41
+TEST000640,262,SAT,2019-05-07,1410,Reading,84
+TEST000641,262,AP Exam,2019-04-21,150,Reading,7
+TEST000642,263,State Math Assessment,2019-05-18,168,Mathematics,85
+TEST000643,263,State Reading Assessment,2019-04-06,230,Reading,88
+TEST000644,263,PSAT,2019-04-18,984,Reading,48
+TEST000645,263,SAT,2019-03-06,806,Reading,33
+TEST000646,264,State Math Assessment,2019-03-06,193,Mathematics,45
+TEST000647,264,State Reading Assessment,2019-03-10,208,Reading,61
+TEST000648,264,PSAT,2019-05-10,699,Reading,24
+TEST000649,264,SAT,2019-05-07,482,Reading,6
+TEST000650,264,AP Exam,2019-04-22,272,Reading,18
+TEST000651,265,State Math Assessment,2019-04-16,261,Mathematics,54
+TEST000652,265,State Reading Assessment,2019-03-24,179,Reading,51
+TEST000653,265,PSAT,2019-03-09,887,Reading,40
+TEST000654,265,SAT,2019-03-31,1457,Reading,88
+TEST000655,266,State Math Assessment,2019-03-21,276,Mathematics,23
+TEST000656,266,State Reading Assessment,2019-04-26,289,Reading,93
+TEST000657,266,PSAT,2019-03-09,1461,Reading,88
+TEST000658,266,SAT,2019-04-01,1410,Reading,84
+TEST000659,266,AP Exam,2019-03-09,299,Reading,12
+TEST000660,267,State Math Assessment,2019-03-07,296,Mathematics,99
+TEST000661,267,State Reading Assessment,2019-03-25,198,Reading,32
+TEST000662,267,PSAT,2019-03-23,621,Reading,18
+TEST000663,267,SAT,2019-04-12,942,Reading,45
+TEST000664,268,State Math Assessment,2019-04-16,166,Mathematics,47
+TEST000665,268,State Reading Assessment,2019-04-21,201,Reading,54
+TEST000666,268,PSAT,2019-04-10,1408,Reading,84
+TEST000667,268,SAT,2019-03-17,1109,Reading,59
+TEST000668,268,AP Exam,2019-05-01,261,Reading,22
+TEST000669,269,State Math Assessment,2019-03-11,153,Mathematics,44
+TEST000670,269,State Reading Assessment,2019-05-17,209,Reading,47
+TEST000671,269,PSAT,2019-03-02,746,Reading,28
+TEST000672,269,SAT,2019-04-17,721,Reading,26
+TEST000673,269,AP Exam,2019-05-17,165,Reading,8
+TEST000674,270,State Math Assessment,2019-04-23,165,Mathematics,4
+TEST000675,270,State Reading Assessment,2019-03-08,257,Reading,80
+TEST000676,270,PSAT,2019-04-23,1065,Reading,55
+TEST000677,270,SAT,2019-04-14,524,Reading,10
+TEST000678,271,State Math Assessment,2019-03-10,295,Mathematics,87
+TEST000679,271,State Reading Assessment,2019-03-05,291,Reading,41
+TEST000680,271,PSAT,2019-04-29,430,Reading,2
+TEST000681,271,SAT,2019-05-05,987,Reading,48
+TEST000682,272,State Math Assessment,2019-04-09,234,Mathematics,14
+TEST000683,272,State Reading Assessment,2019-05-01,250,Reading,46
+TEST000684,272,PSAT,2019-04-20,1200,Reading,66
+TEST000685,272,SAT,2019-04-01,1020,Reading,51
+TEST000686,273,State Math Assessment,2019-04-11,241,Mathematics,34
+TEST000687,273,State Reading Assessment,2019-03-30,298,Reading,87
+TEST000688,273,PSAT,2019-03-13,1476,Reading,89
+TEST000689,273,SAT,2019-04-02,1240,Reading,70
+TEST000690,274,State Math Assessment,2019-05-13,296,Mathematics,93
+TEST000691,274,State Reading Assessment,2019-04-14,290,Reading,37
+TEST000692,274,PSAT,2019-05-21,966,Reading,47
+TEST000693,274,SAT,2019-03-06,912,Reading,42
+TEST000694,275,State Math Assessment,2019-04-09,157,Mathematics,82
+TEST000695,275,State Reading Assessment,2019-05-02,169,Reading,19
+TEST000696,275,PSAT,2019-04-23,435,Reading,2
+TEST000697,275,SAT,2019-05-03,1292,Reading,74
+TEST000698,276,State Math Assessment,2019-05-21,206,Mathematics,65
+TEST000699,276,State Reading Assessment,2019-03-01,181,Reading,97
+TEST000700,276,PSAT,2019-03-14,655,Reading,21
+TEST000701,276,SAT,2019-05-23,679,Reading,23
+TEST000702,276,AP Exam,2019-04-11,285,Reading,43
+TEST000703,277,State Math Assessment,2019-05-19,226,Mathematics,67
+TEST000704,277,State Reading Assessment,2019-04-26,288,Reading,25
+TEST000705,277,PSAT,2019-05-03,1305,Reading,75
+TEST000706,277,SAT,2019-03-20,1073,Reading,56
+TEST000707,278,State Math Assessment,2019-03-24,266,Mathematics,49
+TEST000708,278,State Reading Assessment,2019-05-29,273,Reading,17
+TEST000709,278,PSAT,2019-05-18,876,Reading,39
+TEST000710,278,SAT,2019-05-10,623,Reading,18
+TEST000711,279,State Math Assessment,2019-03-08,266,Mathematics,17
+TEST000712,279,State Reading Assessment,2019-04-06,289,Reading,97
+TEST000713,279,PSAT,2019-03-26,1434,Reading,86
+TEST000714,279,SAT,2019-03-18,1226,Reading,68
+TEST000715,280,State Math Assessment,2019-05-08,209,Mathematics,2
+TEST000716,280,State Reading Assessment,2019-05-12,185,Reading,30
+TEST000717,280,PSAT,2019-03-20,510,Reading,9
+TEST000718,280,SAT,2019-03-02,1272,Reading,72
+TEST000719,281,State Math Assessment,2019-04-09,166,Mathematics,41
+TEST000720,281,State Reading Assessment,2019-03-04,192,Reading,93
+TEST000721,281,PSAT,2019-03-06,1123,Reading,60
+TEST000722,281,SAT,2019-03-18,900,Reading,41
+TEST000723,282,State Math Assessment,2019-03-19,258,Mathematics,81
+TEST000724,282,State Reading Assessment,2019-03-06,259,Reading,74
+TEST000725,282,PSAT,2019-03-18,455,Reading,4
+TEST000726,282,SAT,2019-04-18,1041,Reading,53
+TEST000727,283,State Math Assessment,2019-04-11,200,Mathematics,87
+TEST000728,283,State Reading Assessment,2019-05-24,180,Reading,28
+TEST000729,283,PSAT,2019-04-02,840,Reading,36
+TEST000730,283,SAT,2019-05-02,433,Reading,2
+TEST000731,284,State Math Assessment,2019-05-07,246,Mathematics,66
+TEST000732,284,State Reading Assessment,2019-04-02,291,Reading,18
+TEST000733,284,PSAT,2019-05-28,1583,Reading,98
+TEST000734,284,SAT,2019-05-07,828,Reading,35
+TEST000735,285,State Math Assessment,2019-03-02,208,Mathematics,71
+TEST000736,285,State Reading Assessment,2019-05-05,254,Reading,23
+TEST000737,285,PSAT,2019-04-01,1095,Reading,57
+TEST000738,285,SAT,2019-05-28,1024,Reading,52
+TEST000739,286,State Math Assessment,2019-05-20,170,Mathematics,32
+TEST000740,286,State Reading Assessment,2019-03-14,166,Reading,90
+TEST000741,286,PSAT,2019-03-17,1046,Reading,53
+TEST000742,286,SAT,2019-03-28,1250,Reading,70
+TEST000743,286,AP Exam,2019-05-11,178,Reading,86
+TEST000744,287,State Math Assessment,2019-03-10,165,Mathematics,40
+TEST000745,287,State Reading Assessment,2019-03-10,244,Reading,48
+TEST000746,287,PSAT,2019-03-29,809,Reading,34
+TEST000747,287,SAT,2019-05-16,1208,Reading,67
+TEST000748,288,State Math Assessment,2019-03-15,211,Mathematics,16
+TEST000749,288,State Reading Assessment,2019-03-03,279,Reading,10
+TEST000750,288,PSAT,2019-04-09,513,Reading,9
+TEST000751,288,SAT,2019-04-09,1119,Reading,59
+TEST000752,289,State Math Assessment,2019-04-16,265,Mathematics,81
+TEST000753,289,State Reading Assessment,2019-03-04,227,Reading,5
+TEST000754,289,PSAT,2019-03-11,1528,Reading,94
+TEST000755,289,SAT,2019-03-31,833,Reading,36
+TEST000756,289,AP Exam,2019-03-08,277,Reading,2
+TEST000757,290,State Math Assessment,2019-03-25,187,Mathematics,46
+TEST000758,290,State Reading Assessment,2019-04-01,251,Reading,59
+TEST000759,290,PSAT,2019-05-11,1142,Reading,61
+TEST000760,290,SAT,2019-04-27,1315,Reading,76
+TEST000761,290,AP Exam,2019-04-24,249,Reading,87
+TEST000762,291,State Math Assessment,2019-03-14,224,Mathematics,96
+TEST000763,291,State Reading Assessment,2019-03-02,174,Reading,36
+TEST000764,291,PSAT,2019-03-10,1306,Reading,75
+TEST000765,291,SAT,2019-05-23,1094,Reading,57
+TEST000766,292,State Math Assessment,2019-04-09,265,Mathematics,77
+TEST000767,292,State Reading Assessment,2019-04-11,162,Reading,78
+TEST000768,292,PSAT,2019-05-26,934,Reading,44
+TEST000769,292,SAT,2019-03-25,1416,Reading,84
+TEST000770,293,State Math Assessment,2019-03-20,182,Mathematics,84
+TEST000771,293,State Reading Assessment,2019-05-22,222,Reading,25
+TEST000772,293,PSAT,2019-05-11,1225,Reading,68
+TEST000773,293,SAT,2019-04-20,571,Reading,14
+TEST000774,294,State Math Assessment,2019-03-14,243,Mathematics,4
+TEST000775,294,State Reading Assessment,2019-03-13,188,Reading,65
+TEST000776,294,PSAT,2019-03-14,845,Reading,37
+TEST000777,294,SAT,2019-05-22,660,Reading,21
+TEST000778,294,AP Exam,2019-03-14,183,Reading,2
+TEST000779,295,State Math Assessment,2019-03-27,258,Mathematics,17
+TEST000780,295,State Reading Assessment,2019-03-04,237,Reading,49
+TEST000781,295,PSAT,2019-03-04,890,Reading,40
+TEST000782,295,SAT,2019-04-01,1430,Reading,85
+TEST000783,295,AP Exam,2019-03-23,178,Reading,17
+TEST000784,296,State Math Assessment,2019-05-24,248,Mathematics,16
+TEST000785,296,State Reading Assessment,2019-04-27,160,Reading,29
+TEST000786,296,PSAT,2019-03-13,1044,Reading,53
+TEST000787,296,SAT,2019-03-18,1026,Reading,52
+TEST000788,297,State Math Assessment,2019-05-04,276,Mathematics,50
+TEST000789,297,State Reading Assessment,2019-03-18,291,Reading,31
+TEST000790,297,PSAT,2019-03-05,632,Reading,19
+TEST000791,297,SAT,2019-04-06,1542,Reading,95
+TEST000792,298,State Math Assessment,2019-04-06,265,Mathematics,7
+TEST000793,298,State Reading Assessment,2019-03-14,152,Reading,97
+TEST000794,298,PSAT,2019-05-03,594,Reading,16
+TEST000795,298,SAT,2019-03-03,859,Reading,38
+TEST000796,299,State Math Assessment,2019-03-10,165,Mathematics,97
+TEST000797,299,State Reading Assessment,2019-05-04,179,Reading,18
+TEST000798,299,PSAT,2019-05-11,530,Reading,10
+TEST000799,299,SAT,2019-04-29,846,Reading,37
+TEST000800,300,State Math Assessment,2019-05-13,251,Mathematics,30
+TEST000801,300,State Reading Assessment,2019-03-05,181,Reading,45
+TEST000802,300,PSAT,2019-05-22,1256,Reading,71
+TEST000803,300,SAT,2019-03-08,494,Reading,7
+TEST000804,301,State Math Assessment,2019-03-12,286,Mathematics,79
+TEST000805,301,State Reading Assessment,2019-05-13,166,Reading,41
+TEST000806,301,PSAT,2019-03-21,1377,Reading,81
+TEST000807,301,SAT,2019-03-25,900,Reading,41
+TEST000808,302,State Math Assessment,2019-04-21,248,Mathematics,70
+TEST000809,302,State Reading Assessment,2019-03-30,166,Reading,74
+TEST000810,302,PSAT,2019-03-21,1594,Reading,99
+TEST000811,302,SAT,2019-03-22,813,Reading,34
+TEST000812,303,State Math Assessment,2019-04-25,202,Mathematics,93
+TEST000813,303,State Reading Assessment,2019-03-10,283,Reading,34
+TEST000814,303,PSAT,2019-03-19,1549,Reading,95
+TEST000815,303,SAT,2019-03-23,1056,Reading,54
+TEST000816,304,State Math Assessment,2019-05-02,290,Mathematics,26
+TEST000817,304,State Reading Assessment,2019-03-17,290,Reading,73
+TEST000818,304,PSAT,2019-04-05,1034,Reading,52
+TEST000819,304,SAT,2019-03-18,1175,Reading,64
+TEST000820,305,State Math Assessment,2019-04-20,234,Mathematics,58
+TEST000821,305,State Reading Assessment,2019-04-06,274,Reading,83
+TEST000822,305,PSAT,2019-03-12,578,Reading,14
+TEST000823,305,SAT,2019-05-17,1382,Reading,81
+TEST000824,306,State Math Assessment,2019-03-21,292,Mathematics,5
+TEST000825,306,State Reading Assessment,2019-03-16,193,Reading,17
+TEST000826,306,PSAT,2019-03-24,1167,Reading,63
+TEST000827,306,SAT,2019-05-11,1172,Reading,64
+TEST000828,306,AP Exam,2019-04-28,269,Reading,36
+TEST000829,307,State Math Assessment,2019-03-25,210,Mathematics,90
+TEST000830,307,State Reading Assessment,2019-04-02,268,Reading,60
+TEST000831,307,PSAT,2019-05-20,457,Reading,4
+TEST000832,307,SAT,2019-05-23,759,Reading,29
+TEST000833,308,State Math Assessment,2019-04-09,271,Mathematics,23
+TEST000834,308,State Reading Assessment,2019-05-05,275,Reading,91
+TEST000835,308,PSAT,2019-03-28,587,Reading,15
+TEST000836,308,SAT,2019-04-02,1087,Reading,57
+TEST000837,309,State Math Assessment,2019-03-13,210,Mathematics,66
+TEST000838,309,State Reading Assessment,2019-03-22,237,Reading,35
+TEST000839,309,PSAT,2019-03-30,537,Reading,11
+TEST000840,309,SAT,2019-03-19,1326,Reading,77
+TEST000841,310,State Math Assessment,2019-04-18,208,Mathematics,34
+TEST000842,310,State Reading Assessment,2019-04-08,289,Reading,80
+TEST000843,310,PSAT,2019-03-29,851,Reading,37
+TEST000844,310,SAT,2019-05-15,451,Reading,4
+TEST000845,311,State Math Assessment,2019-05-18,154,Mathematics,26
+TEST000846,311,State Reading Assessment,2019-03-29,206,Reading,90
+TEST000847,311,PSAT,2019-04-29,1441,Reading,86
+TEST000848,311,SAT,2019-04-12,859,Reading,38
+TEST000849,312,State Math Assessment,2019-04-11,257,Mathematics,70
+TEST000850,312,State Reading Assessment,2019-05-16,279,Reading,97
+TEST000851,312,PSAT,2019-03-01,1469,Reading,89
+TEST000852,312,SAT,2019-03-17,815,Reading,34
+TEST000853,313,State Math Assessment,2019-03-26,271,Mathematics,35
+TEST000854,313,State Reading Assessment,2019-04-26,209,Reading,48
+TEST000855,313,PSAT,2019-04-19,1527,Reading,93
+TEST000856,313,SAT,2019-04-11,758,Reading,29
+TEST000857,314,State Math Assessment,2019-04-11,215,Mathematics,86
+TEST000858,314,State Reading Assessment,2019-03-19,248,Reading,33
+TEST000859,314,PSAT,2019-03-26,400,Reading,1
+TEST000860,314,SAT,2019-03-17,423,Reading,1
+TEST000861,315,State Math Assessment,2019-05-12,200,Mathematics,31
+TEST000862,315,State Reading Assessment,2019-03-06,289,Reading,99
+TEST000863,315,PSAT,2019-05-10,1181,Reading,65
+TEST000864,315,SAT,2019-05-18,646,Reading,20
+TEST000865,316,State Math Assessment,2019-04-26,163,Mathematics,84
+TEST000866,316,State Reading Assessment,2019-04-04,288,Reading,42
+TEST000867,316,PSAT,2019-03-25,918,Reading,43
+TEST000868,316,SAT,2019-04-12,704,Reading,25
+TEST000869,317,State Math Assessment,2019-05-12,153,Mathematics,39
+TEST000870,317,State Reading Assessment,2019-04-14,269,Reading,40
+TEST000871,317,PSAT,2019-05-01,927,Reading,43
+TEST000872,317,SAT,2019-05-05,1294,Reading,74
+TEST000873,318,State Math Assessment,2019-04-15,154,Mathematics,33
+TEST000874,318,State Reading Assessment,2019-04-30,204,Reading,6
+TEST000875,318,PSAT,2019-05-27,559,Reading,13
+TEST000876,318,SAT,2019-05-24,1107,Reading,58
+TEST000877,319,State Math Assessment,2019-05-19,152,Mathematics,76
+TEST000878,319,State Reading Assessment,2019-03-24,226,Reading,13
+TEST000879,319,PSAT,2019-03-27,1530,Reading,94
+TEST000880,319,SAT,2019-05-04,1193,Reading,66
+TEST000881,319,AP Exam,2019-04-25,193,Reading,38
+TEST000882,320,State Math Assessment,2019-04-23,195,Mathematics,40
+TEST000883,320,State Reading Assessment,2019-05-01,182,Reading,95
+TEST000884,320,PSAT,2019-04-30,1072,Reading,56
+TEST000885,320,SAT,2019-04-05,916,Reading,43
+TEST000886,321,State Math Assessment,2019-03-18,176,Mathematics,17
+TEST000887,321,State Reading Assessment,2019-04-30,230,Reading,37
+TEST000888,321,PSAT,2019-04-15,1016,Reading,51
+TEST000889,321,SAT,2019-05-20,1051,Reading,54
+TEST000890,322,State Math Assessment,2019-03-23,179,Mathematics,65
+TEST000891,322,State Reading Assessment,2019-04-04,205,Reading,23
+TEST000892,322,PSAT,2019-04-09,1244,Reading,70
+TEST000893,322,SAT,2019-05-21,831,Reading,35
+TEST000894,323,State Math Assessment,2019-05-15,167,Mathematics,47
+TEST000895,323,State Reading Assessment,2019-03-09,232,Reading,7
+TEST000896,323,PSAT,2019-04-02,431,Reading,2
+TEST000897,323,SAT,2019-05-06,661,Reading,21
+TEST000898,324,State Math Assessment,2019-03-18,262,Mathematics,9
+TEST000899,324,State Reading Assessment,2019-04-07,171,Reading,4
+TEST000900,324,PSAT,2019-04-09,799,Reading,33
+TEST000901,324,SAT,2019-04-06,1089,Reading,57
+TEST000902,325,State Math Assessment,2019-05-19,239,Mathematics,88
+TEST000903,325,State Reading Assessment,2019-04-02,174,Reading,90
+TEST000904,325,PSAT,2019-04-24,1003,Reading,50
+TEST000905,325,SAT,2019-05-22,1448,Reading,87
+TEST000906,325,AP Exam,2019-03-07,202,Reading,18
+TEST000907,326,State Math Assessment,2019-03-26,150,Mathematics,97
+TEST000908,326,State Reading Assessment,2019-04-17,151,Reading,77
+TEST000909,326,PSAT,2019-05-14,1441,Reading,86
+TEST000910,326,SAT,2019-05-27,1392,Reading,82
+TEST000911,327,State Math Assessment,2019-04-07,175,Mathematics,74
+TEST000912,327,State Reading Assessment,2019-03-16,217,Reading,46
+TEST000913,327,PSAT,2019-04-05,690,Reading,24
+TEST000914,327,SAT,2019-05-16,409,Reading,1
+TEST000915,328,State Math Assessment,2019-03-24,298,Mathematics,25
+TEST000916,328,State Reading Assessment,2019-05-24,198,Reading,41
+TEST000917,328,PSAT,2019-05-02,795,Reading,32
+TEST000918,328,SAT,2019-04-19,1253,Reading,71
+TEST000919,328,AP Exam,2019-03-06,268,Reading,47
+TEST000920,329,State Math Assessment,2019-04-30,243,Mathematics,87
+TEST000921,329,State Reading Assessment,2019-05-28,257,Reading,96
+TEST000922,329,PSAT,2019-04-10,558,Reading,13
+TEST000923,329,SAT,2019-04-10,1583,Reading,98
+TEST000924,330,State Math Assessment,2019-03-30,150,Mathematics,63
+TEST000925,330,State Reading Assessment,2019-03-11,240,Reading,55
+TEST000926,330,PSAT,2019-03-26,1295,Reading,74
+TEST000927,330,SAT,2019-04-15,651,Reading,20
+TEST000928,330,AP Exam,2019-05-15,246,Reading,8
+TEST000929,331,State Math Assessment,2019-04-05,220,Mathematics,89
+TEST000930,331,State Reading Assessment,2019-03-22,211,Reading,78
+TEST000931,331,PSAT,2019-03-25,1095,Reading,57
+TEST000932,331,SAT,2019-04-09,1471,Reading,89
+TEST000933,332,State Math Assessment,2019-05-22,209,Mathematics,84
+TEST000934,332,State Reading Assessment,2019-04-26,277,Reading,81
+TEST000935,332,PSAT,2019-05-07,1598,Reading,99
+TEST000936,332,SAT,2019-04-06,927,Reading,43
+TEST000937,333,State Math Assessment,2019-03-16,243,Mathematics,51
+TEST000938,333,State Reading Assessment,2019-03-29,225,Reading,32
+TEST000939,333,PSAT,2019-05-25,1344,Reading,78
+TEST000940,333,SAT,2019-04-12,1170,Reading,64
+TEST000941,334,State Math Assessment,2019-05-15,184,Mathematics,52
+TEST000942,334,State Reading Assessment,2019-03-27,239,Reading,46
+TEST000943,334,PSAT,2019-05-29,1561,Reading,96
+TEST000944,334,SAT,2019-05-14,1029,Reading,52
+TEST000945,334,AP Exam,2019-04-08,243,Reading,35
+TEST000946,335,State Math Assessment,2019-04-12,151,Mathematics,74
+TEST000947,335,State Reading Assessment,2019-05-09,214,Reading,48
+TEST000948,335,PSAT,2019-03-31,1034,Reading,52
+TEST000949,335,SAT,2019-05-04,975,Reading,47
+TEST000950,335,AP Exam,2019-03-23,251,Reading,58
+TEST000951,336,State Math Assessment,2019-04-02,265,Mathematics,6
+TEST000952,336,State Reading Assessment,2019-03-21,260,Reading,91
+TEST000953,336,PSAT,2019-04-24,1406,Reading,83
+TEST000954,336,SAT,2019-04-26,1313,Reading,76
+TEST000955,336,AP Exam,2019-05-07,220,Reading,28
+TEST000956,337,State Math Assessment,2019-05-06,299,Mathematics,89
+TEST000957,337,State Reading Assessment,2019-05-07,279,Reading,91
+TEST000958,337,PSAT,2019-05-29,1316,Reading,76
+TEST000959,337,SAT,2019-04-09,681,Reading,23
+TEST000960,338,State Math Assessment,2019-03-13,193,Mathematics,7
+TEST000961,338,State Reading Assessment,2019-05-13,278,Reading,72
+TEST000962,338,PSAT,2019-05-01,902,Reading,41
+TEST000963,338,SAT,2019-05-25,864,Reading,38
+TEST000964,339,State Math Assessment,2019-05-14,275,Mathematics,84
+TEST000965,339,State Reading Assessment,2019-04-25,193,Reading,53
+TEST000966,339,PSAT,2019-04-23,749,Reading,29
+TEST000967,339,SAT,2019-05-26,1504,Reading,92
+TEST000968,340,State Math Assessment,2019-04-02,155,Mathematics,52
+TEST000969,340,State Reading Assessment,2019-05-12,182,Reading,22
+TEST000970,340,PSAT,2019-03-25,1245,Reading,70
+TEST000971,340,SAT,2019-03-15,897,Reading,41
+TEST000972,341,State Math Assessment,2019-03-29,230,Mathematics,39
+TEST000973,341,State Reading Assessment,2019-03-20,188,Reading,84
+TEST000974,341,PSAT,2019-05-25,1096,Reading,58
+TEST000975,341,SAT,2019-05-28,805,Reading,33
+TEST000976,342,State Math Assessment,2019-05-08,243,Mathematics,88
+TEST000977,342,State Reading Assessment,2019-05-13,234,Reading,23
+TEST000978,342,PSAT,2019-04-07,1222,Reading,68
+TEST000979,342,SAT,2019-04-17,1115,Reading,59
+TEST000980,342,AP Exam,2019-05-29,164,Reading,9
+TEST000981,343,State Math Assessment,2019-04-27,241,Mathematics,37
+TEST000982,343,State Reading Assessment,2019-03-15,265,Reading,44
+TEST000983,343,PSAT,2019-03-29,755,Reading,29
+TEST000984,343,SAT,2019-03-11,1125,Reading,60
+TEST000985,344,State Math Assessment,2019-04-02,275,Mathematics,70
+TEST000986,344,State Reading Assessment,2019-04-16,234,Reading,46
+TEST000987,344,PSAT,2019-03-08,1071,Reading,55
+TEST000988,344,SAT,2019-03-16,954,Reading,46
+TEST000989,345,State Math Assessment,2019-05-02,216,Mathematics,23
+TEST000990,345,State Reading Assessment,2019-04-14,186,Reading,25
+TEST000991,345,PSAT,2019-05-23,1079,Reading,56
+TEST000992,345,SAT,2019-05-02,432,Reading,2
+TEST000993,346,State Math Assessment,2019-05-07,295,Mathematics,92
+TEST000994,346,State Reading Assessment,2019-05-30,153,Reading,6
+TEST000995,346,PSAT,2019-04-10,1520,Reading,93
+TEST000996,346,SAT,2019-03-20,1016,Reading,51
+TEST000997,347,State Math Assessment,2019-05-12,171,Mathematics,66
+TEST000998,347,State Reading Assessment,2019-04-30,268,Reading,16
+TEST000999,347,PSAT,2019-04-23,434,Reading,2
+TEST001000,347,SAT,2019-05-30,803,Reading,33
+TEST001001,348,State Math Assessment,2019-03-22,194,Mathematics,82
+TEST001002,348,State Reading Assessment,2019-04-01,288,Reading,13
+TEST001003,348,PSAT,2019-03-27,1204,Reading,67
+TEST001004,348,SAT,2019-03-21,1575,Reading,97
+TEST001005,348,AP Exam,2019-05-04,291,Reading,91
+TEST001006,501,State Math Assessment,2019-03-28,177,Mathematics,16
+TEST001007,501,State Reading Assessment,2019-04-09,157,Reading,82
+TEST001008,502,State Math Assessment,2019-04-23,181,Mathematics,52
+TEST001009,502,State Reading Assessment,2019-04-01,267,Reading,35
+TEST001010,503,State Math Assessment,2019-04-18,261,Mathematics,33
+TEST001011,503,State Reading Assessment,2019-05-12,179,Reading,96
+TEST001012,504,State Math Assessment,2019-04-11,193,Mathematics,10
+TEST001013,504,State Reading Assessment,2019-03-24,198,Reading,56
+TEST001014,505,State Math Assessment,2019-05-04,163,Mathematics,4
+TEST001015,505,State Reading Assessment,2019-04-26,233,Reading,52
+TEST001016,506,State Math Assessment,2019-03-03,207,Mathematics,16
+TEST001017,506,State Reading Assessment,2019-04-10,256,Reading,78
+TEST001018,507,State Math Assessment,2019-05-16,295,Mathematics,32
+TEST001019,507,State Reading Assessment,2019-03-10,274,Reading,99
+TEST001020,508,State Math Assessment,2019-04-08,251,Mathematics,5
+TEST001021,508,State Reading Assessment,2019-05-10,161,Reading,94
+TEST001022,509,State Math Assessment,2019-04-22,193,Mathematics,61
+TEST001023,509,State Reading Assessment,2019-03-15,163,Reading,67
+TEST001024,510,State Math Assessment,2019-03-29,165,Mathematics,44
+TEST001025,510,State Reading Assessment,2019-04-24,186,Reading,48
+TEST001026,511,State Math Assessment,2019-04-15,296,Mathematics,80
+TEST001027,511,State Reading Assessment,2019-04-27,159,Reading,54
+TEST001028,512,State Math Assessment,2019-05-02,235,Mathematics,64
+TEST001029,512,State Reading Assessment,2019-03-23,262,Reading,7
+TEST001030,513,State Math Assessment,2019-04-29,173,Mathematics,53
+TEST001031,513,State Reading Assessment,2019-04-29,160,Reading,4
+TEST001032,514,State Math Assessment,2019-05-13,178,Mathematics,64
+TEST001033,514,State Reading Assessment,2019-05-26,294,Reading,4
+TEST001034,515,State Math Assessment,2019-05-13,217,Mathematics,1
+TEST001035,515,State Reading Assessment,2019-04-23,224,Reading,86
+TEST001036,516,State Math Assessment,2019-05-16,227,Mathematics,65
+TEST001037,516,State Reading Assessment,2019-05-03,223,Reading,74
+TEST001038,517,State Math Assessment,2019-03-08,170,Mathematics,70
+TEST001039,517,State Reading Assessment,2019-04-10,271,Reading,83
+TEST001040,518,State Math Assessment,2019-03-10,262,Mathematics,87
+TEST001041,518,State Reading Assessment,2019-04-04,223,Reading,49
+TEST001042,519,State Math Assessment,2019-05-23,264,Mathematics,55
+TEST001043,519,State Reading Assessment,2019-03-22,210,Reading,12
+TEST001044,520,State Math Assessment,2019-05-05,172,Mathematics,63
+TEST001045,520,State Reading Assessment,2019-04-18,192,Reading,66
+TEST001046,521,State Math Assessment,2019-03-09,231,Mathematics,82
+TEST001047,521,State Reading Assessment,2019-03-10,203,Reading,82
+TEST001048,522,State Math Assessment,2019-04-08,255,Mathematics,38
+TEST001049,522,State Reading Assessment,2019-05-27,291,Reading,90
+TEST001050,523,State Math Assessment,2019-05-15,191,Mathematics,66
+TEST001051,523,State Reading Assessment,2019-04-20,294,Reading,2
+TEST001052,524,State Math Assessment,2019-05-03,211,Mathematics,8
+TEST001053,524,State Reading Assessment,2019-03-20,293,Reading,52
+TEST001054,525,State Math Assessment,2019-05-07,290,Mathematics,44
+TEST001055,525,State Reading Assessment,2019-04-14,292,Reading,74
+TEST001056,526,State Math Assessment,2019-03-09,299,Mathematics,77
+TEST001057,526,State Reading Assessment,2019-03-03,150,Reading,82
+TEST001058,527,State Math Assessment,2019-03-24,279,Mathematics,30
+TEST001059,527,State Reading Assessment,2019-03-03,273,Reading,78
+TEST001060,528,State Math Assessment,2019-04-18,160,Mathematics,26
+TEST001061,528,State Reading Assessment,2019-05-18,182,Reading,84
+TEST001062,529,State Math Assessment,2019-03-21,256,Mathematics,89
+TEST001063,529,State Reading Assessment,2019-04-16,273,Reading,10
+TEST001064,531,State Math Assessment,2019-03-13,174,Mathematics,65
+TEST001065,531,State Reading Assessment,2019-04-06,279,Reading,38
+TEST001066,533,State Math Assessment,2019-03-06,209,Mathematics,42
+TEST001067,533,State Reading Assessment,2019-04-15,160,Reading,28
+TEST001068,534,State Math Assessment,2019-05-07,184,Mathematics,84
+TEST001069,534,State Reading Assessment,2019-03-17,238,Reading,26
+TEST001070,535,State Math Assessment,2019-05-15,211,Mathematics,94
+TEST001071,535,State Reading Assessment,2019-05-20,209,Reading,92
+TEST001072,536,State Math Assessment,2019-05-15,222,Mathematics,85
+TEST001073,536,State Reading Assessment,2019-03-01,271,Reading,94
+TEST001074,537,State Math Assessment,2019-03-10,273,Mathematics,78
+TEST001075,537,State Reading Assessment,2019-03-27,241,Reading,61
+TEST001076,538,State Math Assessment,2019-04-22,274,Mathematics,78
+TEST001077,538,State Reading Assessment,2019-04-29,168,Reading,77
+TEST001078,539,State Math Assessment,2019-04-11,155,Mathematics,82
+TEST001079,539,State Reading Assessment,2019-05-19,219,Reading,64
+TEST001080,540,State Math Assessment,2019-04-16,190,Mathematics,7
+TEST001081,540,State Reading Assessment,2019-04-23,162,Reading,82
+TEST001082,541,State Math Assessment,2019-05-27,205,Mathematics,63
+TEST001083,541,State Reading Assessment,2019-05-09,178,Reading,84
+TEST001084,542,State Math Assessment,2019-03-02,181,Mathematics,55
+TEST001085,542,State Reading Assessment,2019-04-23,193,Reading,47
+TEST001086,543,State Math Assessment,2019-05-27,178,Mathematics,51
+TEST001087,543,State Reading Assessment,2019-03-14,241,Reading,72
+TEST001088,544,State Math Assessment,2019-04-07,194,Mathematics,64
+TEST001089,544,State Reading Assessment,2019-05-11,174,Reading,33
+TEST001090,545,State Math Assessment,2019-03-27,270,Mathematics,57
+TEST001091,545,State Reading Assessment,2019-04-25,187,Reading,6
+TEST001092,546,State Math Assessment,2019-03-21,297,Mathematics,87
+TEST001093,546,State Reading Assessment,2019-03-12,274,Reading,93
+TEST001094,546,PSAT,2019-03-13,902,Reading,41
+TEST001095,546,SAT,2019-03-12,1475,Reading,89
+TEST001096,547,State Math Assessment,2019-03-28,258,Mathematics,15
+TEST001097,547,State Reading Assessment,2019-04-08,247,Reading,13
+TEST001098,547,PSAT,2019-05-16,1023,Reading,51
+TEST001099,547,SAT,2019-03-20,1214,Reading,67
+TEST001100,548,State Math Assessment,2019-04-27,156,Mathematics,13
+TEST001101,548,State Reading Assessment,2019-05-14,175,Reading,96
+TEST001102,550,State Math Assessment,2019-03-29,176,Mathematics,46
+TEST001103,550,State Reading Assessment,2019-05-16,286,Reading,47
+TEST001104,551,State Math Assessment,2019-05-15,212,Mathematics,22
+TEST001105,551,State Reading Assessment,2019-04-12,285,Reading,82
+TEST001106,552,State Math Assessment,2019-04-08,151,Mathematics,10
+TEST001107,552,State Reading Assessment,2019-03-18,288,Reading,96
+TEST001108,553,State Math Assessment,2019-04-01,243,Mathematics,73
+TEST001109,553,State Reading Assessment,2019-05-02,161,Reading,67
+TEST001110,554,State Math Assessment,2019-03-27,205,Mathematics,80
+TEST001111,554,State Reading Assessment,2019-05-21,262,Reading,30
+TEST001112,555,State Math Assessment,2019-03-14,290,Mathematics,66
+TEST001113,555,State Reading Assessment,2019-05-12,197,Reading,81
+TEST001114,556,State Math Assessment,2019-04-26,277,Mathematics,71
+TEST001115,556,State Reading Assessment,2019-05-20,161,Reading,39
+TEST001116,557,State Math Assessment,2019-05-01,289,Mathematics,88
+TEST001117,557,State Reading Assessment,2019-03-16,246,Reading,50
+TEST001118,558,State Math Assessment,2019-04-07,269,Mathematics,59
+TEST001119,558,State Reading Assessment,2019-05-21,297,Reading,22
+TEST001120,559,State Math Assessment,2019-05-08,244,Mathematics,82
+TEST001121,559,State Reading Assessment,2019-03-29,251,Reading,9
+TEST001122,560,State Math Assessment,2019-04-03,289,Mathematics,28
+TEST001123,560,State Reading Assessment,2019-05-12,206,Reading,61
+TEST001124,561,State Math Assessment,2019-04-09,241,Mathematics,90
+TEST001125,561,State Reading Assessment,2019-03-20,274,Reading,13
+TEST001126,562,State Math Assessment,2019-05-29,158,Mathematics,1
+TEST001127,562,State Reading Assessment,2019-05-19,275,Reading,35
+TEST001128,563,State Math Assessment,2019-03-19,189,Mathematics,76
+TEST001129,563,State Reading Assessment,2019-04-28,196,Reading,30
+TEST001130,564,State Math Assessment,2019-03-11,198,Mathematics,89
+TEST001131,564,State Reading Assessment,2019-04-14,228,Reading,1
+TEST001132,565,State Math Assessment,2019-03-14,188,Mathematics,63
+TEST001133,565,State Reading Assessment,2019-05-12,181,Reading,51
+TEST001134,566,State Math Assessment,2019-05-30,164,Mathematics,46
+TEST001135,566,State Reading Assessment,2019-04-26,191,Reading,30
+TEST001136,567,State Math Assessment,2019-05-23,216,Mathematics,36
+TEST001137,567,State Reading Assessment,2019-05-18,238,Reading,24
+TEST001138,568,State Math Assessment,2019-04-27,156,Mathematics,90
+TEST001139,568,State Reading Assessment,2019-05-01,277,Reading,42
+TEST001140,569,State Math Assessment,2019-05-27,154,Mathematics,58
+TEST001141,569,State Reading Assessment,2019-03-30,276,Reading,80
+TEST001142,570,State Math Assessment,2019-03-02,268,Mathematics,64
+TEST001143,570,State Reading Assessment,2019-03-21,232,Reading,83
+TEST001144,571,State Math Assessment,2019-04-08,192,Mathematics,99
+TEST001145,571,State Reading Assessment,2019-05-19,290,Reading,37
+TEST001146,572,State Math Assessment,2019-04-25,280,Mathematics,9
+TEST001147,572,State Reading Assessment,2019-03-26,243,Reading,20
+TEST001148,573,State Math Assessment,2019-04-19,211,Mathematics,30
+TEST001149,573,State Reading Assessment,2019-05-22,224,Reading,35
+TEST001150,574,State Math Assessment,2019-05-04,154,Mathematics,47
+TEST001151,574,State Reading Assessment,2019-03-08,156,Reading,31
+TEST001152,575,State Math Assessment,2019-05-04,249,Mathematics,52
+TEST001153,575,State Reading Assessment,2019-03-11,272,Reading,15
+TEST001154,576,State Math Assessment,2019-03-18,236,Mathematics,57
+TEST001155,576,State Reading Assessment,2019-05-02,164,Reading,7
+TEST001156,577,State Math Assessment,2019-04-10,202,Mathematics,84
+TEST001157,577,State Reading Assessment,2019-05-08,176,Reading,89
+TEST001158,579,State Math Assessment,2019-05-28,282,Mathematics,94
+TEST001159,579,State Reading Assessment,2019-04-07,276,Reading,7
+TEST001160,580,State Math Assessment,2019-05-09,220,Mathematics,91
+TEST001161,580,State Reading Assessment,2019-03-29,232,Reading,12
+TEST001162,581,State Math Assessment,2019-04-25,164,Mathematics,74
+TEST001163,581,State Reading Assessment,2019-04-14,211,Reading,42
+TEST001164,582,State Math Assessment,2019-03-09,208,Mathematics,23
+TEST001165,582,State Reading Assessment,2019-04-30,153,Reading,6
+TEST001166,583,State Math Assessment,2019-04-09,206,Mathematics,27
+TEST001167,583,State Reading Assessment,2019-04-13,241,Reading,70
+TEST001168,584,State Math Assessment,2019-05-05,279,Mathematics,21
+TEST001169,584,State Reading Assessment,2019-03-03,159,Reading,81
+TEST001170,585,State Math Assessment,2019-04-09,254,Mathematics,37
+TEST001171,585,State Reading Assessment,2019-05-06,266,Reading,9
+TEST001172,586,State Math Assessment,2019-05-26,197,Mathematics,3
+TEST001173,586,State Reading Assessment,2019-04-23,271,Reading,78
+TEST001174,587,State Math Assessment,2019-03-22,263,Mathematics,11
+TEST001175,587,State Reading Assessment,2019-03-22,288,Reading,56
+TEST001176,588,State Math Assessment,2019-04-01,272,Mathematics,11
+TEST001177,588,State Reading Assessment,2019-03-22,180,Reading,50
+TEST001178,589,State Math Assessment,2019-04-28,226,Mathematics,3
+TEST001179,589,State Reading Assessment,2019-03-11,231,Reading,71
+TEST001180,589,PSAT,2019-03-04,1346,Reading,78
+TEST001181,589,SAT,2019-03-11,787,Reading,32
+TEST001182,590,State Math Assessment,2019-04-07,287,Mathematics,62
+TEST001183,590,State Reading Assessment,2019-03-11,156,Reading,97
+TEST001184,590,PSAT,2019-03-17,526,Reading,10
+TEST001185,590,SAT,2019-04-03,919,Reading,43
+TEST001186,591,State Math Assessment,2019-05-16,160,Mathematics,55
+TEST001187,591,State Reading Assessment,2019-05-15,236,Reading,88
+TEST001188,592,State Math Assessment,2019-04-25,282,Mathematics,93
+TEST001189,592,State Reading Assessment,2019-03-03,238,Reading,64
+TEST001190,592,PSAT,2019-03-12,520,Reading,10
+TEST001191,592,SAT,2019-04-08,894,Reading,41
+TEST001192,594,State Math Assessment,2019-05-15,210,Mathematics,59
+TEST001193,594,State Reading Assessment,2019-05-09,192,Reading,19
+TEST001194,595,State Math Assessment,2019-03-24,196,Mathematics,91
+TEST001195,595,State Reading Assessment,2019-04-25,270,Reading,89
+TEST001196,596,State Math Assessment,2019-04-28,286,Mathematics,36
+TEST001197,596,State Reading Assessment,2019-03-27,290,Reading,5
+TEST001198,596,PSAT,2019-05-11,753,Reading,29
+TEST001199,596,SAT,2019-04-26,820,Reading,35
+TEST001200,596,AP Exam,2019-03-04,168,Reading,22
+TEST001201,642,State Math Assessment,2019-05-13,183,Mathematics,8
+TEST001202,642,State Reading Assessment,2019-05-13,179,Reading,63
+TEST001203,643,State Math Assessment,2019-03-08,232,Mathematics,9
+TEST001204,643,State Reading Assessment,2019-03-19,226,Reading,34
+TEST001205,643,PSAT,2019-03-22,711,Reading,25
+TEST001206,643,SAT,2019-03-23,669,Reading,22
+TEST001207,645,State Math Assessment,2019-03-27,151,Mathematics,67
+TEST001208,645,State Reading Assessment,2019-03-27,232,Reading,81
+TEST001209,646,State Math Assessment,2019-03-21,286,Mathematics,31
+TEST001210,646,State Reading Assessment,2019-04-16,237,Reading,73
+TEST001211,646,PSAT,2019-05-29,682,Reading,23
+TEST001212,646,SAT,2019-05-04,872,Reading,39
+TEST001213,646,AP Exam,2019-04-10,252,Reading,18
+TEST001214,695,State Math Assessment,2019-05-20,232,Mathematics,61
+TEST001215,695,State Reading Assessment,2019-04-16,229,Reading,38
+TEST001216,695,PSAT,2019-05-03,1088,Reading,57
+TEST001217,695,SAT,2019-05-17,1111,Reading,59
+TEST001218,696,State Math Assessment,2019-03-20,200,Mathematics,4
+TEST001219,696,State Reading Assessment,2019-05-06,255,Reading,63
+TEST001220,697,State Math Assessment,2019-03-27,286,Mathematics,62
+TEST001221,697,State Reading Assessment,2019-04-21,269,Reading,14

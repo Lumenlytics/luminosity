@@ -1,0 +1,1222 @@
+test_id,student_id,test_name,test_date,score,subject,percentile
+TEST000001,1,State Math Assessment,2017-05-07,174,Mathematics,39
+TEST000002,1,State Reading Assessment,2017-05-05,228,Reading,25
+TEST000003,2,State Math Assessment,2017-03-30,288,Mathematics,18
+TEST000004,2,State Reading Assessment,2017-04-02,259,Reading,3
+TEST000005,3,State Math Assessment,2017-03-23,172,Mathematics,88
+TEST000006,3,State Reading Assessment,2017-04-25,163,Reading,13
+TEST000007,4,State Math Assessment,2017-05-17,268,Mathematics,23
+TEST000008,4,State Reading Assessment,2017-05-25,244,Reading,47
+TEST000009,5,State Math Assessment,2017-04-19,229,Mathematics,60
+TEST000010,5,State Reading Assessment,2017-04-09,150,Reading,15
+TEST000011,6,State Math Assessment,2017-03-15,187,Mathematics,54
+TEST000012,6,State Reading Assessment,2017-05-14,265,Reading,27
+TEST000013,7,State Math Assessment,2017-04-22,188,Mathematics,62
+TEST000014,7,State Reading Assessment,2017-05-06,265,Reading,6
+TEST000015,8,State Math Assessment,2017-04-26,185,Mathematics,91
+TEST000016,8,State Reading Assessment,2017-03-31,171,Reading,85
+TEST000017,9,State Math Assessment,2017-05-23,268,Mathematics,61
+TEST000018,9,State Reading Assessment,2017-03-01,268,Reading,71
+TEST000019,10,State Math Assessment,2017-04-29,286,Mathematics,56
+TEST000020,10,State Reading Assessment,2017-03-06,218,Reading,34
+TEST000021,11,State Math Assessment,2017-05-09,244,Mathematics,92
+TEST000022,11,State Reading Assessment,2017-05-13,150,Reading,88
+TEST000023,12,State Math Assessment,2017-04-04,228,Mathematics,45
+TEST000024,12,State Reading Assessment,2017-04-27,187,Reading,73
+TEST000025,13,State Math Assessment,2017-03-12,263,Mathematics,13
+TEST000026,13,State Reading Assessment,2017-05-15,185,Reading,3
+TEST000027,14,State Math Assessment,2017-03-07,258,Mathematics,28
+TEST000028,14,State Reading Assessment,2017-04-29,169,Reading,38
+TEST000029,15,State Math Assessment,2017-03-07,243,Mathematics,51
+TEST000030,15,State Reading Assessment,2017-04-21,157,Reading,64
+TEST000031,16,State Math Assessment,2017-04-10,195,Mathematics,98
+TEST000032,16,State Reading Assessment,2017-05-10,255,Reading,9
+TEST000033,17,State Math Assessment,2017-03-16,159,Mathematics,10
+TEST000034,17,State Reading Assessment,2017-05-11,179,Reading,66
+TEST000035,18,State Math Assessment,2017-03-19,244,Mathematics,13
+TEST000036,18,State Reading Assessment,2017-03-25,202,Reading,98
+TEST000037,19,State Math Assessment,2017-04-28,191,Mathematics,29
+TEST000038,19,State Reading Assessment,2017-05-15,237,Reading,36
+TEST000039,20,State Math Assessment,2017-05-13,153,Mathematics,94
+TEST000040,20,State Reading Assessment,2017-03-18,152,Reading,44
+TEST000041,21,State Math Assessment,2017-05-21,219,Mathematics,47
+TEST000042,21,State Reading Assessment,2017-03-18,196,Reading,23
+TEST000043,22,State Math Assessment,2017-03-03,235,Mathematics,4
+TEST000044,22,State Reading Assessment,2017-05-03,222,Reading,88
+TEST000045,23,State Math Assessment,2017-05-30,179,Mathematics,26
+TEST000046,23,State Reading Assessment,2017-04-18,230,Reading,35
+TEST000047,24,State Math Assessment,2017-05-10,286,Mathematics,75
+TEST000048,24,State Reading Assessment,2017-03-12,178,Reading,94
+TEST000049,26,State Math Assessment,2017-04-02,298,Mathematics,56
+TEST000050,26,State Reading Assessment,2017-03-09,203,Reading,96
+TEST000051,27,State Math Assessment,2017-03-10,224,Mathematics,4
+TEST000052,27,State Reading Assessment,2017-04-09,178,Reading,96
+TEST000053,28,State Math Assessment,2017-04-25,299,Mathematics,24
+TEST000054,28,State Reading Assessment,2017-05-08,237,Reading,68
+TEST000055,29,State Math Assessment,2017-05-06,192,Mathematics,72
+TEST000056,29,State Reading Assessment,2017-04-07,154,Reading,19
+TEST000057,31,State Math Assessment,2017-05-18,298,Mathematics,96
+TEST000058,31,State Reading Assessment,2017-04-09,279,Reading,49
+TEST000059,32,State Math Assessment,2017-04-07,209,Mathematics,67
+TEST000060,32,State Reading Assessment,2017-05-07,178,Reading,19
+TEST000061,33,State Math Assessment,2017-04-16,245,Mathematics,65
+TEST000062,33,State Reading Assessment,2017-03-14,216,Reading,32
+TEST000063,34,State Math Assessment,2017-05-22,205,Mathematics,28
+TEST000064,34,State Reading Assessment,2017-04-03,246,Reading,27
+TEST000065,35,State Math Assessment,2017-03-18,205,Mathematics,84
+TEST000066,35,State Reading Assessment,2017-03-10,243,Reading,12
+TEST000067,36,State Math Assessment,2017-03-31,226,Mathematics,42
+TEST000068,36,State Reading Assessment,2017-04-04,254,Reading,24
+TEST000069,37,State Math Assessment,2017-03-18,175,Mathematics,54
+TEST000070,37,State Reading Assessment,2017-05-08,249,Reading,24
+TEST000071,38,State Math Assessment,2017-04-11,265,Mathematics,51
+TEST000072,38,State Reading Assessment,2017-05-25,161,Reading,90
+TEST000073,39,State Math Assessment,2017-03-25,168,Mathematics,10
+TEST000074,39,State Reading Assessment,2017-04-18,278,Reading,17
+TEST000075,40,State Math Assessment,2017-03-09,221,Mathematics,9
+TEST000076,40,State Reading Assessment,2017-03-18,290,Reading,19
+TEST000077,41,State Math Assessment,2017-03-26,224,Mathematics,48
+TEST000078,41,State Reading Assessment,2017-04-08,177,Reading,47
+TEST000079,43,State Math Assessment,2017-03-20,190,Mathematics,21
+TEST000080,43,State Reading Assessment,2017-03-23,206,Reading,17
+TEST000081,44,State Math Assessment,2017-04-04,237,Mathematics,93
+TEST000082,44,State Reading Assessment,2017-05-02,206,Reading,52
+TEST000083,45,State Math Assessment,2017-05-01,180,Mathematics,26
+TEST000084,45,State Reading Assessment,2017-03-08,281,Reading,58
+TEST000085,46,State Math Assessment,2017-04-02,243,Mathematics,71
+TEST000086,46,State Reading Assessment,2017-04-13,150,Reading,96
+TEST000087,47,State Math Assessment,2017-05-12,218,Mathematics,2
+TEST000088,47,State Reading Assessment,2017-03-10,200,Reading,74
+TEST000089,48,State Math Assessment,2017-04-20,208,Mathematics,57
+TEST000090,48,State Reading Assessment,2017-03-26,296,Reading,94
+TEST000091,49,State Math Assessment,2017-03-02,295,Mathematics,83
+TEST000092,49,State Reading Assessment,2017-05-25,224,Reading,2
+TEST000093,50,State Math Assessment,2017-04-28,202,Mathematics,65
+TEST000094,50,State Reading Assessment,2017-03-06,185,Reading,97
+TEST000095,51,State Math Assessment,2017-04-24,246,Mathematics,26
+TEST000096,51,State Reading Assessment,2017-03-06,298,Reading,71
+TEST000097,52,State Math Assessment,2017-05-06,160,Mathematics,51
+TEST000098,52,State Reading Assessment,2017-04-06,219,Reading,34
+TEST000099,53,State Math Assessment,2017-03-10,231,Mathematics,92
+TEST000100,53,State Reading Assessment,2017-03-17,194,Reading,94
+TEST000101,54,State Math Assessment,2017-03-01,260,Mathematics,62
+TEST000102,54,State Reading Assessment,2017-04-21,161,Reading,13
+TEST000103,55,State Math Assessment,2017-03-02,198,Mathematics,64
+TEST000104,55,State Reading Assessment,2017-03-01,175,Reading,64
+TEST000105,56,State Math Assessment,2017-04-01,254,Mathematics,34
+TEST000106,56,State Reading Assessment,2017-04-07,190,Reading,57
+TEST000107,57,State Math Assessment,2017-03-30,161,Mathematics,80
+TEST000108,57,State Reading Assessment,2017-03-03,293,Reading,3
+TEST000109,58,State Math Assessment,2017-05-17,271,Mathematics,12
+TEST000110,58,State Reading Assessment,2017-05-27,247,Reading,55
+TEST000111,59,State Math Assessment,2017-04-25,295,Mathematics,95
+TEST000112,59,State Reading Assessment,2017-04-24,285,Reading,71
+TEST000113,60,State Math Assessment,2017-04-06,269,Mathematics,61
+TEST000114,60,State Reading Assessment,2017-05-23,189,Reading,25
+TEST000115,61,State Math Assessment,2017-03-07,230,Mathematics,74
+TEST000116,61,State Reading Assessment,2017-03-17,241,Reading,63
+TEST000117,62,State Math Assessment,2017-03-19,166,Mathematics,21
+TEST000118,62,State Reading Assessment,2017-05-01,203,Reading,5
+TEST000119,63,State Math Assessment,2017-04-30,162,Mathematics,7
+TEST000120,63,State Reading Assessment,2017-04-18,248,Reading,39
+TEST000121,64,State Math Assessment,2017-03-18,204,Mathematics,70
+TEST000122,64,State Reading Assessment,2017-04-21,242,Reading,44
+TEST000123,65,State Math Assessment,2017-03-22,288,Mathematics,78
+TEST000124,65,State Reading Assessment,2017-04-03,196,Reading,56
+TEST000125,66,State Math Assessment,2017-03-10,240,Mathematics,47
+TEST000126,66,State Reading Assessment,2017-05-24,242,Reading,87
+TEST000127,67,State Math Assessment,2017-05-06,191,Mathematics,59
+TEST000128,67,State Reading Assessment,2017-05-28,253,Reading,51
+TEST000129,68,State Math Assessment,2017-03-16,205,Mathematics,91
+TEST000130,68,State Reading Assessment,2017-04-28,250,Reading,20
+TEST000131,69,State Math Assessment,2017-04-06,174,Mathematics,76
+TEST000132,69,State Reading Assessment,2017-04-25,262,Reading,16
+TEST000133,70,State Math Assessment,2017-03-18,261,Mathematics,8
+TEST000134,70,State Reading Assessment,2017-05-26,242,Reading,56
+TEST000135,71,State Math Assessment,2017-04-12,206,Mathematics,19
+TEST000136,71,State Reading Assessment,2017-05-08,232,Reading,49
+TEST000137,72,State Math Assessment,2017-05-22,192,Mathematics,24
+TEST000138,72,State Reading Assessment,2017-05-25,225,Reading,93
+TEST000139,73,State Math Assessment,2017-05-14,233,Mathematics,62
+TEST000140,73,State Reading Assessment,2017-03-18,158,Reading,53
+TEST000141,74,State Math Assessment,2017-04-19,150,Mathematics,83
+TEST000142,74,State Reading Assessment,2017-03-15,160,Reading,34
+TEST000143,75,State Math Assessment,2017-05-19,153,Mathematics,63
+TEST000144,75,State Reading Assessment,2017-05-19,244,Reading,17
+TEST000145,76,State Math Assessment,2017-04-13,162,Mathematics,80
+TEST000146,76,State Reading Assessment,2017-03-03,221,Reading,2
+TEST000147,77,State Math Assessment,2017-04-30,180,Mathematics,52
+TEST000148,77,State Reading Assessment,2017-03-04,186,Reading,59
+TEST000149,78,State Math Assessment,2017-05-30,299,Mathematics,20
+TEST000150,78,State Reading Assessment,2017-04-22,165,Reading,37
+TEST000151,79,State Math Assessment,2017-05-26,234,Mathematics,68
+TEST000152,79,State Reading Assessment,2017-05-17,201,Reading,36
+TEST000153,80,State Math Assessment,2017-03-12,192,Mathematics,59
+TEST000154,80,State Reading Assessment,2017-05-18,170,Reading,32
+TEST000155,82,State Math Assessment,2017-05-30,157,Mathematics,22
+TEST000156,82,State Reading Assessment,2017-03-31,298,Reading,94
+TEST000157,83,State Math Assessment,2017-05-30,189,Mathematics,64
+TEST000158,83,State Reading Assessment,2017-03-29,177,Reading,27
+TEST000159,84,State Math Assessment,2017-03-11,245,Mathematics,23
+TEST000160,84,State Reading Assessment,2017-04-03,266,Reading,58
+TEST000161,85,State Math Assessment,2017-05-06,197,Mathematics,95
+TEST000162,85,State Reading Assessment,2017-03-18,286,Reading,15
+TEST000163,86,State Math Assessment,2017-04-27,178,Mathematics,49
+TEST000164,86,State Reading Assessment,2017-04-20,254,Reading,17
+TEST000165,87,State Math Assessment,2017-03-17,150,Mathematics,12
+TEST000166,87,State Reading Assessment,2017-05-27,157,Reading,85
+TEST000167,88,State Math Assessment,2017-03-10,235,Mathematics,79
+TEST000168,88,State Reading Assessment,2017-04-18,225,Reading,79
+TEST000169,89,State Math Assessment,2017-03-19,272,Mathematics,24
+TEST000170,89,State Reading Assessment,2017-04-28,208,Reading,64
+TEST000171,90,State Math Assessment,2017-03-16,264,Mathematics,92
+TEST000172,90,State Reading Assessment,2017-04-29,263,Reading,66
+TEST000173,91,State Math Assessment,2017-05-29,300,Mathematics,5
+TEST000174,91,State Reading Assessment,2017-04-02,173,Reading,35
+TEST000175,92,State Math Assessment,2017-04-14,248,Mathematics,26
+TEST000176,92,State Reading Assessment,2017-05-30,181,Reading,75
+TEST000177,93,State Math Assessment,2017-05-03,209,Mathematics,91
+TEST000178,93,State Reading Assessment,2017-04-23,196,Reading,27
+TEST000179,94,State Math Assessment,2017-05-20,188,Mathematics,3
+TEST000180,94,State Reading Assessment,2017-04-07,289,Reading,14
+TEST000181,95,State Math Assessment,2017-05-16,213,Mathematics,46
+TEST000182,95,State Reading Assessment,2017-04-13,178,Reading,98
+TEST000183,96,State Math Assessment,2017-03-12,272,Mathematics,42
+TEST000184,96,State Reading Assessment,2017-05-04,153,Reading,48
+TEST000185,97,State Math Assessment,2017-04-23,190,Mathematics,67
+TEST000186,97,State Reading Assessment,2017-03-07,207,Reading,13
+TEST000187,98,State Math Assessment,2017-04-02,273,Mathematics,33
+TEST000188,98,State Reading Assessment,2017-03-24,279,Reading,40
+TEST000189,99,State Math Assessment,2017-04-05,207,Mathematics,22
+TEST000190,99,State Reading Assessment,2017-03-14,209,Reading,93
+TEST000191,100,State Math Assessment,2017-03-24,180,Mathematics,72
+TEST000192,100,State Reading Assessment,2017-05-19,165,Reading,35
+TEST000193,101,State Math Assessment,2017-04-17,187,Mathematics,33
+TEST000194,101,State Reading Assessment,2017-03-19,157,Reading,63
+TEST000195,102,State Math Assessment,2017-05-17,223,Mathematics,95
+TEST000196,102,State Reading Assessment,2017-04-09,240,Reading,35
+TEST000197,103,State Math Assessment,2017-03-05,178,Mathematics,13
+TEST000198,103,State Reading Assessment,2017-04-04,295,Reading,3
+TEST000199,104,State Math Assessment,2017-03-06,287,Mathematics,88
+TEST000200,104,State Reading Assessment,2017-05-28,298,Reading,60
+TEST000201,105,State Math Assessment,2017-05-29,164,Mathematics,24
+TEST000202,105,State Reading Assessment,2017-04-16,235,Reading,77
+TEST000203,106,State Math Assessment,2017-05-18,194,Mathematics,10
+TEST000204,106,State Reading Assessment,2017-05-21,291,Reading,88
+TEST000205,107,State Math Assessment,2017-05-28,220,Mathematics,75
+TEST000206,107,State Reading Assessment,2017-05-04,191,Reading,46
+TEST000207,108,State Math Assessment,2017-05-08,300,Mathematics,97
+TEST000208,108,State Reading Assessment,2017-05-13,221,Reading,85
+TEST000209,109,State Math Assessment,2017-05-21,228,Mathematics,28
+TEST000210,109,State Reading Assessment,2017-04-27,253,Reading,62
+TEST000211,110,State Math Assessment,2017-03-10,151,Mathematics,91
+TEST000212,110,State Reading Assessment,2017-05-22,184,Reading,75
+TEST000213,111,State Math Assessment,2017-04-20,195,Mathematics,91
+TEST000214,111,State Reading Assessment,2017-03-09,291,Reading,48
+TEST000215,112,State Math Assessment,2017-05-04,236,Mathematics,10
+TEST000216,112,State Reading Assessment,2017-05-03,297,Reading,88
+TEST000217,113,State Math Assessment,2017-04-01,286,Mathematics,92
+TEST000218,113,State Reading Assessment,2017-05-28,296,Reading,93
+TEST000219,114,State Math Assessment,2017-04-21,229,Mathematics,78
+TEST000220,114,State Reading Assessment,2017-04-24,291,Reading,63
+TEST000221,115,State Math Assessment,2017-04-25,278,Mathematics,7
+TEST000222,115,State Reading Assessment,2017-05-08,193,Reading,42
+TEST000223,116,State Math Assessment,2017-04-21,184,Mathematics,81
+TEST000224,116,State Reading Assessment,2017-04-20,300,Reading,94
+TEST000225,117,State Math Assessment,2017-04-08,262,Mathematics,12
+TEST000226,117,State Reading Assessment,2017-05-13,175,Reading,52
+TEST000227,118,State Math Assessment,2017-04-23,174,Mathematics,49
+TEST000228,118,State Reading Assessment,2017-05-02,288,Reading,46
+TEST000229,119,State Math Assessment,2017-03-20,155,Mathematics,64
+TEST000230,119,State Reading Assessment,2017-03-28,292,Reading,90
+TEST000231,120,State Math Assessment,2017-04-01,292,Mathematics,45
+TEST000232,120,State Reading Assessment,2017-03-14,261,Reading,9
+TEST000233,121,State Math Assessment,2017-04-13,213,Mathematics,20
+TEST000234,121,State Reading Assessment,2017-05-14,225,Reading,18
+TEST000235,122,State Math Assessment,2017-03-20,296,Mathematics,53
+TEST000236,122,State Reading Assessment,2017-03-29,172,Reading,48
+TEST000237,123,State Math Assessment,2017-04-30,192,Mathematics,30
+TEST000238,123,State Reading Assessment,2017-04-11,227,Reading,63
+TEST000239,124,State Math Assessment,2017-04-09,259,Mathematics,10
+TEST000240,124,State Reading Assessment,2017-04-12,156,Reading,58
+TEST000241,125,State Math Assessment,2017-04-06,252,Mathematics,26
+TEST000242,125,State Reading Assessment,2017-03-08,273,Reading,48
+TEST000243,126,State Math Assessment,2017-04-17,213,Mathematics,37
+TEST000244,126,State Reading Assessment,2017-03-03,298,Reading,63
+TEST000245,127,State Math Assessment,2017-04-17,265,Mathematics,48
+TEST000246,127,State Reading Assessment,2017-03-11,247,Reading,76
+TEST000247,128,State Math Assessment,2017-04-01,179,Mathematics,28
+TEST000248,128,State Reading Assessment,2017-04-24,227,Reading,95
+TEST000249,129,State Math Assessment,2017-04-17,264,Mathematics,50
+TEST000250,129,State Reading Assessment,2017-04-29,184,Reading,46
+TEST000251,130,State Math Assessment,2017-04-07,203,Mathematics,80
+TEST000252,130,State Reading Assessment,2017-03-30,277,Reading,81
+TEST000253,131,State Math Assessment,2017-04-18,194,Mathematics,96
+TEST000254,131,State Reading Assessment,2017-05-16,209,Reading,33
+TEST000255,132,State Math Assessment,2017-05-14,180,Mathematics,39
+TEST000256,132,State Reading Assessment,2017-03-28,204,Reading,39
+TEST000257,133,State Math Assessment,2017-05-14,193,Mathematics,37
+TEST000258,133,State Reading Assessment,2017-05-06,190,Reading,85
+TEST000259,134,State Math Assessment,2017-05-07,194,Mathematics,68
+TEST000260,134,State Reading Assessment,2017-03-06,291,Reading,5
+TEST000261,135,State Math Assessment,2017-04-21,267,Mathematics,38
+TEST000262,135,State Reading Assessment,2017-05-20,158,Reading,88
+TEST000263,136,State Math Assessment,2017-03-05,240,Mathematics,69
+TEST000264,136,State Reading Assessment,2017-03-19,202,Reading,50
+TEST000265,137,State Math Assessment,2017-03-09,299,Mathematics,47
+TEST000266,137,State Reading Assessment,2017-03-30,153,Reading,75
+TEST000267,138,State Math Assessment,2017-05-26,155,Mathematics,2
+TEST000268,138,State Reading Assessment,2017-04-27,152,Reading,55
+TEST000269,139,State Math Assessment,2017-05-12,226,Mathematics,81
+TEST000270,139,State Reading Assessment,2017-05-27,249,Reading,62
+TEST000271,140,State Math Assessment,2017-04-25,235,Mathematics,42
+TEST000272,140,State Reading Assessment,2017-04-22,277,Reading,84
+TEST000273,141,State Math Assessment,2017-03-17,275,Mathematics,10
+TEST000274,141,State Reading Assessment,2017-05-02,177,Reading,14
+TEST000275,142,State Math Assessment,2017-03-31,266,Mathematics,57
+TEST000276,142,State Reading Assessment,2017-05-11,244,Reading,63
+TEST000277,143,State Math Assessment,2017-03-05,205,Mathematics,93
+TEST000278,143,State Reading Assessment,2017-04-21,219,Reading,3
+TEST000279,144,State Math Assessment,2017-03-03,194,Mathematics,2
+TEST000280,144,State Reading Assessment,2017-03-05,237,Reading,18
+TEST000281,145,State Math Assessment,2017-03-30,266,Mathematics,22
+TEST000282,145,State Reading Assessment,2017-04-07,296,Reading,72
+TEST000283,146,State Math Assessment,2017-03-19,160,Mathematics,87
+TEST000284,146,State Reading Assessment,2017-04-04,196,Reading,88
+TEST000285,147,State Math Assessment,2017-04-22,225,Mathematics,41
+TEST000286,147,State Reading Assessment,2017-03-06,222,Reading,74
+TEST000287,148,State Math Assessment,2017-05-19,279,Mathematics,89
+TEST000288,148,State Reading Assessment,2017-05-20,263,Reading,75
+TEST000289,149,State Math Assessment,2017-05-06,158,Mathematics,40
+TEST000290,149,State Reading Assessment,2017-05-24,262,Reading,2
+TEST000291,150,State Math Assessment,2017-04-12,287,Mathematics,50
+TEST000292,150,State Reading Assessment,2017-05-11,239,Reading,97
+TEST000293,151,State Math Assessment,2017-04-19,171,Mathematics,86
+TEST000294,151,State Reading Assessment,2017-04-20,276,Reading,60
+TEST000295,152,State Math Assessment,2017-05-22,181,Mathematics,26
+TEST000296,152,State Reading Assessment,2017-03-18,201,Reading,25
+TEST000297,153,State Math Assessment,2017-04-19,255,Mathematics,40
+TEST000298,153,State Reading Assessment,2017-04-06,179,Reading,28
+TEST000299,154,State Math Assessment,2017-05-06,215,Mathematics,86
+TEST000300,154,State Reading Assessment,2017-05-07,288,Reading,99
+TEST000301,155,State Math Assessment,2017-03-05,261,Mathematics,54
+TEST000302,155,State Reading Assessment,2017-05-28,284,Reading,11
+TEST000303,156,State Math Assessment,2017-03-21,296,Mathematics,82
+TEST000304,156,State Reading Assessment,2017-03-10,179,Reading,76
+TEST000305,157,State Math Assessment,2017-04-14,198,Mathematics,54
+TEST000306,157,State Reading Assessment,2017-03-19,212,Reading,9
+TEST000307,158,State Math Assessment,2017-05-26,257,Mathematics,48
+TEST000308,158,State Reading Assessment,2017-03-22,267,Reading,59
+TEST000309,159,State Math Assessment,2017-05-09,174,Mathematics,33
+TEST000310,159,State Reading Assessment,2017-04-01,215,Reading,40
+TEST000311,160,State Math Assessment,2017-03-08,192,Mathematics,66
+TEST000312,160,State Reading Assessment,2017-05-09,273,Reading,99
+TEST000313,161,State Math Assessment,2017-03-20,182,Mathematics,96
+TEST000314,161,State Reading Assessment,2017-04-18,292,Reading,68
+TEST000315,163,State Math Assessment,2017-03-21,277,Mathematics,32
+TEST000316,163,State Reading Assessment,2017-04-25,216,Reading,64
+TEST000317,164,State Math Assessment,2017-05-02,160,Mathematics,37
+TEST000318,164,State Reading Assessment,2017-04-29,261,Reading,6
+TEST000319,165,State Math Assessment,2017-03-02,212,Mathematics,70
+TEST000320,165,State Reading Assessment,2017-03-05,298,Reading,98
+TEST000321,166,State Math Assessment,2017-05-29,241,Mathematics,48
+TEST000322,166,State Reading Assessment,2017-04-07,280,Reading,31
+TEST000323,167,State Math Assessment,2017-03-21,152,Mathematics,72
+TEST000324,167,State Reading Assessment,2017-05-27,272,Reading,46
+TEST000325,168,State Math Assessment,2017-05-06,168,Mathematics,17
+TEST000326,168,State Reading Assessment,2017-03-12,245,Reading,89
+TEST000327,169,State Math Assessment,2017-05-29,240,Mathematics,8
+TEST000328,169,State Reading Assessment,2017-03-29,207,Reading,43
+TEST000329,170,State Math Assessment,2017-03-01,279,Mathematics,90
+TEST000330,170,State Reading Assessment,2017-05-27,276,Reading,40
+TEST000331,171,State Math Assessment,2017-03-24,178,Mathematics,70
+TEST000332,171,State Reading Assessment,2017-05-04,260,Reading,86
+TEST000333,172,State Math Assessment,2017-05-18,207,Mathematics,31
+TEST000334,172,State Reading Assessment,2017-05-28,204,Reading,51
+TEST000335,173,State Math Assessment,2017-05-20,286,Mathematics,26
+TEST000336,173,State Reading Assessment,2017-04-02,165,Reading,32
+TEST000337,174,State Math Assessment,2017-03-18,298,Mathematics,47
+TEST000338,174,State Reading Assessment,2017-04-07,168,Reading,69
+TEST000339,175,State Math Assessment,2017-05-20,158,Mathematics,28
+TEST000340,175,State Reading Assessment,2017-03-23,150,Reading,42
+TEST000341,176,State Math Assessment,2017-04-06,255,Mathematics,74
+TEST000342,176,State Reading Assessment,2017-05-29,250,Reading,50
+TEST000343,177,State Math Assessment,2017-05-21,268,Mathematics,98
+TEST000344,177,State Reading Assessment,2017-04-09,173,Reading,74
+TEST000345,178,State Math Assessment,2017-03-05,154,Mathematics,36
+TEST000346,178,State Reading Assessment,2017-03-16,173,Reading,84
+TEST000347,179,State Math Assessment,2017-03-14,262,Mathematics,59
+TEST000348,179,State Reading Assessment,2017-04-28,204,Reading,75
+TEST000349,180,State Math Assessment,2017-03-24,197,Mathematics,22
+TEST000350,180,State Reading Assessment,2017-04-30,204,Reading,51
+TEST000351,181,State Math Assessment,2017-05-04,196,Mathematics,15
+TEST000352,181,State Reading Assessment,2017-03-26,293,Reading,41
+TEST000353,182,State Math Assessment,2017-05-25,155,Mathematics,72
+TEST000354,182,State Reading Assessment,2017-05-29,182,Reading,74
+TEST000355,183,State Math Assessment,2017-04-11,238,Mathematics,80
+TEST000356,183,State Reading Assessment,2017-05-06,288,Reading,47
+TEST000357,184,State Math Assessment,2017-04-25,153,Mathematics,19
+TEST000358,184,State Reading Assessment,2017-05-08,151,Reading,60
+TEST000359,185,State Math Assessment,2017-05-23,265,Mathematics,26
+TEST000360,185,State Reading Assessment,2017-05-27,297,Reading,31
+TEST000361,186,State Math Assessment,2017-04-30,259,Mathematics,54
+TEST000362,186,State Reading Assessment,2017-03-31,164,Reading,14
+TEST000363,187,State Math Assessment,2017-03-20,222,Mathematics,26
+TEST000364,187,State Reading Assessment,2017-05-25,194,Reading,31
+TEST000365,188,State Math Assessment,2017-05-03,156,Mathematics,33
+TEST000366,188,State Reading Assessment,2017-05-11,183,Reading,93
+TEST000367,189,State Math Assessment,2017-05-28,258,Mathematics,48
+TEST000368,189,State Reading Assessment,2017-03-27,208,Reading,60
+TEST000369,190,State Math Assessment,2017-04-09,199,Mathematics,70
+TEST000370,190,State Reading Assessment,2017-05-07,210,Reading,55
+TEST000371,191,State Math Assessment,2017-03-01,260,Mathematics,97
+TEST000372,191,State Reading Assessment,2017-04-10,168,Reading,57
+TEST000373,192,State Math Assessment,2017-05-19,277,Mathematics,73
+TEST000374,192,State Reading Assessment,2017-04-10,273,Reading,16
+TEST000375,193,State Math Assessment,2017-04-06,275,Mathematics,2
+TEST000376,193,State Reading Assessment,2017-03-27,158,Reading,97
+TEST000377,194,State Math Assessment,2017-05-21,271,Mathematics,93
+TEST000378,194,State Reading Assessment,2017-05-27,165,Reading,98
+TEST000379,195,State Math Assessment,2017-03-19,176,Mathematics,82
+TEST000380,195,State Reading Assessment,2017-05-19,234,Reading,13
+TEST000381,196,State Math Assessment,2017-05-15,249,Mathematics,40
+TEST000382,196,State Reading Assessment,2017-04-17,186,Reading,68
+TEST000383,197,State Math Assessment,2017-03-25,234,Mathematics,37
+TEST000384,197,State Reading Assessment,2017-04-28,222,Reading,99
+TEST000385,198,State Math Assessment,2017-03-02,226,Mathematics,1
+TEST000386,198,State Reading Assessment,2017-04-30,275,Reading,69
+TEST000387,199,State Math Assessment,2017-05-07,260,Mathematics,32
+TEST000388,199,State Reading Assessment,2017-04-08,189,Reading,84
+TEST000389,200,State Math Assessment,2017-03-05,189,Mathematics,8
+TEST000390,200,State Reading Assessment,2017-05-07,253,Reading,21
+TEST000391,201,State Math Assessment,2017-05-14,153,Mathematics,27
+TEST000392,201,State Reading Assessment,2017-04-13,259,Reading,73
+TEST000393,202,State Math Assessment,2017-03-13,230,Mathematics,80
+TEST000394,202,State Reading Assessment,2017-05-04,156,Reading,21
+TEST000395,203,State Math Assessment,2017-05-06,205,Mathematics,69
+TEST000396,203,State Reading Assessment,2017-03-22,256,Reading,8
+TEST000397,204,State Math Assessment,2017-03-07,265,Mathematics,6
+TEST000398,204,State Reading Assessment,2017-05-01,232,Reading,4
+TEST000399,205,State Math Assessment,2017-03-12,252,Mathematics,55
+TEST000400,205,State Reading Assessment,2017-03-12,173,Reading,76
+TEST000401,206,State Math Assessment,2017-03-16,172,Mathematics,9
+TEST000402,206,State Reading Assessment,2017-05-27,211,Reading,95
+TEST000403,207,State Math Assessment,2017-05-16,296,Mathematics,74
+TEST000404,207,State Reading Assessment,2017-04-17,182,Reading,86
+TEST000405,208,State Math Assessment,2017-03-07,260,Mathematics,14
+TEST000406,208,State Reading Assessment,2017-03-18,223,Reading,22
+TEST000407,209,State Math Assessment,2017-04-22,263,Mathematics,96
+TEST000408,209,State Reading Assessment,2017-04-01,295,Reading,45
+TEST000409,210,State Math Assessment,2017-03-17,168,Mathematics,76
+TEST000410,210,State Reading Assessment,2017-05-11,168,Reading,74
+TEST000411,211,State Math Assessment,2017-03-25,226,Mathematics,70
+TEST000412,211,State Reading Assessment,2017-05-06,152,Reading,79
+TEST000413,212,State Math Assessment,2017-05-09,274,Mathematics,27
+TEST000414,212,State Reading Assessment,2017-05-30,221,Reading,44
+TEST000415,213,State Math Assessment,2017-05-07,185,Mathematics,75
+TEST000416,213,State Reading Assessment,2017-04-08,236,Reading,35
+TEST000417,214,State Math Assessment,2017-03-28,197,Mathematics,5
+TEST000418,214,State Reading Assessment,2017-04-22,184,Reading,59
+TEST000419,215,State Math Assessment,2017-03-28,244,Mathematics,48
+TEST000420,215,State Reading Assessment,2017-03-28,287,Reading,40
+TEST000421,216,State Math Assessment,2017-05-23,293,Mathematics,93
+TEST000422,216,State Reading Assessment,2017-04-25,283,Reading,92
+TEST000423,217,State Math Assessment,2017-03-26,218,Mathematics,25
+TEST000424,217,State Reading Assessment,2017-03-11,241,Reading,53
+TEST000425,218,State Math Assessment,2017-05-13,241,Mathematics,65
+TEST000426,218,State Reading Assessment,2017-03-12,270,Reading,41
+TEST000427,219,State Math Assessment,2017-04-08,252,Mathematics,15
+TEST000428,219,State Reading Assessment,2017-05-19,174,Reading,45
+TEST000429,220,State Math Assessment,2017-05-25,283,Mathematics,71
+TEST000430,220,State Reading Assessment,2017-05-25,256,Reading,10
+TEST000431,221,State Math Assessment,2017-03-20,186,Mathematics,80
+TEST000432,221,State Reading Assessment,2017-03-09,296,Reading,75
+TEST000433,222,State Math Assessment,2017-04-23,167,Mathematics,35
+TEST000434,222,State Reading Assessment,2017-05-22,191,Reading,83
+TEST000435,223,State Math Assessment,2017-04-18,217,Mathematics,6
+TEST000436,223,State Reading Assessment,2017-03-20,291,Reading,85
+TEST000437,224,State Math Assessment,2017-03-13,265,Mathematics,3
+TEST000438,224,State Reading Assessment,2017-04-20,231,Reading,29
+TEST000439,225,State Math Assessment,2017-03-04,198,Mathematics,9
+TEST000440,225,State Reading Assessment,2017-04-15,266,Reading,5
+TEST000441,226,State Math Assessment,2017-04-16,238,Mathematics,45
+TEST000442,226,State Reading Assessment,2017-03-11,198,Reading,71
+TEST000443,227,State Math Assessment,2017-03-11,234,Mathematics,52
+TEST000444,227,State Reading Assessment,2017-03-23,229,Reading,1
+TEST000445,228,State Math Assessment,2017-03-04,229,Mathematics,24
+TEST000446,228,State Reading Assessment,2017-05-20,258,Reading,80
+TEST000447,229,State Math Assessment,2017-04-07,179,Mathematics,31
+TEST000448,229,State Reading Assessment,2017-03-18,255,Reading,31
+TEST000449,230,State Math Assessment,2017-03-09,161,Mathematics,71
+TEST000450,230,State Reading Assessment,2017-05-14,260,Reading,13
+TEST000451,231,State Math Assessment,2017-05-07,152,Mathematics,21
+TEST000452,231,State Reading Assessment,2017-05-18,289,Reading,87
+TEST000453,232,State Math Assessment,2017-03-07,248,Mathematics,13
+TEST000454,232,State Reading Assessment,2017-03-24,276,Reading,90
+TEST000455,233,State Math Assessment,2017-04-12,265,Mathematics,60
+TEST000456,233,State Reading Assessment,2017-04-29,208,Reading,67
+TEST000457,234,State Math Assessment,2017-04-06,253,Mathematics,86
+TEST000458,234,State Reading Assessment,2017-04-12,280,Reading,33
+TEST000459,235,State Math Assessment,2017-05-11,155,Mathematics,40
+TEST000460,235,State Reading Assessment,2017-03-14,187,Reading,44
+TEST000461,236,State Math Assessment,2017-04-12,155,Mathematics,2
+TEST000462,236,State Reading Assessment,2017-04-27,162,Reading,3
+TEST000463,237,State Math Assessment,2017-05-14,166,Mathematics,7
+TEST000464,237,State Reading Assessment,2017-03-04,254,Reading,30
+TEST000465,238,State Math Assessment,2017-05-04,151,Mathematics,2
+TEST000466,238,State Reading Assessment,2017-05-30,169,Reading,6
+TEST000467,239,State Math Assessment,2017-04-18,294,Mathematics,15
+TEST000468,239,State Reading Assessment,2017-05-14,183,Reading,6
+TEST000469,240,State Math Assessment,2017-03-19,293,Mathematics,52
+TEST000470,240,State Reading Assessment,2017-05-14,156,Reading,7
+TEST000471,241,State Math Assessment,2017-03-21,182,Mathematics,21
+TEST000472,241,State Reading Assessment,2017-05-10,150,Reading,68
+TEST000473,242,State Math Assessment,2017-03-31,179,Mathematics,86
+TEST000474,242,State Reading Assessment,2017-03-05,214,Reading,84
+TEST000475,243,State Math Assessment,2017-04-25,292,Mathematics,7
+TEST000476,243,State Reading Assessment,2017-03-02,251,Reading,89
+TEST000477,244,State Math Assessment,2017-03-15,211,Mathematics,5
+TEST000478,244,State Reading Assessment,2017-04-03,172,Reading,54
+TEST000479,245,State Math Assessment,2017-05-23,257,Mathematics,15
+TEST000480,245,State Reading Assessment,2017-03-25,284,Reading,67
+TEST000481,246,State Math Assessment,2017-05-29,292,Mathematics,30
+TEST000482,246,State Reading Assessment,2017-03-18,211,Reading,50
+TEST000483,247,State Math Assessment,2017-04-03,294,Mathematics,43
+TEST000484,247,State Reading Assessment,2017-04-14,242,Reading,73
+TEST000485,248,State Math Assessment,2017-03-20,284,Mathematics,44
+TEST000486,248,State Reading Assessment,2017-05-27,260,Reading,39
+TEST000487,249,State Math Assessment,2017-05-02,199,Mathematics,42
+TEST000488,249,State Reading Assessment,2017-03-06,223,Reading,39
+TEST000489,250,State Math Assessment,2017-04-07,170,Mathematics,84
+TEST000490,250,State Reading Assessment,2017-04-06,245,Reading,95
+TEST000491,251,State Math Assessment,2017-03-15,211,Mathematics,27
+TEST000492,251,State Reading Assessment,2017-03-29,191,Reading,15
+TEST000493,252,State Math Assessment,2017-04-19,228,Mathematics,4
+TEST000494,252,State Reading Assessment,2017-03-07,194,Reading,56
+TEST000495,253,State Math Assessment,2017-03-22,159,Mathematics,17
+TEST000496,253,State Reading Assessment,2017-03-18,253,Reading,81
+TEST000497,254,State Math Assessment,2017-04-30,181,Mathematics,76
+TEST000498,254,State Reading Assessment,2017-03-19,293,Reading,3
+TEST000499,255,State Math Assessment,2017-04-02,288,Mathematics,88
+TEST000500,255,State Reading Assessment,2017-05-03,275,Reading,99
+TEST000501,256,State Math Assessment,2017-05-10,229,Mathematics,2
+TEST000502,256,State Reading Assessment,2017-04-12,211,Reading,68
+TEST000503,257,State Math Assessment,2017-03-03,263,Mathematics,61
+TEST000504,257,State Reading Assessment,2017-05-24,158,Reading,94
+TEST000505,258,State Math Assessment,2017-04-12,275,Mathematics,27
+TEST000506,258,State Reading Assessment,2017-03-07,213,Reading,10
+TEST000507,259,State Math Assessment,2017-05-21,223,Mathematics,90
+TEST000508,259,State Reading Assessment,2017-03-24,291,Reading,63
+TEST000509,260,State Math Assessment,2017-04-28,179,Mathematics,61
+TEST000510,260,State Reading Assessment,2017-04-21,172,Reading,80
+TEST000511,262,State Math Assessment,2017-03-28,189,Mathematics,12
+TEST000512,262,State Reading Assessment,2017-04-24,227,Reading,31
+TEST000513,263,State Math Assessment,2017-03-16,247,Mathematics,2
+TEST000514,263,State Reading Assessment,2017-03-14,233,Reading,42
+TEST000515,264,State Math Assessment,2017-04-23,294,Mathematics,20
+TEST000516,264,State Reading Assessment,2017-03-31,165,Reading,19
+TEST000517,265,State Math Assessment,2017-03-06,182,Mathematics,99
+TEST000518,265,State Reading Assessment,2017-03-11,240,Reading,75
+TEST000519,266,State Math Assessment,2017-05-06,290,Mathematics,18
+TEST000520,266,State Reading Assessment,2017-03-07,199,Reading,32
+TEST000521,267,State Math Assessment,2017-04-09,161,Mathematics,51
+TEST000522,267,State Reading Assessment,2017-04-20,298,Reading,72
+TEST000523,268,State Math Assessment,2017-04-21,271,Mathematics,61
+TEST000524,268,State Reading Assessment,2017-03-02,238,Reading,62
+TEST000525,269,State Math Assessment,2017-04-30,199,Mathematics,70
+TEST000526,269,State Reading Assessment,2017-05-09,283,Reading,12
+TEST000527,270,State Math Assessment,2017-03-17,232,Mathematics,51
+TEST000528,270,State Reading Assessment,2017-05-10,203,Reading,37
+TEST000529,271,State Math Assessment,2017-05-30,166,Mathematics,93
+TEST000530,271,State Reading Assessment,2017-04-01,179,Reading,71
+TEST000531,272,State Math Assessment,2017-04-05,213,Mathematics,11
+TEST000532,272,State Reading Assessment,2017-03-04,217,Reading,99
+TEST000533,273,State Math Assessment,2017-03-14,244,Mathematics,43
+TEST000534,273,State Reading Assessment,2017-05-27,181,Reading,82
+TEST000535,273,PSAT,2017-03-11,1476,Reading,89
+TEST000536,273,SAT,2017-05-06,550,Reading,12
+TEST000537,274,State Math Assessment,2017-03-23,164,Mathematics,3
+TEST000538,274,State Reading Assessment,2017-03-01,201,Reading,19
+TEST000539,274,PSAT,2017-04-07,510,Reading,9
+TEST000540,274,SAT,2017-03-01,648,Reading,20
+TEST000541,275,State Math Assessment,2017-04-24,169,Mathematics,4
+TEST000542,275,State Reading Assessment,2017-03-06,202,Reading,28
+TEST000543,275,PSAT,2017-05-19,615,Reading,17
+TEST000544,275,SAT,2017-04-07,1015,Reading,51
+TEST000545,276,State Math Assessment,2017-05-14,168,Mathematics,71
+TEST000546,276,State Reading Assessment,2017-04-25,238,Reading,55
+TEST000547,276,PSAT,2017-03-12,1403,Reading,83
+TEST000548,276,SAT,2017-05-23,920,Reading,43
+TEST000549,277,State Math Assessment,2017-03-22,282,Mathematics,38
+TEST000550,277,State Reading Assessment,2017-05-13,185,Reading,18
+TEST000551,277,PSAT,2017-05-01,1379,Reading,81
+TEST000552,277,SAT,2017-03-04,833,Reading,36
+TEST000553,278,State Math Assessment,2017-04-24,191,Mathematics,30
+TEST000554,278,State Reading Assessment,2017-04-22,234,Reading,48
+TEST000555,278,PSAT,2017-03-08,979,Reading,48
+TEST000556,278,SAT,2017-03-02,1313,Reading,76
+TEST000557,279,State Math Assessment,2017-05-02,151,Mathematics,22
+TEST000558,279,State Reading Assessment,2017-05-20,258,Reading,38
+TEST000559,279,PSAT,2017-05-28,856,Reading,38
+TEST000560,279,SAT,2017-04-16,1244,Reading,70
+TEST000561,280,State Math Assessment,2017-05-30,269,Mathematics,27
+TEST000562,280,State Reading Assessment,2017-04-25,181,Reading,94
+TEST000563,280,PSAT,2017-05-02,1250,Reading,70
+TEST000564,280,SAT,2017-04-07,1459,Reading,88
+TEST000565,281,State Math Assessment,2017-03-28,267,Mathematics,48
+TEST000566,281,State Reading Assessment,2017-05-06,264,Reading,25
+TEST000567,281,PSAT,2017-04-29,423,Reading,1
+TEST000568,281,SAT,2017-04-07,1065,Reading,55
+TEST000569,282,State Math Assessment,2017-04-13,290,Mathematics,86
+TEST000570,282,State Reading Assessment,2017-05-28,169,Reading,36
+TEST000571,282,PSAT,2017-05-12,1534,Reading,94
+TEST000572,282,SAT,2017-03-24,898,Reading,41
+TEST000573,283,State Math Assessment,2017-05-06,169,Mathematics,53
+TEST000574,283,State Reading Assessment,2017-04-17,282,Reading,82
+TEST000575,283,PSAT,2017-04-29,1551,Reading,95
+TEST000576,283,SAT,2017-03-25,405,Reading,1
+TEST000577,284,State Math Assessment,2017-04-03,219,Mathematics,91
+TEST000578,284,State Reading Assessment,2017-05-01,243,Reading,42
+TEST000579,284,PSAT,2017-04-14,1303,Reading,75
+TEST000580,284,SAT,2017-04-16,893,Reading,41
+TEST000581,285,State Math Assessment,2017-05-29,259,Mathematics,17
+TEST000582,285,State Reading Assessment,2017-05-27,237,Reading,91
+TEST000583,285,PSAT,2017-03-15,1364,Reading,80
+TEST000584,285,SAT,2017-04-14,1206,Reading,67
+TEST000585,286,State Math Assessment,2017-04-22,294,Mathematics,17
+TEST000586,286,State Reading Assessment,2017-05-25,232,Reading,47
+TEST000587,286,PSAT,2017-04-04,420,Reading,1
+TEST000588,286,SAT,2017-03-22,686,Reading,23
+TEST000589,287,State Math Assessment,2017-03-15,263,Mathematics,56
+TEST000590,287,State Reading Assessment,2017-03-28,179,Reading,11
+TEST000591,287,PSAT,2017-05-01,851,Reading,37
+TEST000592,287,SAT,2017-05-10,1310,Reading,75
+TEST000593,288,State Math Assessment,2017-03-17,262,Mathematics,13
+TEST000594,288,State Reading Assessment,2017-04-07,269,Reading,32
+TEST000595,288,PSAT,2017-03-25,1513,Reading,92
+TEST000596,288,SAT,2017-05-25,939,Reading,44
+TEST000597,289,State Math Assessment,2017-03-16,168,Mathematics,11
+TEST000598,289,State Reading Assessment,2017-04-05,250,Reading,76
+TEST000599,289,PSAT,2017-05-11,412,Reading,1
+TEST000600,289,SAT,2017-03-03,962,Reading,46
+TEST000601,290,State Math Assessment,2017-04-11,284,Mathematics,89
+TEST000602,290,State Reading Assessment,2017-05-18,200,Reading,41
+TEST000603,290,PSAT,2017-03-30,1265,Reading,72
+TEST000604,290,SAT,2017-03-14,1385,Reading,82
+TEST000605,291,State Math Assessment,2017-03-05,285,Mathematics,83
+TEST000606,291,State Reading Assessment,2017-04-14,300,Reading,64
+TEST000607,291,PSAT,2017-04-09,683,Reading,23
+TEST000608,291,SAT,2017-05-09,1217,Reading,68
+TEST000609,292,State Math Assessment,2017-05-25,235,Mathematics,88
+TEST000610,292,State Reading Assessment,2017-04-22,189,Reading,19
+TEST000611,292,PSAT,2017-05-22,1031,Reading,52
+TEST000612,292,SAT,2017-03-23,555,Reading,12
+TEST000613,293,State Math Assessment,2017-04-09,253,Mathematics,89
+TEST000614,293,State Reading Assessment,2017-03-13,163,Reading,29
+TEST000615,293,PSAT,2017-05-21,1319,Reading,76
+TEST000616,293,SAT,2017-04-30,1255,Reading,71
+TEST000617,294,State Math Assessment,2017-04-04,266,Mathematics,24
+TEST000618,294,State Reading Assessment,2017-03-21,159,Reading,89
+TEST000619,294,PSAT,2017-04-09,795,Reading,32
+TEST000620,294,SAT,2017-04-10,1135,Reading,61
+TEST000621,295,State Math Assessment,2017-05-25,257,Mathematics,97
+TEST000622,295,State Reading Assessment,2017-04-10,287,Reading,79
+TEST000623,295,PSAT,2017-04-14,1537,Reading,94
+TEST000624,295,SAT,2017-05-11,593,Reading,16
+TEST000625,296,State Math Assessment,2017-04-13,241,Mathematics,34
+TEST000626,296,State Reading Assessment,2017-04-13,266,Reading,95
+TEST000627,296,PSAT,2017-04-07,542,Reading,11
+TEST000628,296,SAT,2017-04-15,1529,Reading,94
+TEST000629,297,State Math Assessment,2017-04-05,156,Mathematics,81
+TEST000630,297,State Reading Assessment,2017-04-02,296,Reading,30
+TEST000631,297,PSAT,2017-04-01,686,Reading,23
+TEST000632,297,SAT,2017-05-04,1218,Reading,68
+TEST000633,298,State Math Assessment,2017-04-08,237,Mathematics,63
+TEST000634,298,State Reading Assessment,2017-03-13,155,Reading,9
+TEST000635,298,PSAT,2017-05-10,1352,Reading,79
+TEST000636,298,SAT,2017-04-21,911,Reading,42
+TEST000637,299,State Math Assessment,2017-03-20,268,Mathematics,95
+TEST000638,299,State Reading Assessment,2017-03-24,214,Reading,29
+TEST000639,299,PSAT,2017-03-22,710,Reading,25
+TEST000640,299,SAT,2017-05-09,821,Reading,35
+TEST000641,300,State Math Assessment,2017-03-19,174,Mathematics,30
+TEST000642,300,State Reading Assessment,2017-04-25,291,Reading,7
+TEST000643,300,PSAT,2017-03-19,465,Reading,5
+TEST000644,300,SAT,2017-05-24,1231,Reading,69
+TEST000645,301,State Math Assessment,2017-05-10,209,Mathematics,45
+TEST000646,301,State Reading Assessment,2017-05-04,152,Reading,23
+TEST000647,301,PSAT,2017-05-16,853,Reading,37
+TEST000648,301,SAT,2017-04-30,1114,Reading,59
+TEST000649,302,State Math Assessment,2017-04-05,266,Mathematics,72
+TEST000650,302,State Reading Assessment,2017-05-27,220,Reading,42
+TEST000651,302,PSAT,2017-04-14,1004,Reading,50
+TEST000652,302,SAT,2017-04-23,698,Reading,24
+TEST000653,303,State Math Assessment,2017-05-23,152,Mathematics,18
+TEST000654,303,State Reading Assessment,2017-05-14,232,Reading,96
+TEST000655,303,PSAT,2017-05-16,995,Reading,49
+TEST000656,303,SAT,2017-04-09,1583,Reading,98
+TEST000657,304,State Math Assessment,2017-04-06,189,Mathematics,87
+TEST000658,304,State Reading Assessment,2017-05-02,204,Reading,1
+TEST000659,304,PSAT,2017-03-30,978,Reading,48
+TEST000660,304,SAT,2017-03-21,1231,Reading,69
+TEST000661,305,State Math Assessment,2017-04-08,160,Mathematics,78
+TEST000662,305,State Reading Assessment,2017-03-14,243,Reading,94
+TEST000663,305,PSAT,2017-04-15,1548,Reading,95
+TEST000664,305,SAT,2017-03-11,1429,Reading,85
+TEST000665,306,State Math Assessment,2017-04-22,178,Mathematics,60
+TEST000666,306,State Reading Assessment,2017-05-03,238,Reading,61
+TEST000667,306,PSAT,2017-04-13,899,Reading,41
+TEST000668,306,SAT,2017-03-30,477,Reading,6
+TEST000669,307,State Math Assessment,2017-05-27,178,Mathematics,91
+TEST000670,307,State Reading Assessment,2017-05-20,203,Reading,87
+TEST000671,307,PSAT,2017-05-15,675,Reading,22
+TEST000672,307,SAT,2017-05-24,810,Reading,34
+TEST000673,308,State Math Assessment,2017-04-30,247,Mathematics,4
+TEST000674,308,State Reading Assessment,2017-04-10,229,Reading,97
+TEST000675,308,PSAT,2017-03-05,899,Reading,41
+TEST000676,308,SAT,2017-03-20,1319,Reading,76
+TEST000677,309,State Math Assessment,2017-03-22,187,Mathematics,59
+TEST000678,309,State Reading Assessment,2017-04-02,162,Reading,72
+TEST000679,309,PSAT,2017-04-23,797,Reading,33
+TEST000680,309,SAT,2017-05-26,1154,Reading,62
+TEST000681,310,State Math Assessment,2017-03-16,218,Mathematics,61
+TEST000682,310,State Reading Assessment,2017-05-04,278,Reading,91
+TEST000683,310,PSAT,2017-04-07,550,Reading,12
+TEST000684,310,SAT,2017-05-30,1259,Reading,71
+TEST000685,311,State Math Assessment,2017-04-20,237,Mathematics,89
+TEST000686,311,State Reading Assessment,2017-04-11,165,Reading,74
+TEST000687,311,PSAT,2017-03-18,1289,Reading,74
+TEST000688,311,SAT,2017-04-13,1424,Reading,85
+TEST000689,311,AP Exam,2017-03-03,263,Reading,9
+TEST000690,312,State Math Assessment,2017-05-07,294,Mathematics,79
+TEST000691,312,State Reading Assessment,2017-03-21,230,Reading,10
+TEST000692,312,PSAT,2017-04-07,1490,Reading,90
+TEST000693,312,SAT,2017-04-25,1557,Reading,96
+TEST000694,312,AP Exam,2017-05-04,270,Reading,24
+TEST000695,313,State Math Assessment,2017-03-17,220,Mathematics,83
+TEST000696,313,State Reading Assessment,2017-03-27,271,Reading,75
+TEST000697,313,PSAT,2017-05-12,804,Reading,33
+TEST000698,313,SAT,2017-05-06,468,Reading,5
+TEST000699,313,AP Exam,2017-04-24,212,Reading,94
+TEST000700,314,State Math Assessment,2017-05-14,218,Mathematics,26
+TEST000701,314,State Reading Assessment,2017-03-16,294,Reading,26
+TEST000702,314,PSAT,2017-05-02,1395,Reading,82
+TEST000703,314,SAT,2017-04-09,1497,Reading,91
+TEST000704,314,AP Exam,2017-04-25,267,Reading,44
+TEST000705,315,State Math Assessment,2017-05-15,177,Mathematics,54
+TEST000706,315,State Reading Assessment,2017-05-17,199,Reading,7
+TEST000707,315,PSAT,2017-03-20,615,Reading,17
+TEST000708,315,SAT,2017-03-15,843,Reading,36
+TEST000709,316,State Math Assessment,2017-04-09,181,Mathematics,33
+TEST000710,316,State Reading Assessment,2017-03-31,285,Reading,53
+TEST000711,316,PSAT,2017-04-15,1557,Reading,96
+TEST000712,316,SAT,2017-03-24,1456,Reading,88
+TEST000713,317,State Math Assessment,2017-05-24,212,Mathematics,62
+TEST000714,317,State Reading Assessment,2017-05-11,236,Reading,16
+TEST000715,317,PSAT,2017-03-13,682,Reading,23
+TEST000716,317,SAT,2017-05-14,1407,Reading,83
+TEST000717,317,AP Exam,2017-05-30,207,Reading,83
+TEST000718,318,State Math Assessment,2017-04-17,177,Mathematics,40
+TEST000719,318,State Reading Assessment,2017-03-31,256,Reading,32
+TEST000720,318,PSAT,2017-04-29,1082,Reading,56
+TEST000721,318,SAT,2017-05-30,746,Reading,28
+TEST000722,319,State Math Assessment,2017-05-14,176,Mathematics,28
+TEST000723,319,State Reading Assessment,2017-04-29,228,Reading,69
+TEST000724,319,PSAT,2017-04-21,1564,Reading,97
+TEST000725,319,SAT,2017-05-11,799,Reading,33
+TEST000726,320,State Math Assessment,2017-04-30,236,Mathematics,87
+TEST000727,320,State Reading Assessment,2017-05-25,299,Reading,55
+TEST000728,320,PSAT,2017-03-04,689,Reading,24
+TEST000729,320,SAT,2017-05-05,1480,Reading,90
+TEST000730,321,State Math Assessment,2017-03-10,262,Mathematics,15
+TEST000731,321,State Reading Assessment,2017-05-16,261,Reading,22
+TEST000732,321,PSAT,2017-03-07,1595,Reading,99
+TEST000733,321,SAT,2017-03-09,1579,Reading,98
+TEST000734,321,AP Exam,2017-03-03,212,Reading,37
+TEST000735,322,State Math Assessment,2017-03-01,182,Mathematics,77
+TEST000736,322,State Reading Assessment,2017-05-29,259,Reading,91
+TEST000737,322,PSAT,2017-05-23,524,Reading,10
+TEST000738,322,SAT,2017-05-24,1157,Reading,63
+TEST000739,323,State Math Assessment,2017-03-06,209,Mathematics,40
+TEST000740,323,State Reading Assessment,2017-04-02,207,Reading,28
+TEST000741,323,PSAT,2017-05-22,1441,Reading,86
+TEST000742,323,SAT,2017-03-09,1003,Reading,50
+TEST000743,324,State Math Assessment,2017-03-31,160,Mathematics,28
+TEST000744,324,State Reading Assessment,2017-05-30,172,Reading,91
+TEST000745,324,PSAT,2017-05-27,1553,Reading,96
+TEST000746,324,SAT,2017-04-04,617,Reading,18
+TEST000747,324,AP Exam,2017-03-20,180,Reading,13
+TEST000748,325,State Math Assessment,2017-05-12,255,Mathematics,34
+TEST000749,325,State Reading Assessment,2017-03-15,165,Reading,81
+TEST000750,325,PSAT,2017-03-21,1516,Reading,93
+TEST000751,325,SAT,2017-03-30,1509,Reading,92
+TEST000752,325,AP Exam,2017-05-21,267,Reading,1
+TEST000753,326,State Math Assessment,2017-03-07,192,Mathematics,76
+TEST000754,326,State Reading Assessment,2017-04-05,273,Reading,71
+TEST000755,326,PSAT,2017-04-30,556,Reading,13
+TEST000756,326,SAT,2017-05-28,793,Reading,32
+TEST000757,327,State Math Assessment,2017-03-31,174,Mathematics,85
+TEST000758,327,State Reading Assessment,2017-04-26,159,Reading,38
+TEST000759,327,PSAT,2017-05-27,1441,Reading,86
+TEST000760,327,SAT,2017-05-20,524,Reading,10
+TEST000761,328,State Math Assessment,2017-04-13,176,Mathematics,47
+TEST000762,328,State Reading Assessment,2017-04-16,228,Reading,32
+TEST000763,328,PSAT,2017-04-02,578,Reading,14
+TEST000764,328,SAT,2017-05-08,1083,Reading,56
+TEST000765,328,AP Exam,2017-03-18,291,Reading,55
+TEST000766,329,State Math Assessment,2017-03-29,276,Mathematics,18
+TEST000767,329,State Reading Assessment,2017-03-30,218,Reading,16
+TEST000768,329,PSAT,2017-03-10,1176,Reading,64
+TEST000769,329,SAT,2017-05-17,474,Reading,6
+TEST000770,330,State Math Assessment,2017-04-24,235,Mathematics,78
+TEST000771,330,State Reading Assessment,2017-03-16,168,Reading,61
+TEST000772,330,PSAT,2017-05-27,1382,Reading,81
+TEST000773,330,SAT,2017-05-25,516,Reading,9
+TEST000774,331,State Math Assessment,2017-03-15,273,Mathematics,7
+TEST000775,331,State Reading Assessment,2017-03-16,283,Reading,45
+TEST000776,331,PSAT,2017-04-10,1107,Reading,58
+TEST000777,331,SAT,2017-03-12,423,Reading,1
+TEST000778,332,State Math Assessment,2017-04-21,299,Mathematics,75
+TEST000779,332,State Reading Assessment,2017-05-28,160,Reading,56
+TEST000780,332,PSAT,2017-04-30,425,Reading,2
+TEST000781,332,SAT,2017-04-09,561,Reading,13
+TEST000782,332,AP Exam,2017-03-16,299,Reading,53
+TEST000783,333,State Math Assessment,2017-04-24,181,Mathematics,45
+TEST000784,333,State Reading Assessment,2017-04-23,182,Reading,77
+TEST000785,333,PSAT,2017-05-01,1239,Reading,69
+TEST000786,333,SAT,2017-04-15,572,Reading,14
+TEST000787,334,State Math Assessment,2017-05-07,294,Mathematics,9
+TEST000788,334,State Reading Assessment,2017-03-28,276,Reading,75
+TEST000789,334,PSAT,2017-05-06,1092,Reading,57
+TEST000790,334,SAT,2017-05-22,765,Reading,30
+TEST000791,335,State Math Assessment,2017-05-27,264,Mathematics,4
+TEST000792,335,State Reading Assessment,2017-03-25,172,Reading,55
+TEST000793,335,PSAT,2017-03-12,626,Reading,18
+TEST000794,335,SAT,2017-05-04,475,Reading,6
+TEST000795,336,State Math Assessment,2017-03-15,262,Mathematics,45
+TEST000796,336,State Reading Assessment,2017-05-28,156,Reading,65
+TEST000797,336,PSAT,2017-04-13,814,Reading,34
+TEST000798,336,SAT,2017-03-10,1480,Reading,90
+TEST000799,337,State Math Assessment,2017-05-13,255,Mathematics,99
+TEST000800,337,State Reading Assessment,2017-03-04,154,Reading,65
+TEST000801,337,PSAT,2017-03-14,1018,Reading,51
+TEST000802,337,SAT,2017-05-25,1218,Reading,68
+TEST000803,338,State Math Assessment,2017-04-06,240,Mathematics,40
+TEST000804,338,State Reading Assessment,2017-04-15,184,Reading,14
+TEST000805,338,PSAT,2017-04-06,1498,Reading,91
+TEST000806,338,SAT,2017-04-16,1203,Reading,66
+TEST000807,339,State Math Assessment,2017-03-17,237,Mathematics,92
+TEST000808,339,State Reading Assessment,2017-05-14,251,Reading,58
+TEST000809,339,PSAT,2017-03-02,941,Reading,45
+TEST000810,339,SAT,2017-04-26,1541,Reading,95
+TEST000811,340,State Math Assessment,2017-05-06,191,Mathematics,74
+TEST000812,340,State Reading Assessment,2017-05-19,173,Reading,85
+TEST000813,340,PSAT,2017-04-05,1232,Reading,69
+TEST000814,340,SAT,2017-05-30,1286,Reading,73
+TEST000815,340,AP Exam,2017-04-12,238,Reading,47
+TEST000816,341,State Math Assessment,2017-04-26,241,Mathematics,94
+TEST000817,341,State Reading Assessment,2017-04-25,175,Reading,7
+TEST000818,341,PSAT,2017-03-18,1228,Reading,69
+TEST000819,341,SAT,2017-04-13,657,Reading,21
+TEST000820,342,State Math Assessment,2017-05-26,263,Mathematics,33
+TEST000821,342,State Reading Assessment,2017-03-02,170,Reading,2
+TEST000822,342,PSAT,2017-04-17,1200,Reading,66
+TEST000823,342,SAT,2017-05-05,1416,Reading,84
+TEST000824,343,State Math Assessment,2017-04-25,253,Mathematics,29
+TEST000825,343,State Reading Assessment,2017-04-03,238,Reading,51
+TEST000826,343,PSAT,2017-05-25,1142,Reading,61
+TEST000827,343,SAT,2017-04-02,1159,Reading,63
+TEST000828,343,AP Exam,2017-03-09,227,Reading,98
+TEST000829,344,State Math Assessment,2017-05-26,218,Mathematics,48
+TEST000830,344,State Reading Assessment,2017-04-05,215,Reading,56
+TEST000831,344,PSAT,2017-03-07,1470,Reading,89
+TEST000832,344,SAT,2017-03-18,990,Reading,49
+TEST000833,345,State Math Assessment,2017-03-14,185,Mathematics,94
+TEST000834,345,State Reading Assessment,2017-04-30,170,Reading,43
+TEST000835,345,PSAT,2017-03-30,962,Reading,46
+TEST000836,345,SAT,2017-05-05,678,Reading,23
+TEST000837,346,State Math Assessment,2017-04-08,211,Mathematics,78
+TEST000838,346,State Reading Assessment,2017-05-29,289,Reading,66
+TEST000839,346,PSAT,2017-03-15,995,Reading,49
+TEST000840,346,SAT,2017-03-11,1389,Reading,82
+TEST000841,346,AP Exam,2017-05-30,232,Reading,61
+TEST000842,347,State Math Assessment,2017-05-16,281,Mathematics,46
+TEST000843,347,State Reading Assessment,2017-05-04,171,Reading,48
+TEST000844,347,PSAT,2017-03-20,946,Reading,45
+TEST000845,347,SAT,2017-05-01,692,Reading,24
+TEST000846,348,State Math Assessment,2017-04-01,252,Mathematics,32
+TEST000847,348,State Reading Assessment,2017-03-29,195,Reading,62
+TEST000848,348,PSAT,2017-05-09,875,Reading,39
+TEST000849,348,SAT,2017-05-16,1409,Reading,84
+TEST000850,349,State Math Assessment,2017-05-16,281,Mathematics,38
+TEST000851,349,State Reading Assessment,2017-03-09,174,Reading,73
+TEST000852,349,PSAT,2017-04-04,1050,Reading,54
+TEST000853,349,SAT,2017-04-28,1583,Reading,98
+TEST000854,350,State Math Assessment,2017-05-17,166,Mathematics,71
+TEST000855,350,State Reading Assessment,2017-04-18,226,Reading,80
+TEST000856,350,PSAT,2017-03-02,451,Reading,4
+TEST000857,350,SAT,2017-04-30,898,Reading,41
+TEST000858,350,AP Exam,2017-05-26,298,Reading,94
+TEST000859,351,State Math Assessment,2017-04-27,176,Mathematics,17
+TEST000860,351,State Reading Assessment,2017-04-10,202,Reading,53
+TEST000861,351,PSAT,2017-03-17,1078,Reading,56
+TEST000862,351,SAT,2017-04-05,1052,Reading,54
+TEST000863,351,AP Exam,2017-05-22,287,Reading,69
+TEST000864,352,State Math Assessment,2017-03-25,191,Mathematics,68
+TEST000865,352,State Reading Assessment,2017-03-19,224,Reading,52
+TEST000866,352,PSAT,2017-04-19,928,Reading,44
+TEST000867,352,SAT,2017-03-28,809,Reading,34
+TEST000868,352,AP Exam,2017-04-20,233,Reading,20
+TEST000869,353,State Math Assessment,2017-05-27,277,Mathematics,38
+TEST000870,353,State Reading Assessment,2017-05-28,232,Reading,82
+TEST000871,353,PSAT,2017-03-03,1281,Reading,73
+TEST000872,353,SAT,2017-04-17,573,Reading,14
+TEST000873,354,State Math Assessment,2017-03-31,212,Mathematics,86
+TEST000874,354,State Reading Assessment,2017-05-27,287,Reading,42
+TEST000875,354,PSAT,2017-03-17,1235,Reading,69
+TEST000876,354,SAT,2017-03-06,994,Reading,49
+TEST000877,354,AP Exam,2017-05-03,219,Reading,96
+TEST000878,355,State Math Assessment,2017-03-24,260,Mathematics,12
+TEST000879,355,State Reading Assessment,2017-05-08,206,Reading,31
+TEST000880,355,PSAT,2017-03-30,1225,Reading,68
+TEST000881,355,SAT,2017-03-26,1062,Reading,55
+TEST000882,356,State Math Assessment,2017-04-13,197,Mathematics,21
+TEST000883,356,State Reading Assessment,2017-04-12,285,Reading,66
+TEST000884,356,PSAT,2017-04-02,944,Reading,45
+TEST000885,356,SAT,2017-03-04,1118,Reading,59
+TEST000886,357,State Math Assessment,2017-03-27,247,Mathematics,41
+TEST000887,357,State Reading Assessment,2017-05-12,216,Reading,42
+TEST000888,357,PSAT,2017-05-13,651,Reading,20
+TEST000889,357,SAT,2017-05-03,846,Reading,37
+TEST000890,358,State Math Assessment,2017-04-14,239,Mathematics,51
+TEST000891,358,State Reading Assessment,2017-05-04,175,Reading,59
+TEST000892,358,PSAT,2017-03-08,777,Reading,31
+TEST000893,358,SAT,2017-04-02,863,Reading,38
+TEST000894,359,State Math Assessment,2017-04-23,226,Mathematics,56
+TEST000895,359,State Reading Assessment,2017-03-04,275,Reading,90
+TEST000896,359,PSAT,2017-03-13,929,Reading,44
+TEST000897,359,SAT,2017-05-24,1325,Reading,77
+TEST000898,359,AP Exam,2017-05-29,260,Reading,33
+TEST000899,360,State Math Assessment,2017-04-30,150,Mathematics,18
+TEST000900,360,State Reading Assessment,2017-03-02,263,Reading,20
+TEST000901,360,PSAT,2017-05-11,729,Reading,27
+TEST000902,360,SAT,2017-04-25,404,Reading,1
+TEST000903,360,AP Exam,2017-03-02,195,Reading,48
+TEST000904,361,State Math Assessment,2017-03-30,171,Mathematics,28
+TEST000905,361,State Reading Assessment,2017-04-06,252,Reading,59
+TEST000906,361,PSAT,2017-03-20,553,Reading,12
+TEST000907,361,SAT,2017-05-27,1169,Reading,64
+TEST000908,362,State Math Assessment,2017-04-15,200,Mathematics,79
+TEST000909,362,State Reading Assessment,2017-04-06,199,Reading,9
+TEST000910,362,PSAT,2017-04-07,1309,Reading,75
+TEST000911,362,SAT,2017-03-04,1262,Reading,71
+TEST000912,363,State Math Assessment,2017-05-07,199,Mathematics,51
+TEST000913,363,State Reading Assessment,2017-05-05,287,Reading,70
+TEST000914,363,PSAT,2017-03-27,606,Reading,17
+TEST000915,363,SAT,2017-05-07,1043,Reading,53
+TEST000916,364,State Math Assessment,2017-04-06,181,Mathematics,60
+TEST000917,364,State Reading Assessment,2017-04-02,211,Reading,13
+TEST000918,364,PSAT,2017-04-05,511,Reading,9
+TEST000919,364,SAT,2017-05-17,1553,Reading,96
+TEST000920,365,State Math Assessment,2017-04-19,193,Mathematics,79
+TEST000921,365,State Reading Assessment,2017-05-22,173,Reading,93
+TEST000922,365,PSAT,2017-05-16,466,Reading,5
+TEST000923,365,SAT,2017-04-11,619,Reading,18
+TEST000924,366,State Math Assessment,2017-04-09,234,Mathematics,58
+TEST000925,366,State Reading Assessment,2017-05-08,221,Reading,95
+TEST000926,366,PSAT,2017-04-03,1042,Reading,53
+TEST000927,366,SAT,2017-03-13,1058,Reading,54
+TEST000928,366,AP Exam,2017-04-03,242,Reading,23
+TEST000929,367,State Math Assessment,2017-05-09,260,Mathematics,34
+TEST000930,367,State Reading Assessment,2017-03-26,258,Reading,87
+TEST000931,367,PSAT,2017-04-23,557,Reading,13
+TEST000932,367,SAT,2017-03-19,711,Reading,25
+TEST000933,368,State Math Assessment,2017-04-17,196,Mathematics,93
+TEST000934,368,State Reading Assessment,2017-03-28,284,Reading,84
+TEST000935,368,PSAT,2017-03-26,1313,Reading,76
+TEST000936,368,SAT,2017-03-09,1496,Reading,91
+TEST000937,369,State Math Assessment,2017-05-28,261,Mathematics,11
+TEST000938,369,State Reading Assessment,2017-04-13,286,Reading,56
+TEST000939,369,PSAT,2017-05-29,645,Reading,20
+TEST000940,369,SAT,2017-05-05,437,Reading,3
+TEST000941,370,State Math Assessment,2017-03-09,290,Mathematics,61
+TEST000942,370,State Reading Assessment,2017-05-18,239,Reading,92
+TEST000943,370,PSAT,2017-05-04,1333,Reading,77
+TEST000944,370,SAT,2017-05-28,881,Reading,40
+TEST000945,371,State Math Assessment,2017-03-31,197,Mathematics,13
+TEST000946,371,State Reading Assessment,2017-05-23,277,Reading,21
+TEST000947,371,PSAT,2017-04-19,575,Reading,14
+TEST000948,371,SAT,2017-05-26,813,Reading,34
+TEST000949,371,AP Exam,2017-03-12,202,Reading,37
+TEST000950,372,State Math Assessment,2017-03-03,273,Mathematics,31
+TEST000951,372,State Reading Assessment,2017-05-18,208,Reading,71
+TEST000952,372,PSAT,2017-03-13,573,Reading,14
+TEST000953,372,SAT,2017-05-18,1268,Reading,72
+TEST000954,373,State Math Assessment,2017-05-13,195,Mathematics,37
+TEST000955,373,State Reading Assessment,2017-03-11,163,Reading,64
+TEST000956,373,PSAT,2017-03-24,590,Reading,15
+TEST000957,373,SAT,2017-03-08,1053,Reading,54
+TEST000958,374,State Math Assessment,2017-03-18,294,Mathematics,20
+TEST000959,374,State Reading Assessment,2017-04-06,299,Reading,34
+TEST000960,374,PSAT,2017-03-07,541,Reading,11
+TEST000961,374,SAT,2017-03-15,1206,Reading,67
+TEST000962,374,AP Exam,2017-04-25,180,Reading,61
+TEST000963,375,State Math Assessment,2017-05-17,155,Mathematics,8
+TEST000964,375,State Reading Assessment,2017-03-24,171,Reading,90
+TEST000965,375,PSAT,2017-05-15,1580,Reading,98
+TEST000966,375,SAT,2017-03-09,896,Reading,41
+TEST000967,375,AP Exam,2017-05-23,176,Reading,11
+TEST000968,376,State Math Assessment,2017-03-08,266,Mathematics,63
+TEST000969,376,State Reading Assessment,2017-03-01,198,Reading,25
+TEST000970,376,PSAT,2017-05-10,864,Reading,38
+TEST000971,376,SAT,2017-03-02,1020,Reading,51
+TEST000972,377,State Math Assessment,2017-05-11,263,Mathematics,85
+TEST000973,377,State Reading Assessment,2017-05-18,250,Reading,44
+TEST000974,377,PSAT,2017-04-03,1117,Reading,59
+TEST000975,377,SAT,2017-05-24,895,Reading,41
+TEST000976,378,State Math Assessment,2017-05-28,283,Mathematics,72
+TEST000977,378,State Reading Assessment,2017-04-29,297,Reading,89
+TEST000978,378,PSAT,2017-03-07,1164,Reading,63
+TEST000979,378,SAT,2017-03-16,644,Reading,20
+TEST000980,379,State Math Assessment,2017-04-26,196,Mathematics,58
+TEST000981,379,State Reading Assessment,2017-04-30,255,Reading,22
+TEST000982,379,PSAT,2017-05-24,1135,Reading,61
+TEST000983,379,SAT,2017-04-14,626,Reading,18
+TEST000984,380,State Math Assessment,2017-05-01,174,Mathematics,16
+TEST000985,380,State Reading Assessment,2017-05-24,266,Reading,5
+TEST000986,380,PSAT,2017-04-02,924,Reading,43
+TEST000987,380,SAT,2017-05-16,1151,Reading,62
+TEST000988,381,State Math Assessment,2017-05-04,251,Mathematics,38
+TEST000989,381,State Reading Assessment,2017-03-11,299,Reading,20
+TEST000990,381,PSAT,2017-04-29,675,Reading,22
+TEST000991,381,SAT,2017-03-12,826,Reading,35
+TEST000992,381,AP Exam,2017-03-06,219,Reading,3
+TEST000993,382,State Math Assessment,2017-05-08,264,Mathematics,18
+TEST000994,382,State Reading Assessment,2017-03-14,162,Reading,8
+TEST000995,382,PSAT,2017-03-20,1016,Reading,51
+TEST000996,382,SAT,2017-05-29,456,Reading,4
+TEST000997,383,State Math Assessment,2017-05-12,253,Mathematics,94
+TEST000998,383,State Reading Assessment,2017-05-29,204,Reading,97
+TEST000999,383,PSAT,2017-03-08,820,Reading,35
+TEST001000,383,SAT,2017-03-19,1383,Reading,81
+TEST001001,384,State Math Assessment,2017-03-09,261,Mathematics,35
+TEST001002,384,State Reading Assessment,2017-05-09,294,Reading,21
+TEST001003,384,PSAT,2017-03-09,1082,Reading,56
+TEST001004,384,SAT,2017-03-01,1349,Reading,79
+TEST001005,384,AP Exam,2017-04-12,167,Reading,94
+TEST001006,385,State Math Assessment,2017-05-16,198,Mathematics,79
+TEST001007,385,State Reading Assessment,2017-05-06,225,Reading,91
+TEST001008,385,PSAT,2017-03-23,1265,Reading,72
+TEST001009,385,SAT,2017-03-21,421,Reading,1
+TEST001010,385,AP Exam,2017-03-05,282,Reading,41
+TEST001011,386,State Math Assessment,2017-05-09,279,Mathematics,5
+TEST001012,386,State Reading Assessment,2017-03-08,167,Reading,24
+TEST001013,386,PSAT,2017-04-07,1218,Reading,68
+TEST001014,386,SAT,2017-04-01,1570,Reading,97
+TEST001015,387,State Math Assessment,2017-04-30,176,Mathematics,59
+TEST001016,387,State Reading Assessment,2017-04-21,238,Reading,64
+TEST001017,387,PSAT,2017-03-19,1097,Reading,58
+TEST001018,387,SAT,2017-04-16,1303,Reading,75
+TEST001019,388,State Math Assessment,2017-05-19,227,Mathematics,82
+TEST001020,388,State Reading Assessment,2017-03-20,285,Reading,96
+TEST001021,388,PSAT,2017-05-08,757,Reading,29
+TEST001022,388,SAT,2017-04-18,603,Reading,16
+TEST001023,389,State Math Assessment,2017-04-28,260,Mathematics,51
+TEST001024,389,State Reading Assessment,2017-05-08,285,Reading,47
+TEST001025,389,PSAT,2017-03-19,1183,Reading,65
+TEST001026,389,SAT,2017-04-15,914,Reading,42
+TEST001027,390,State Math Assessment,2017-03-28,266,Mathematics,17
+TEST001028,390,State Reading Assessment,2017-05-11,233,Reading,77
+TEST001029,390,PSAT,2017-05-05,1297,Reading,74
+TEST001030,390,SAT,2017-04-27,550,Reading,12
+TEST001031,391,State Math Assessment,2017-05-23,294,Mathematics,63
+TEST001032,391,State Reading Assessment,2017-05-23,213,Reading,76
+TEST001033,391,PSAT,2017-03-06,596,Reading,16
+TEST001034,391,SAT,2017-04-12,505,Reading,8
+TEST001035,391,AP Exam,2017-03-18,225,Reading,37
+TEST001036,392,State Math Assessment,2017-04-19,279,Mathematics,68
+TEST001037,392,State Reading Assessment,2017-03-01,185,Reading,89
+TEST001038,392,PSAT,2017-03-08,718,Reading,26
+TEST001039,392,SAT,2017-03-18,1159,Reading,63
+TEST001040,393,State Math Assessment,2017-03-20,250,Mathematics,83
+TEST001041,393,State Reading Assessment,2017-03-26,281,Reading,2
+TEST001042,393,PSAT,2017-03-14,1600,Reading,99
+TEST001043,393,SAT,2017-05-25,464,Reading,5
+TEST001044,393,AP Exam,2017-04-22,198,Reading,32
+TEST001045,394,State Math Assessment,2017-04-25,172,Mathematics,89
+TEST001046,394,State Reading Assessment,2017-03-19,207,Reading,88
+TEST001047,394,PSAT,2017-05-07,1441,Reading,86
+TEST001048,394,SAT,2017-03-13,1173,Reading,64
+TEST001049,394,AP Exam,2017-05-08,272,Reading,35
+TEST001050,395,State Math Assessment,2017-05-13,300,Mathematics,72
+TEST001051,395,State Reading Assessment,2017-03-08,260,Reading,5
+TEST001052,395,PSAT,2017-03-19,1012,Reading,51
+TEST001053,395,SAT,2017-03-19,1020,Reading,51
+TEST001054,395,AP Exam,2017-05-22,295,Reading,51
+TEST001055,396,State Math Assessment,2017-04-01,242,Mathematics,51
+TEST001056,396,State Reading Assessment,2017-05-13,240,Reading,8
+TEST001057,396,PSAT,2017-03-23,571,Reading,14
+TEST001058,396,SAT,2017-03-16,1034,Reading,52
+TEST001059,397,State Math Assessment,2017-04-08,278,Mathematics,20
+TEST001060,397,State Reading Assessment,2017-05-01,173,Reading,59
+TEST001061,397,PSAT,2017-05-21,1550,Reading,95
+TEST001062,397,SAT,2017-04-27,525,Reading,10
+TEST001063,398,State Math Assessment,2017-03-29,260,Mathematics,99
+TEST001064,398,State Reading Assessment,2017-04-28,288,Reading,31
+TEST001065,398,PSAT,2017-04-10,646,Reading,20
+TEST001066,398,SAT,2017-04-19,1379,Reading,81
+TEST001067,399,State Math Assessment,2017-05-02,278,Mathematics,26
+TEST001068,399,State Reading Assessment,2017-03-28,270,Reading,85
+TEST001069,399,PSAT,2017-03-22,1170,Reading,64
+TEST001070,399,SAT,2017-04-11,789,Reading,32
+TEST001071,400,State Math Assessment,2017-03-25,210,Mathematics,28
+TEST001072,400,State Reading Assessment,2017-05-20,179,Reading,9
+TEST001073,400,PSAT,2017-04-03,1448,Reading,87
+TEST001074,400,SAT,2017-05-11,878,Reading,39
+TEST001075,400,AP Exam,2017-03-24,150,Reading,27
+TEST001076,401,State Math Assessment,2017-04-21,270,Mathematics,29
+TEST001077,401,State Reading Assessment,2017-03-01,164,Reading,17
+TEST001078,401,PSAT,2017-05-03,1148,Reading,62
+TEST001079,401,SAT,2017-05-26,680,Reading,23
+TEST001080,401,AP Exam,2017-05-06,233,Reading,22
+TEST001081,402,State Math Assessment,2017-03-25,153,Mathematics,28
+TEST001082,402,State Reading Assessment,2017-03-28,161,Reading,16
+TEST001083,402,PSAT,2017-05-13,1384,Reading,82
+TEST001084,402,SAT,2017-03-16,1424,Reading,85
+TEST001085,403,State Math Assessment,2017-03-07,288,Mathematics,77
+TEST001086,403,State Reading Assessment,2017-03-06,273,Reading,84
+TEST001087,403,PSAT,2017-03-07,826,Reading,35
+TEST001088,403,SAT,2017-04-17,841,Reading,36
+TEST001089,404,State Math Assessment,2017-04-03,162,Mathematics,64
+TEST001090,404,State Reading Assessment,2017-05-27,261,Reading,38
+TEST001091,404,PSAT,2017-05-11,729,Reading,27
+TEST001092,404,SAT,2017-03-06,1045,Reading,53
+TEST001093,405,State Math Assessment,2017-04-30,170,Mathematics,81
+TEST001094,405,State Reading Assessment,2017-05-13,288,Reading,4
+TEST001095,405,PSAT,2017-05-19,871,Reading,39
+TEST001096,405,SAT,2017-04-11,744,Reading,28
+TEST001097,406,State Math Assessment,2017-03-08,159,Mathematics,65
+TEST001098,406,State Reading Assessment,2017-05-05,264,Reading,39
+TEST001099,406,PSAT,2017-05-14,594,Reading,16
+TEST001100,406,SAT,2017-05-27,1586,Reading,98
+TEST001101,406,AP Exam,2017-05-09,261,Reading,42
+TEST001102,407,State Math Assessment,2017-04-13,221,Mathematics,77
+TEST001103,407,State Reading Assessment,2017-03-02,205,Reading,74
+TEST001104,407,PSAT,2017-05-12,1275,Reading,72
+TEST001105,407,SAT,2017-05-05,695,Reading,24
+TEST001106,407,AP Exam,2017-03-09,238,Reading,20
+TEST001107,408,State Math Assessment,2017-03-31,291,Mathematics,58
+TEST001108,408,State Reading Assessment,2017-04-27,177,Reading,34
+TEST001109,408,PSAT,2017-05-14,763,Reading,30
+TEST001110,408,SAT,2017-05-28,723,Reading,26
+TEST001111,409,State Math Assessment,2017-05-28,239,Mathematics,74
+TEST001112,409,State Reading Assessment,2017-04-05,243,Reading,55
+TEST001113,409,PSAT,2017-05-07,857,Reading,38
+TEST001114,409,SAT,2017-05-06,500,Reading,8
+TEST001115,409,AP Exam,2017-04-28,201,Reading,86
+TEST001116,410,State Math Assessment,2017-05-05,231,Mathematics,20
+TEST001117,410,State Reading Assessment,2017-03-07,221,Reading,86
+TEST001118,410,PSAT,2017-04-25,523,Reading,10
+TEST001119,410,SAT,2017-03-26,918,Reading,43
+TEST001120,411,State Math Assessment,2017-05-10,216,Mathematics,63
+TEST001121,411,State Reading Assessment,2017-05-21,179,Reading,77
+TEST001122,411,PSAT,2017-03-31,874,Reading,39
+TEST001123,411,SAT,2017-04-13,760,Reading,30
+TEST001124,411,AP Exam,2017-04-04,218,Reading,49
+TEST001125,412,State Math Assessment,2017-05-12,287,Mathematics,81
+TEST001126,412,State Reading Assessment,2017-05-18,215,Reading,14
+TEST001127,412,PSAT,2017-04-16,912,Reading,42
+TEST001128,412,SAT,2017-04-05,630,Reading,19
+TEST001129,413,State Math Assessment,2017-04-18,279,Mathematics,70
+TEST001130,413,State Reading Assessment,2017-03-30,196,Reading,21
+TEST001131,413,PSAT,2017-05-14,739,Reading,28
+TEST001132,413,SAT,2017-04-17,1302,Reading,75
+TEST001133,414,State Math Assessment,2017-03-31,275,Mathematics,56
+TEST001134,414,State Reading Assessment,2017-04-23,225,Reading,76
+TEST001135,414,PSAT,2017-05-12,1471,Reading,89
+TEST001136,414,SAT,2017-03-19,439,Reading,3
+TEST001137,414,AP Exam,2017-03-23,171,Reading,46
+TEST001138,415,State Math Assessment,2017-04-27,262,Mathematics,8
+TEST001139,415,State Reading Assessment,2017-03-17,243,Reading,94
+TEST001140,415,PSAT,2017-03-05,576,Reading,14
+TEST001141,415,SAT,2017-05-07,938,Reading,44
+TEST001142,417,State Math Assessment,2017-04-04,208,Mathematics,28
+TEST001143,417,State Reading Assessment,2017-04-09,228,Reading,91
+TEST001144,417,PSAT,2017-04-15,532,Reading,11
+TEST001145,417,SAT,2017-05-25,926,Reading,43
+TEST001146,418,State Math Assessment,2017-04-14,199,Mathematics,3
+TEST001147,418,State Reading Assessment,2017-04-01,171,Reading,89
+TEST001148,418,PSAT,2017-05-29,1169,Reading,64
+TEST001149,418,SAT,2017-05-17,667,Reading,22
+TEST001150,419,State Math Assessment,2017-05-22,251,Mathematics,41
+TEST001151,419,State Reading Assessment,2017-04-09,255,Reading,27
+TEST001152,419,PSAT,2017-04-15,1470,Reading,89
+TEST001153,419,SAT,2017-05-24,1145,Reading,62
+TEST001154,419,AP Exam,2017-05-27,176,Reading,84
+TEST001155,420,State Math Assessment,2017-04-15,228,Mathematics,11
+TEST001156,420,State Reading Assessment,2017-04-13,259,Reading,47
+TEST001157,420,PSAT,2017-03-15,1435,Reading,86
+TEST001158,420,SAT,2017-03-14,734,Reading,27
+TEST001159,420,AP Exam,2017-05-11,171,Reading,59
+TEST001160,421,State Math Assessment,2017-05-12,178,Mathematics,86
+TEST001161,421,State Reading Assessment,2017-04-07,167,Reading,6
+TEST001162,421,PSAT,2017-04-10,729,Reading,27
+TEST001163,421,SAT,2017-03-03,1414,Reading,84
+TEST001164,422,State Math Assessment,2017-05-24,200,Mathematics,27
+TEST001165,422,State Reading Assessment,2017-03-14,229,Reading,84
+TEST001166,422,PSAT,2017-05-16,546,Reading,12
+TEST001167,422,SAT,2017-03-31,516,Reading,9
+TEST001168,423,State Math Assessment,2017-04-07,252,Mathematics,67
+TEST001169,423,State Reading Assessment,2017-05-24,297,Reading,20
+TEST001170,423,PSAT,2017-05-01,976,Reading,48
+TEST001171,423,SAT,2017-03-15,1157,Reading,63
+TEST001172,424,State Math Assessment,2017-04-08,199,Mathematics,29
+TEST001173,424,State Reading Assessment,2017-04-05,193,Reading,59
+TEST001174,424,PSAT,2017-03-02,1376,Reading,81
+TEST001175,424,SAT,2017-04-12,1148,Reading,62
+TEST001176,543,State Math Assessment,2017-05-16,206,Mathematics,69
+TEST001177,543,State Reading Assessment,2017-05-19,262,Reading,96
+TEST001178,544,State Math Assessment,2017-05-04,224,Mathematics,3
+TEST001179,544,State Reading Assessment,2017-05-27,296,Reading,85
+TEST001180,545,State Math Assessment,2017-03-17,171,Mathematics,66
+TEST001181,545,State Reading Assessment,2017-03-15,282,Reading,23
+TEST001182,546,State Math Assessment,2017-04-27,190,Mathematics,79
+TEST001183,546,State Reading Assessment,2017-03-18,278,Reading,80
+TEST001184,546,PSAT,2017-03-22,467,Reading,5
+TEST001185,546,SAT,2017-03-10,1289,Reading,74
+TEST001186,547,State Math Assessment,2017-03-02,180,Mathematics,12
+TEST001187,547,State Reading Assessment,2017-04-07,154,Reading,18
+TEST001188,547,PSAT,2017-04-15,1188,Reading,65
+TEST001189,547,SAT,2017-03-15,756,Reading,29
+TEST001190,547,AP Exam,2017-03-27,268,Reading,8
+TEST001191,548,State Math Assessment,2017-04-02,167,Mathematics,86
+TEST001192,548,State Reading Assessment,2017-03-20,162,Reading,12
+TEST001193,549,State Math Assessment,2017-03-03,201,Mathematics,8
+TEST001194,549,State Reading Assessment,2017-04-18,236,Reading,82
+TEST001195,549,PSAT,2017-04-08,820,Reading,35
+TEST001196,549,SAT,2017-03-16,717,Reading,26
+TEST001197,589,State Math Assessment,2017-03-30,227,Mathematics,76
+TEST001198,589,State Reading Assessment,2017-05-20,167,Reading,10
+TEST001199,589,PSAT,2017-05-22,629,Reading,19
+TEST001200,589,SAT,2017-04-23,1092,Reading,57
+TEST001201,590,State Math Assessment,2017-03-27,188,Mathematics,4
+TEST001202,590,State Reading Assessment,2017-03-23,231,Reading,67
+TEST001203,591,State Math Assessment,2017-03-19,205,Mathematics,73
+TEST001204,591,State Reading Assessment,2017-04-17,286,Reading,91
+TEST001205,592,State Math Assessment,2017-04-28,210,Mathematics,10
+TEST001206,592,State Reading Assessment,2017-05-10,184,Reading,89
+TEST001207,592,PSAT,2017-04-18,1361,Reading,80
+TEST001208,592,SAT,2017-04-12,1497,Reading,91
+TEST001209,593,State Math Assessment,2017-04-12,199,Mathematics,45
+TEST001210,593,State Reading Assessment,2017-05-22,266,Reading,32
+TEST001211,593,PSAT,2017-03-16,669,Reading,22
+TEST001212,593,SAT,2017-04-17,768,Reading,30
+TEST001213,594,State Math Assessment,2017-05-04,189,Mathematics,5
+TEST001214,594,State Reading Assessment,2017-03-06,237,Reading,54
+TEST001215,595,State Math Assessment,2017-04-04,166,Mathematics,29
+TEST001216,595,State Reading Assessment,2017-03-11,155,Reading,16
+TEST001217,596,State Math Assessment,2017-03-07,261,Mathematics,22
+TEST001218,596,State Reading Assessment,2017-04-01,260,Reading,6
+TEST001219,596,PSAT,2017-05-08,1147,Reading,62
+TEST001220,596,SAT,2017-04-16,1430,Reading,85
+TEST001221,596,AP Exam,2017-04-29,215,Reading,56

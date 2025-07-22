@@ -1,35 +1,29 @@
 {
   "year": 2020,
-  "label": "2020-2021",
-  "enrollment": {
-    "total": 522,
-    "target": 495,
-    "graduated": 42,
+  "school_year_label": "2020-2021",
+  "enrollment_target": 495,
+  "actual_enrollment": 522,
+  "student_changes": {
+    "graduated": 43,
     "new_kindergarten": 35,
-    "transfers_in": 8,
+    "transfers_in": 7,
     "transfers_out": 6
   },
-  "staff": {
-    "total_teachers": 62,
-    "retirements": 2,
-    "resignations": 5,
+  "teacher_changes": {
+    "retirements": 5,
+    "resignations": 2,
     "new_hires": 7,
-    "turnover_rate": 0.12
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [],
-    "active_subjects": 16
-  },
-  "events": {
-    "major_events": [
-      "COVID-19 pandemic",
-      "Hybrid learning model"
-    ],
-    "technology_updates": [
-      "Remote learning platform"
-    ],
-    "fee_adjustments": {
-      "Technology Fee": 1.5
-    }
+  "curriculum_changes": [],
+  "major_events": [
+    "COVID-19 pandemic",
+    "Hybrid learning model"
+  ],
+  "technology_updates": [
+    "Remote learning platform"
+  ],
+  "fee_adjustments": {
+    "Technology Fee": 1.5
   }
 }

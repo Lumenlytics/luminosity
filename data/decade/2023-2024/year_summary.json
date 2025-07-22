@@ -1,38 +1,32 @@
 {
   "year": 2023,
-  "label": "2023-2024",
-  "enrollment": {
-    "total": 552,
-    "target": 570,
+  "school_year_label": "2023-2024",
+  "enrollment_target": 570,
+  "actual_enrollment": 557,
+  "student_changes": {
     "graduated": 40,
     "new_kindergarten": 49,
-    "transfers_in": 8,
-    "transfers_out": 3
+    "transfers_in": 6,
+    "transfers_out": 4
   },
-  "staff": {
-    "total_teachers": 62,
-    "retirements": 2,
-    "resignations": 1,
+  "teacher_changes": {
+    "retirements": 1,
+    "resignations": 2,
     "new_hires": 3,
-    "turnover_rate": 0.06
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [
-      "Added: International Baccalaureate (Global curriculum)",
-      "Added: Dual Enrollment Math (College partnership)"
-    ],
-    "active_subjects": 20
-  },
-  "events": {
-    "major_events": [
-      "Academic excellence initiative",
-      "College partnerships"
-    ],
-    "technology_updates": [
-      "Learning management system"
-    ],
-    "fee_adjustments": {
-      "Tuition": 1.05
-    }
+  "curriculum_changes": [
+    "Added: International Baccalaureate (Global curriculum)",
+    "Added: Dual Enrollment Math (College partnership)"
+  ],
+  "major_events": [
+    "Academic excellence initiative",
+    "College partnerships"
+  ],
+  "technology_updates": [
+    "Learning management system"
+  ],
+  "fee_adjustments": {
+    "Tuition": 1.05
   }
 }

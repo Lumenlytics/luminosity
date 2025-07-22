@@ -1,0 +1,55 @@
+discipline_report_id,student_id,date,severity,type,action_taken
+DISC000001,39,2019-04-21,Major,Vandalism,In-School Suspension
+DISC000002,39,2019-04-22,Minor,Tardiness,Verbal Warning
+DISC000003,39,2018-11-01,Minor,Tardiness,Parent Contact
+DISC000004,19,2019-03-25,Minor,Tardiness,Verbal Warning
+DISC000005,19,2019-01-12,Major,Tardiness,Parent Conference
+DISC000006,352,2019-01-07,Minor,Disrespect,Parent Contact
+DISC000007,352,2018-11-28,Major,Disruption,In-School Suspension
+DISC000008,522,2019-01-18,Minor,Other,Verbal Warning
+DISC000009,522,2019-05-19,Minor,Fighting,Verbal Warning
+DISC000010,251,2019-04-03,Minor,Vandalism,Detention
+DISC000011,173,2019-01-05,Minor,Tardiness,Parent Contact
+DISC000012,625,2018-10-21,Major,Vandalism,Office Referral
+DISC000013,625,2018-09-12,Minor,Tardiness,Parent Contact
+DISC000014,625,2019-01-13,Minor,Disrespect,Parent Contact
+DISC000015,101,2019-01-23,Major,Other,Office Referral
+DISC000016,101,2018-09-22,Severe,Vandalism,Out-of-School Suspension
+DISC000017,101,2018-09-07,Major,Disrespect,In-School Suspension
+DISC000018,71,2018-09-18,Minor,Disruption,Parent Contact
+DISC000019,71,2019-01-31,Major,Other,Parent Conference
+DISC000020,71,2019-03-03,Minor,Disrespect,Parent Contact
+DISC000021,536,2019-04-04,Minor,Tardiness,Verbal Warning
+DISC000022,536,2019-04-07,Minor,Disruption,Detention
+DISC000023,536,2018-08-31,Major,Academic Dishonesty,Parent Conference
+DISC000024,540,2019-05-03,Minor,Academic Dishonesty,Detention
+DISC000025,76,2018-09-02,Minor,Disrespect,Parent Contact
+DISC000026,76,2019-01-27,Minor,Tardiness,Parent Contact
+DISC000027,76,2019-04-04,Minor,Academic Dishonesty,Verbal Warning
+DISC000028,116,2019-02-08,Major,Fighting,In-School Suspension
+DISC000029,116,2019-03-26,Major,Other,Parent Conference
+DISC000030,256,2018-09-17,Major,Vandalism,In-School Suspension
+DISC000031,256,2018-09-23,Minor,Disrespect,Detention
+DISC000032,256,2019-03-26,Minor,Tardiness,Parent Contact
+DISC000033,561,2019-01-23,Minor,Disruption,Parent Contact
+DISC000034,119,2019-05-31,Minor,Other,Verbal Warning
+DISC000035,238,2019-02-12,Minor,Fighting,Verbal Warning
+DISC000036,287,2019-02-27,Minor,Other,Parent Contact
+DISC000037,287,2018-12-06,Severe,Disrespect,Out-of-School Suspension
+DISC000038,287,2018-09-12,Minor,Disrespect,Parent Contact
+DISC000039,126,2019-05-23,Minor,Disrespect,Detention
+DISC000040,126,2018-11-27,Major,Fighting,Parent Conference
+DISC000041,126,2019-02-28,Major,Tardiness,In-School Suspension
+DISC000042,527,2019-03-08,Minor,Academic Dishonesty,Parent Contact
+DISC000043,527,2018-12-07,Minor,Tardiness,Verbal Warning
+DISC000044,559,2019-05-22,Minor,Fighting,Parent Contact
+DISC000045,559,2019-05-17,Minor,Other,Detention
+DISC000046,151,2018-10-13,Minor,Academic Dishonesty,Verbal Warning
+DISC000047,200,2019-05-31,Minor,Tardiness,Parent Contact
+DISC000048,200,2018-11-18,Major,Disruption,Office Referral
+DISC000049,200,2019-05-10,Minor,Other,Detention
+DISC000050,86,2018-11-09,Minor,Other,Detention
+DISC000051,86,2019-04-04,Major,Academic Dishonesty,In-School Suspension
+DISC000052,253,2018-12-16,Minor,Disruption,Parent Contact
+DISC000053,253,2018-12-23,Minor,Academic Dishonesty,Detention
+DISC000054,253,2019-04-08,Minor,Disrespect,Parent Contact

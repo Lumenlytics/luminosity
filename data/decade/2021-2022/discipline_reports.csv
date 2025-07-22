@@ -1,0 +1,54 @@
+discipline_report_id,student_id,date,severity,type,action_taken
+DISC000001,763,2021-12-22,Minor,Vandalism,Parent Contact
+DISC000002,763,2022-04-13,Minor,Vandalism,Verbal Warning
+DISC000003,128,2021-11-03,Minor,Fighting,Parent Contact
+DISC000004,128,2021-10-31,Minor,Tardiness,Verbal Warning
+DISC000005,47,2021-09-28,Minor,Disrespect,Detention
+DISC000006,47,2022-04-10,Severe,Vandalism,Out-of-School Suspension
+DISC000007,646,2021-10-10,Major,Fighting,In-School Suspension
+DISC000008,646,2022-05-02,Minor,Disruption,Parent Contact
+DISC000009,4,2022-05-19,Minor,Vandalism,Verbal Warning
+DISC000010,662,2021-10-04,Minor,Disruption,Detention
+DISC000011,635,2022-05-05,Major,Disruption,Office Referral
+DISC000012,635,2021-12-13,Minor,Vandalism,Parent Contact
+DISC000013,668,2021-10-27,Minor,Tardiness,Verbal Warning
+DISC000014,668,2022-04-04,Minor,Academic Dishonesty,Detention
+DISC000015,501,2022-04-09,Minor,Academic Dishonesty,Verbal Warning
+DISC000016,501,2022-04-18,Minor,Disrespect,Detention
+DISC000017,110,2021-12-08,Minor,Fighting,Verbal Warning
+DISC000018,110,2022-03-09,Minor,Fighting,Verbal Warning
+DISC000019,14,2021-10-08,Minor,Disruption,Parent Contact
+DISC000020,14,2021-12-16,Severe,Tardiness,Out-of-School Suspension
+DISC000021,124,2021-10-07,Major,Fighting,Office Referral
+DISC000022,231,2021-12-14,Minor,Fighting,Verbal Warning
+DISC000023,137,2021-08-28,Minor,Fighting,Parent Contact
+DISC000024,137,2021-09-27,Minor,Disrespect,Parent Contact
+DISC000025,217,2021-11-18,Major,Vandalism,Office Referral
+DISC000026,217,2022-03-13,Major,Other,In-School Suspension
+DISC000027,146,2022-01-13,Minor,Vandalism,Parent Contact
+DISC000028,146,2022-05-22,Major,Vandalism,Office Referral
+DISC000029,146,2022-05-26,Minor,Disrespect,Parent Contact
+DISC000030,197,2022-01-27,Minor,Disrespect,Detention
+DISC000031,197,2022-04-07,Major,Other,In-School Suspension
+DISC000032,197,2022-04-08,Severe,Vandalism,Behavior Plan
+DISC000033,127,2021-11-07,Minor,Disruption,Parent Contact
+DISC000034,127,2022-04-08,Major,Vandalism,Office Referral
+DISC000035,127,2021-10-11,Minor,Fighting,Parent Contact
+DISC000036,755,2021-12-14,Minor,Fighting,Verbal Warning
+DISC000037,755,2021-10-30,Severe,Other,Out-of-School Suspension
+DISC000038,780,2022-02-02,Minor,Disrespect,Parent Contact
+DISC000039,780,2021-12-28,Minor,Other,Detention
+DISC000040,641,2021-10-24,Minor,Disrespect,Detention
+DISC000041,119,2021-08-28,Major,Fighting,In-School Suspension
+DISC000042,119,2021-10-11,Minor,Disruption,Detention
+DISC000043,119,2021-10-28,Minor,Vandalism,Verbal Warning
+DISC000044,7,2022-05-28,Major,Other,In-School Suspension
+DISC000045,7,2021-09-06,Minor,Academic Dishonesty,Verbal Warning
+DISC000046,7,2021-10-06,Minor,Tardiness,Verbal Warning
+DISC000047,712,2022-02-16,Minor,Other,Verbal Warning
+DISC000048,712,2021-12-21,Minor,Tardiness,Detention
+DISC000049,633,2021-09-11,Minor,Tardiness,Verbal Warning
+DISC000050,633,2021-10-24,Minor,Disruption,Parent Contact
+DISC000051,633,2021-09-15,Minor,Disruption,Verbal Warning
+DISC000052,632,2022-04-23,Minor,Vandalism,Detention
+DISC000053,632,2022-03-10,Minor,Fighting,Verbal Warning

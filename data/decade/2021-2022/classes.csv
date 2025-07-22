@@ -1,81 +1,83 @@
 class_id,name,grade_level_id,teacher_id,classroom_id,period_id,term_id
-1,Mathematics,7,70,14,1,2
-2,English Language Arts,7,86,17,2,3
-3,Science,7,89,10,3,4
-4,Social Studies,7,25,16,4,1
-5,Art,7,68,15,5,2
-6,PE,7,11,1,6,3
-7,Technology,7,56,3,7,4
-8,Mathematics,8,11,12,1,3
-9,English Language Arts,8,13,7,2,2
-10,Science,8,84,1,3,1
-11,Social Studies,8,89,4,4,2
-12,Art,8,83,7,5,1
-13,PE,8,63,13,6,4
-14,Technology,8,70,4,7,3
-15,Mathematics,9,14,14,1,1
-16,English Language Arts,9,66,11,2,3
-17,Science,9,52,9,3,4
-18,Social Studies,9,82,14,4,2
-19,Art,9,81,13,5,4
-20,PE,9,68,6,6,4
-21,Technology,9,2,15,7,3
-22,Mathematics,10,62,9,1,1
-23,English,10,28,20,2,1
-24,Science,10,77,7,3,1
-25,Social Studies,10,65,19,4,2
-26,PE,10,6,4,5,4
-27,Elective,10,52,8,6,2
-28,Mathematics,11,18,1,1,2
-29,English,11,44,4,2,4
-30,Science,11,74,9,3,4
-31,Social Studies,11,2,20,4,1
-32,PE,11,2,14,5,1
-33,Elective,11,70,4,6,2
-34,Mathematics,12,65,19,1,4
-35,English,12,71,9,2,2
-36,Science,12,84,2,3,4
-37,Social Studies,12,65,7,4,3
-38,PE,12,88,20,5,1
-39,Elective,12,27,12,6,4
-40,Mathematics,13,67,12,1,4
-41,English,13,63,15,2,3
-42,Science,13,11,19,3,3
-43,Social Studies,13,84,6,4,2
-44,PE,13,76,16,5,1
-45,Elective,13,76,16,6,3
-46,Homeroom,6,8,10,1,1
-47,Mathematics,6,73,20,2,2
-48,Reading,6,56,14,3,1
-49,Science,6,78,4,4,1
-50,Social Studies,6,6,1,5,1
-51,Homeroom,5,14,14,1,2
-52,Mathematics,5,64,4,2,1
-53,Reading,5,63,13,3,4
-54,Science,5,70,15,4,4
-55,Social Studies,5,30,14,5,4
-56,Homeroom,4,76,18,1,3
-57,Mathematics,4,48,10,2,1
-58,Reading,4,75,10,3,1
-59,Science,4,79,14,4,1
-60,Social Studies,4,52,5,5,1
-61,Homeroom,3,64,9,1,2
-62,Mathematics,3,6,11,2,3
-63,Reading,3,62,18,3,3
-64,Science,3,32,11,4,1
-65,Social Studies,3,6,12,5,3
-66,Homeroom,2,30,14,1,3
-67,Mathematics,2,62,6,2,3
-68,Reading,2,5,17,3,1
-69,Science,2,72,3,4,2
-70,Social Studies,2,5,11,5,3
-71,Homeroom,1,59,1,1,3
-72,Mathematics,1,48,18,2,3
-73,Reading,1,82,11,3,1
-74,Science,1,54,13,4,2
-75,Social Studies,1,21,5,5,2
-76,Homeroom,1,83,14,1,2
-77,Mathematics,1,68,15,2,1
-78,Reading,1,59,15,3,1
-79,Science,1,56,7,4,2
-80,Social Studies,1,74,10,5,1
+1,Mathematics,7,29,18,1,4
+2,English Language Arts,7,75,1,2,1
+3,Science,7,48,17,3,4
+4,Social Studies,7,29,4,4,4
+5,Art,7,74,1,5,2
+6,Physical Education,7,71,10,6,1
+7,Technology,7,67,13,7,3
+8,Mathematics,8,82,7,1,4
+9,English Language Arts,8,6,11,2,2
+10,Science,8,38,13,3,1
+11,Social Studies,8,74,11,4,2
+12,Art,8,86,10,5,2
+13,Physical Education,8,30,15,6,3
+14,Technology,8,59,1,7,2
+15,Mathematics,9,60,16,1,2
+16,English Language Arts,9,62,12,2,2
+17,Science,9,54,16,3,1
+18,Social Studies,9,84,17,4,4
+19,Art,9,25,1,5,4
+20,Physical Education,9,28,12,6,4
+21,Technology,9,69,2,7,2
+22,Algebra I,10,75,2,1,4
+23,Biology,10,18,2,2,1
+24,Physical Education,10,23,9,3,3
+25,English,10,32,5,4,2
+26,Geography,10,79,15,5,3
+27,Spanish I,10,29,15,6,3
+28,Computer Science,10,63,18,7,4
+29,Geometry,11,62,12,1,1
+30,Life Science,11,65,17,2,3
+31,Physical Education,11,54,4,3,3
+32,American Literature,11,67,9,4,3
+33,Old World History,11,61,6,5,2
+34,Spanish II,11,71,6,6,3
+35,Visual Arts,11,16,10,7,1
+36,Algebra II,12,79,6,1,1
+37,Chemistry,12,81,5,2,4
+38,Physical Education,12,86,18,3,4
+39,English Literature,12,77,3,4,1
+40,New World History,12,30,6,5,3
+41,Leadership,12,59,17,6,2
+42,Music Performance,12,84,4,7,4
+43,Calculus,13,23,19,1,1
+44,Psychology,13,48,10,2,3
+45,Physical Education,13,68,6,3,2
+46,World Literature,13,64,12,4,2
+47,Government/Economics,13,31,1,5,4
+48,Homeroom,6,83,7,1,2
+49,Mathematics,6,31,12,2,3
+50,Reading,6,26,19,3,4
+51,Science,6,32,19,4,1
+52,Social Studies,6,81,14,5,1
+53,Homeroom,5,13,11,1,1
+54,Mathematics,5,72,18,2,3
+55,Reading,5,80,4,3,2
+56,Science,5,30,20,4,3
+57,Social Studies,5,2,14,5,4
+58,Homeroom,4,38,20,1,3
+59,Mathematics,4,1,15,2,4
+60,Reading,4,48,9,3,1
+61,Science,4,1,20,4,2
+62,Social Studies,4,14,5,5,1
+63,Homeroom,3,20,14,1,2
+64,Mathematics,3,77,2,2,1
+65,Reading,3,16,18,3,4
+66,Science,3,66,14,4,2
+67,Social Studies,3,13,4,5,4
+68,Homeroom,2,26,13,1,1
+69,Mathematics,2,11,2,2,2
+70,Reading,2,82,10,3,3
+71,Science,2,54,18,4,3
+72,Social Studies,2,52,13,5,4
+73,Homeroom,1,44,6,1,1
+74,Mathematics,1,25,4,2,2
+75,Reading,1,87,5,3,2
+76,Science,1,76,18,4,3
+77,Social Studies,1,4,17,5,1
+78,Homeroom,1,11,9,1,1
+79,Mathematics,1,20,11,2,1
+80,Reading,1,23,6,3,1
+81,Science,1,63,9,4,1
+82,Social Studies,1,48,19,5,2

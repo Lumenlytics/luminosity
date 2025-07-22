@@ -1,33 +1,27 @@
 {
   "year": 2021,
-  "label": "2021-2022",
-  "enrollment": {
-    "total": 528,
-    "target": 540,
-    "graduated": 43,
+  "school_year_label": "2021-2022",
+  "enrollment_target": 540,
+  "actual_enrollment": 538,
+  "student_changes": {
+    "graduated": 38,
     "new_kindergarten": 52,
-    "transfers_in": 3,
-    "transfers_out": 6
+    "transfers_in": 6,
+    "transfers_out": 4
   },
-  "staff": {
-    "total_teachers": 62,
-    "retirements": 1,
-    "resignations": 3,
+  "teacher_changes": {
+    "retirements": 2,
+    "resignations": 2,
     "new_hires": 4,
-    "turnover_rate": 0.08
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [],
-    "active_subjects": 16
-  },
-  "events": {
-    "major_events": [
-      "Return to in-person",
-      "Academic support programs"
-    ],
-    "technology_updates": [
-      "Health screening systems"
-    ],
-    "fee_adjustments": {}
-  }
+  "curriculum_changes": [],
+  "major_events": [
+    "Return to in-person",
+    "Academic support programs"
+  ],
+  "technology_updates": [
+    "Health screening systems"
+  ],
+  "fee_adjustments": {}
 }

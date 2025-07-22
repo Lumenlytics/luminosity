@@ -1,0 +1,1251 @@
+test_id,student_id,test_name,test_date,score,subject,percentile
+TEST000001,1,State Math Assessment,2021-05-02,234,Mathematics,13
+TEST000002,1,State Reading Assessment,2021-03-30,288,Reading,89
+TEST000003,2,State Math Assessment,2021-05-08,288,Mathematics,25
+TEST000004,2,State Reading Assessment,2021-03-30,214,Reading,32
+TEST000005,3,State Math Assessment,2021-04-12,200,Mathematics,72
+TEST000006,3,State Reading Assessment,2021-04-30,230,Reading,65
+TEST000007,4,State Math Assessment,2021-04-18,300,Mathematics,54
+TEST000008,4,State Reading Assessment,2021-04-19,279,Reading,41
+TEST000009,5,State Math Assessment,2021-04-20,268,Mathematics,32
+TEST000010,5,State Reading Assessment,2021-04-07,214,Reading,20
+TEST000011,6,State Math Assessment,2021-04-09,166,Mathematics,99
+TEST000012,6,State Reading Assessment,2021-04-05,227,Reading,2
+TEST000013,7,State Math Assessment,2021-04-30,258,Mathematics,22
+TEST000014,7,State Reading Assessment,2021-03-29,186,Reading,3
+TEST000015,8,State Math Assessment,2021-04-22,237,Mathematics,4
+TEST000016,8,State Reading Assessment,2021-03-08,190,Reading,81
+TEST000017,9,State Math Assessment,2021-05-07,239,Mathematics,95
+TEST000018,9,State Reading Assessment,2021-04-22,212,Reading,8
+TEST000019,10,State Math Assessment,2021-03-15,292,Mathematics,42
+TEST000020,10,State Reading Assessment,2021-04-14,291,Reading,30
+TEST000021,11,State Math Assessment,2021-03-19,277,Mathematics,1
+TEST000022,11,State Reading Assessment,2021-05-17,176,Reading,86
+TEST000023,12,State Math Assessment,2021-04-28,186,Mathematics,30
+TEST000024,12,State Reading Assessment,2021-03-13,244,Reading,24
+TEST000025,13,State Math Assessment,2021-03-25,292,Mathematics,90
+TEST000026,13,State Reading Assessment,2021-05-04,186,Reading,12
+TEST000027,14,State Math Assessment,2021-04-07,221,Mathematics,80
+TEST000028,14,State Reading Assessment,2021-04-14,155,Reading,61
+TEST000029,15,State Math Assessment,2021-05-26,219,Mathematics,24
+TEST000030,15,State Reading Assessment,2021-05-04,260,Reading,35
+TEST000031,16,State Math Assessment,2021-04-01,281,Mathematics,69
+TEST000032,16,State Reading Assessment,2021-04-28,187,Reading,99
+TEST000033,17,State Math Assessment,2021-03-10,258,Mathematics,54
+TEST000034,17,State Reading Assessment,2021-05-28,295,Reading,81
+TEST000035,18,State Math Assessment,2021-04-10,238,Mathematics,13
+TEST000036,18,State Reading Assessment,2021-03-31,231,Reading,23
+TEST000037,19,State Math Assessment,2021-03-27,286,Mathematics,56
+TEST000038,19,State Reading Assessment,2021-05-07,150,Reading,64
+TEST000039,20,State Math Assessment,2021-05-02,188,Mathematics,87
+TEST000040,20,State Reading Assessment,2021-04-25,160,Reading,13
+TEST000041,21,State Math Assessment,2021-03-13,266,Mathematics,98
+TEST000042,21,State Reading Assessment,2021-05-28,239,Reading,76
+TEST000043,22,State Math Assessment,2021-03-31,232,Mathematics,97
+TEST000044,22,State Reading Assessment,2021-03-19,292,Reading,93
+TEST000045,23,State Math Assessment,2021-05-17,276,Mathematics,86
+TEST000046,23,State Reading Assessment,2021-03-15,286,Reading,46
+TEST000047,24,State Math Assessment,2021-05-09,230,Mathematics,85
+TEST000048,24,State Reading Assessment,2021-03-12,251,Reading,74
+TEST000049,26,State Math Assessment,2021-04-24,162,Mathematics,58
+TEST000050,26,State Reading Assessment,2021-05-03,239,Reading,33
+TEST000051,27,State Math Assessment,2021-03-03,182,Mathematics,54
+TEST000052,27,State Reading Assessment,2021-05-26,275,Reading,92
+TEST000053,28,State Math Assessment,2021-03-10,291,Mathematics,53
+TEST000054,28,State Reading Assessment,2021-03-10,214,Reading,26
+TEST000055,29,State Math Assessment,2021-03-19,250,Mathematics,55
+TEST000056,29,State Reading Assessment,2021-03-06,178,Reading,51
+TEST000057,31,State Math Assessment,2021-04-20,220,Mathematics,8
+TEST000058,31,State Reading Assessment,2021-03-31,269,Reading,19
+TEST000059,32,State Math Assessment,2021-05-25,215,Mathematics,75
+TEST000060,32,State Reading Assessment,2021-03-14,300,Reading,90
+TEST000061,33,State Math Assessment,2021-03-22,214,Mathematics,66
+TEST000062,33,State Reading Assessment,2021-03-10,199,Reading,24
+TEST000063,34,State Math Assessment,2021-04-04,258,Mathematics,6
+TEST000064,34,State Reading Assessment,2021-04-09,277,Reading,17
+TEST000065,35,State Math Assessment,2021-05-20,250,Mathematics,74
+TEST000066,35,State Reading Assessment,2021-05-25,295,Reading,47
+TEST000067,36,State Math Assessment,2021-04-21,265,Mathematics,49
+TEST000068,36,State Reading Assessment,2021-05-14,188,Reading,12
+TEST000069,37,State Math Assessment,2021-03-17,261,Mathematics,30
+TEST000070,37,State Reading Assessment,2021-05-26,162,Reading,17
+TEST000071,38,State Math Assessment,2021-03-23,212,Mathematics,27
+TEST000072,38,State Reading Assessment,2021-03-29,295,Reading,47
+TEST000073,39,State Math Assessment,2021-03-18,208,Mathematics,11
+TEST000074,39,State Reading Assessment,2021-04-22,222,Reading,20
+TEST000075,40,State Math Assessment,2021-03-25,210,Mathematics,35
+TEST000076,40,State Reading Assessment,2021-05-30,299,Reading,53
+TEST000077,41,State Math Assessment,2021-05-09,226,Mathematics,71
+TEST000078,41,State Reading Assessment,2021-03-02,154,Reading,17
+TEST000079,43,State Math Assessment,2021-05-10,290,Mathematics,43
+TEST000080,43,State Reading Assessment,2021-03-13,231,Reading,25
+TEST000081,44,State Math Assessment,2021-03-15,287,Mathematics,19
+TEST000082,44,State Reading Assessment,2021-05-25,233,Reading,62
+TEST000083,45,State Math Assessment,2021-05-10,208,Mathematics,74
+TEST000084,45,State Reading Assessment,2021-05-25,275,Reading,8
+TEST000085,47,State Math Assessment,2021-05-11,219,Mathematics,69
+TEST000086,47,State Reading Assessment,2021-05-29,296,Reading,33
+TEST000087,48,State Math Assessment,2021-03-25,300,Mathematics,3
+TEST000088,48,State Reading Assessment,2021-04-08,226,Reading,64
+TEST000089,49,State Math Assessment,2021-03-17,241,Mathematics,69
+TEST000090,49,State Reading Assessment,2021-04-08,228,Reading,25
+TEST000091,50,State Math Assessment,2021-04-16,204,Mathematics,39
+TEST000092,50,State Reading Assessment,2021-05-20,267,Reading,76
+TEST000093,51,State Math Assessment,2021-03-08,179,Mathematics,42
+TEST000094,51,State Reading Assessment,2021-05-01,288,Reading,86
+TEST000095,52,State Math Assessment,2021-03-24,254,Mathematics,72
+TEST000096,52,State Reading Assessment,2021-05-15,294,Reading,65
+TEST000097,53,State Math Assessment,2021-03-16,261,Mathematics,94
+TEST000098,53,State Reading Assessment,2021-03-01,295,Reading,50
+TEST000099,54,State Math Assessment,2021-03-14,280,Mathematics,81
+TEST000100,54,State Reading Assessment,2021-03-31,235,Reading,21
+TEST000101,55,State Math Assessment,2021-03-24,193,Mathematics,18
+TEST000102,55,State Reading Assessment,2021-05-21,213,Reading,83
+TEST000103,56,State Math Assessment,2021-05-13,252,Mathematics,16
+TEST000104,56,State Reading Assessment,2021-05-25,165,Reading,2
+TEST000105,57,State Math Assessment,2021-03-25,292,Mathematics,28
+TEST000106,57,State Reading Assessment,2021-03-16,151,Reading,64
+TEST000107,58,State Math Assessment,2021-03-24,180,Mathematics,92
+TEST000108,58,State Reading Assessment,2021-04-22,184,Reading,48
+TEST000109,59,State Math Assessment,2021-04-11,238,Mathematics,83
+TEST000110,59,State Reading Assessment,2021-04-12,228,Reading,39
+TEST000111,60,State Math Assessment,2021-05-17,225,Mathematics,36
+TEST000112,60,State Reading Assessment,2021-03-04,174,Reading,88
+TEST000113,61,State Math Assessment,2021-05-18,189,Mathematics,30
+TEST000114,61,State Reading Assessment,2021-04-13,299,Reading,95
+TEST000115,62,State Math Assessment,2021-04-16,172,Mathematics,59
+TEST000116,62,State Reading Assessment,2021-04-07,211,Reading,6
+TEST000117,63,State Math Assessment,2021-03-03,155,Mathematics,61
+TEST000118,63,State Reading Assessment,2021-03-31,172,Reading,35
+TEST000119,64,State Math Assessment,2021-05-15,196,Mathematics,49
+TEST000120,64,State Reading Assessment,2021-03-14,237,Reading,89
+TEST000121,65,State Math Assessment,2021-04-30,164,Mathematics,22
+TEST000122,65,State Reading Assessment,2021-05-29,164,Reading,99
+TEST000123,66,State Math Assessment,2021-05-11,241,Mathematics,11
+TEST000124,66,State Reading Assessment,2021-03-20,284,Reading,75
+TEST000125,67,State Math Assessment,2021-05-03,286,Mathematics,43
+TEST000126,67,State Reading Assessment,2021-05-01,156,Reading,78
+TEST000127,68,State Math Assessment,2021-05-30,290,Mathematics,87
+TEST000128,68,State Reading Assessment,2021-05-04,187,Reading,50
+TEST000129,69,State Math Assessment,2021-05-04,289,Mathematics,35
+TEST000130,69,State Reading Assessment,2021-04-27,209,Reading,63
+TEST000131,70,State Math Assessment,2021-05-12,254,Mathematics,61
+TEST000132,70,State Reading Assessment,2021-04-21,166,Reading,32
+TEST000133,71,State Math Assessment,2021-04-17,298,Mathematics,91
+TEST000134,71,State Reading Assessment,2021-05-02,212,Reading,54
+TEST000135,72,State Math Assessment,2021-05-08,258,Mathematics,86
+TEST000136,72,State Reading Assessment,2021-05-28,177,Reading,62
+TEST000137,73,State Math Assessment,2021-05-27,272,Mathematics,51
+TEST000138,73,State Reading Assessment,2021-04-11,178,Reading,66
+TEST000139,74,State Math Assessment,2021-05-08,290,Mathematics,20
+TEST000140,74,State Reading Assessment,2021-04-08,214,Reading,49
+TEST000141,75,State Math Assessment,2021-05-28,171,Mathematics,6
+TEST000142,75,State Reading Assessment,2021-04-15,217,Reading,47
+TEST000143,76,State Math Assessment,2021-03-30,266,Mathematics,16
+TEST000144,76,State Reading Assessment,2021-03-06,254,Reading,85
+TEST000145,77,State Math Assessment,2021-04-22,257,Mathematics,17
+TEST000146,77,State Reading Assessment,2021-05-08,208,Reading,23
+TEST000147,78,State Math Assessment,2021-05-25,186,Mathematics,87
+TEST000148,78,State Reading Assessment,2021-05-26,203,Reading,54
+TEST000149,79,State Math Assessment,2021-05-23,293,Mathematics,88
+TEST000150,79,State Reading Assessment,2021-04-18,151,Reading,95
+TEST000151,80,State Math Assessment,2021-04-17,164,Mathematics,61
+TEST000152,80,State Reading Assessment,2021-05-23,264,Reading,18
+TEST000153,82,State Math Assessment,2021-03-14,182,Mathematics,23
+TEST000154,82,State Reading Assessment,2021-03-08,187,Reading,76
+TEST000155,83,State Math Assessment,2021-03-04,272,Mathematics,98
+TEST000156,83,State Reading Assessment,2021-04-13,226,Reading,16
+TEST000157,84,State Math Assessment,2021-05-03,273,Mathematics,81
+TEST000158,84,State Reading Assessment,2021-04-02,226,Reading,90
+TEST000159,85,State Math Assessment,2021-03-18,206,Mathematics,15
+TEST000160,85,State Reading Assessment,2021-05-17,240,Reading,26
+TEST000161,86,State Math Assessment,2021-03-29,199,Mathematics,51
+TEST000162,86,State Reading Assessment,2021-05-21,299,Reading,61
+TEST000163,87,State Math Assessment,2021-05-06,286,Mathematics,76
+TEST000164,87,State Reading Assessment,2021-03-06,224,Reading,1
+TEST000165,89,State Math Assessment,2021-03-02,257,Mathematics,30
+TEST000166,89,State Reading Assessment,2021-03-24,170,Reading,54
+TEST000167,90,State Math Assessment,2021-05-20,211,Mathematics,66
+TEST000168,90,State Reading Assessment,2021-03-22,209,Reading,92
+TEST000169,91,State Math Assessment,2021-05-07,273,Mathematics,8
+TEST000170,91,State Reading Assessment,2021-03-04,185,Reading,22
+TEST000171,94,State Math Assessment,2021-05-25,282,Mathematics,67
+TEST000172,94,State Reading Assessment,2021-05-16,269,Reading,82
+TEST000173,95,State Math Assessment,2021-04-05,289,Mathematics,74
+TEST000174,95,State Reading Assessment,2021-05-22,240,Reading,63
+TEST000175,96,State Math Assessment,2021-03-08,249,Mathematics,57
+TEST000176,96,State Reading Assessment,2021-03-02,249,Reading,54
+TEST000177,97,State Math Assessment,2021-05-06,296,Mathematics,72
+TEST000178,97,State Reading Assessment,2021-05-05,241,Reading,75
+TEST000179,99,State Math Assessment,2021-05-19,181,Mathematics,39
+TEST000180,99,State Reading Assessment,2021-05-18,286,Reading,32
+TEST000181,100,State Math Assessment,2021-05-13,234,Mathematics,81
+TEST000182,100,State Reading Assessment,2021-04-28,226,Reading,91
+TEST000183,101,State Math Assessment,2021-05-09,219,Mathematics,72
+TEST000184,101,State Reading Assessment,2021-05-23,252,Reading,72
+TEST000185,102,State Math Assessment,2021-04-17,178,Mathematics,72
+TEST000186,102,State Reading Assessment,2021-05-29,191,Reading,76
+TEST000187,103,State Math Assessment,2021-03-15,160,Mathematics,4
+TEST000188,103,State Reading Assessment,2021-03-28,219,Reading,96
+TEST000189,104,State Math Assessment,2021-05-17,159,Mathematics,20
+TEST000190,104,State Reading Assessment,2021-04-14,220,Reading,4
+TEST000191,105,State Math Assessment,2021-05-18,157,Mathematics,44
+TEST000192,105,State Reading Assessment,2021-03-14,160,Reading,68
+TEST000193,106,State Math Assessment,2021-04-03,241,Mathematics,32
+TEST000194,106,State Reading Assessment,2021-03-27,245,Reading,47
+TEST000195,107,State Math Assessment,2021-03-18,160,Mathematics,35
+TEST000196,107,State Reading Assessment,2021-04-11,166,Reading,93
+TEST000197,108,State Math Assessment,2021-04-03,239,Mathematics,41
+TEST000198,108,State Reading Assessment,2021-03-29,159,Reading,60
+TEST000199,109,State Math Assessment,2021-05-25,235,Mathematics,64
+TEST000200,109,State Reading Assessment,2021-03-07,190,Reading,67
+TEST000201,110,State Math Assessment,2021-04-12,199,Mathematics,82
+TEST000202,110,State Reading Assessment,2021-05-12,206,Reading,15
+TEST000203,111,State Math Assessment,2021-05-18,285,Mathematics,40
+TEST000204,111,State Reading Assessment,2021-05-04,261,Reading,3
+TEST000205,112,State Math Assessment,2021-04-21,286,Mathematics,31
+TEST000206,112,State Reading Assessment,2021-04-27,226,Reading,59
+TEST000207,113,State Math Assessment,2021-05-05,288,Mathematics,13
+TEST000208,113,State Reading Assessment,2021-03-21,283,Reading,62
+TEST000209,114,State Math Assessment,2021-04-27,280,Mathematics,84
+TEST000210,114,State Reading Assessment,2021-03-18,159,Reading,59
+TEST000211,115,State Math Assessment,2021-04-17,165,Mathematics,2
+TEST000212,115,State Reading Assessment,2021-05-21,180,Reading,18
+TEST000213,116,State Math Assessment,2021-04-12,238,Mathematics,44
+TEST000214,116,State Reading Assessment,2021-05-13,216,Reading,98
+TEST000215,117,State Math Assessment,2021-05-10,156,Mathematics,21
+TEST000216,117,State Reading Assessment,2021-05-13,265,Reading,18
+TEST000217,118,State Math Assessment,2021-05-08,193,Mathematics,88
+TEST000218,118,State Reading Assessment,2021-05-09,226,Reading,84
+TEST000219,118,PSAT,2021-03-23,1111,Reading,59
+TEST000220,118,SAT,2021-04-26,881,Reading,40
+TEST000221,119,State Math Assessment,2021-04-23,170,Mathematics,76
+TEST000222,119,State Reading Assessment,2021-03-31,251,Reading,62
+TEST000223,119,PSAT,2021-05-07,1078,Reading,56
+TEST000224,119,SAT,2021-03-18,995,Reading,49
+TEST000225,120,State Math Assessment,2021-03-22,214,Mathematics,4
+TEST000226,120,State Reading Assessment,2021-04-23,152,Reading,3
+TEST000227,120,PSAT,2021-05-03,404,Reading,1
+TEST000228,120,SAT,2021-03-11,476,Reading,6
+TEST000229,121,State Math Assessment,2021-05-18,186,Mathematics,27
+TEST000230,121,State Reading Assessment,2021-04-23,252,Reading,43
+TEST000231,121,PSAT,2021-03-17,895,Reading,41
+TEST000232,121,SAT,2021-05-17,631,Reading,19
+TEST000233,122,State Math Assessment,2021-05-30,247,Mathematics,21
+TEST000234,122,State Reading Assessment,2021-04-19,231,Reading,2
+TEST000235,122,PSAT,2021-04-25,1499,Reading,91
+TEST000236,122,SAT,2021-03-19,1504,Reading,92
+TEST000237,123,State Math Assessment,2021-05-28,234,Mathematics,24
+TEST000238,123,State Reading Assessment,2021-04-07,169,Reading,89
+TEST000239,123,PSAT,2021-05-02,1106,Reading,58
+TEST000240,123,SAT,2021-03-19,850,Reading,37
+TEST000241,124,State Math Assessment,2021-05-05,219,Mathematics,75
+TEST000242,124,State Reading Assessment,2021-04-30,158,Reading,84
+TEST000243,124,PSAT,2021-03-17,765,Reading,30
+TEST000244,124,SAT,2021-05-15,519,Reading,9
+TEST000245,125,State Math Assessment,2021-05-20,219,Mathematics,71
+TEST000246,125,State Reading Assessment,2021-04-14,162,Reading,53
+TEST000247,125,PSAT,2021-04-23,1080,Reading,56
+TEST000248,125,SAT,2021-05-03,448,Reading,4
+TEST000249,126,State Math Assessment,2021-04-11,195,Mathematics,94
+TEST000250,126,State Reading Assessment,2021-04-20,170,Reading,72
+TEST000251,126,PSAT,2021-03-03,1418,Reading,84
+TEST000252,126,SAT,2021-04-16,707,Reading,25
+TEST000253,127,State Math Assessment,2021-05-25,278,Mathematics,8
+TEST000254,127,State Reading Assessment,2021-05-11,277,Reading,16
+TEST000255,127,PSAT,2021-05-29,1063,Reading,55
+TEST000256,127,SAT,2021-03-04,1459,Reading,88
+TEST000257,128,State Math Assessment,2021-03-27,229,Mathematics,40
+TEST000258,128,State Reading Assessment,2021-03-18,198,Reading,97
+TEST000259,128,PSAT,2021-05-03,567,Reading,13
+TEST000260,128,SAT,2021-05-25,1479,Reading,89
+TEST000261,130,State Math Assessment,2021-03-23,252,Mathematics,99
+TEST000262,130,State Reading Assessment,2021-04-04,282,Reading,60
+TEST000263,130,PSAT,2021-05-27,451,Reading,4
+TEST000264,130,SAT,2021-05-28,486,Reading,7
+TEST000265,131,State Math Assessment,2021-04-14,175,Mathematics,99
+TEST000266,131,State Reading Assessment,2021-05-15,162,Reading,33
+TEST000267,131,PSAT,2021-05-03,566,Reading,13
+TEST000268,131,SAT,2021-03-23,803,Reading,33
+TEST000269,132,State Math Assessment,2021-03-08,210,Mathematics,71
+TEST000270,132,State Reading Assessment,2021-04-20,297,Reading,51
+TEST000271,132,PSAT,2021-04-29,1103,Reading,58
+TEST000272,132,SAT,2021-04-28,475,Reading,6
+TEST000273,133,State Math Assessment,2021-04-05,201,Mathematics,34
+TEST000274,133,State Reading Assessment,2021-04-26,158,Reading,24
+TEST000275,133,PSAT,2021-03-23,1423,Reading,85
+TEST000276,133,SAT,2021-03-07,1245,Reading,70
+TEST000277,134,State Math Assessment,2021-05-19,175,Mathematics,80
+TEST000278,134,State Reading Assessment,2021-03-08,212,Reading,27
+TEST000279,134,PSAT,2021-05-10,1075,Reading,56
+TEST000280,134,SAT,2021-04-11,640,Reading,20
+TEST000281,136,State Math Assessment,2021-05-06,225,Mathematics,41
+TEST000282,136,State Reading Assessment,2021-04-26,285,Reading,56
+TEST000283,136,PSAT,2021-04-27,696,Reading,24
+TEST000284,136,SAT,2021-03-19,926,Reading,43
+TEST000285,137,State Math Assessment,2021-05-05,174,Mathematics,92
+TEST000286,137,State Reading Assessment,2021-03-08,256,Reading,89
+TEST000287,137,PSAT,2021-05-03,910,Reading,42
+TEST000288,137,SAT,2021-03-19,1478,Reading,89
+TEST000289,138,State Math Assessment,2021-03-31,255,Mathematics,96
+TEST000290,138,State Reading Assessment,2021-03-25,230,Reading,52
+TEST000291,138,PSAT,2021-03-31,1245,Reading,70
+TEST000292,138,SAT,2021-05-08,1535,Reading,94
+TEST000293,139,State Math Assessment,2021-04-15,161,Mathematics,76
+TEST000294,139,State Reading Assessment,2021-05-09,243,Reading,1
+TEST000295,139,PSAT,2021-03-06,705,Reading,25
+TEST000296,139,SAT,2021-04-03,1266,Reading,72
+TEST000297,140,State Math Assessment,2021-03-01,280,Mathematics,47
+TEST000298,140,State Reading Assessment,2021-05-19,222,Reading,51
+TEST000299,140,PSAT,2021-04-15,703,Reading,25
+TEST000300,140,SAT,2021-05-22,1367,Reading,80
+TEST000301,141,State Math Assessment,2021-05-03,164,Mathematics,45
+TEST000302,141,State Reading Assessment,2021-03-01,219,Reading,15
+TEST000303,141,PSAT,2021-04-18,1280,Reading,73
+TEST000304,141,SAT,2021-04-16,1584,Reading,98
+TEST000305,142,State Math Assessment,2021-04-06,228,Mathematics,83
+TEST000306,142,State Reading Assessment,2021-03-01,253,Reading,67
+TEST000307,142,PSAT,2021-05-10,957,Reading,46
+TEST000308,142,SAT,2021-04-24,507,Reading,8
+TEST000309,143,State Math Assessment,2021-04-23,290,Mathematics,30
+TEST000310,143,State Reading Assessment,2021-05-29,185,Reading,53
+TEST000311,143,PSAT,2021-05-15,495,Reading,7
+TEST000312,143,SAT,2021-05-27,1075,Reading,56
+TEST000313,144,State Math Assessment,2021-03-29,164,Mathematics,14
+TEST000314,144,State Reading Assessment,2021-04-24,184,Reading,14
+TEST000315,144,PSAT,2021-03-28,517,Reading,9
+TEST000316,144,SAT,2021-05-03,634,Reading,19
+TEST000317,145,State Math Assessment,2021-04-26,204,Mathematics,88
+TEST000318,145,State Reading Assessment,2021-04-29,282,Reading,41
+TEST000319,145,PSAT,2021-04-29,1065,Reading,55
+TEST000320,145,SAT,2021-05-16,836,Reading,36
+TEST000321,146,State Math Assessment,2021-05-28,169,Mathematics,22
+TEST000322,146,State Reading Assessment,2021-04-08,170,Reading,2
+TEST000323,146,PSAT,2021-03-20,1474,Reading,89
+TEST000324,146,SAT,2021-05-15,1539,Reading,94
+TEST000325,147,State Math Assessment,2021-04-03,250,Mathematics,28
+TEST000326,147,State Reading Assessment,2021-04-14,273,Reading,99
+TEST000327,147,PSAT,2021-04-06,641,Reading,20
+TEST000328,147,SAT,2021-04-18,1239,Reading,69
+TEST000329,148,State Math Assessment,2021-04-10,161,Mathematics,56
+TEST000330,148,State Reading Assessment,2021-05-08,195,Reading,64
+TEST000331,148,PSAT,2021-04-10,525,Reading,10
+TEST000332,148,SAT,2021-03-13,1311,Reading,75
+TEST000333,149,State Math Assessment,2021-05-14,166,Mathematics,64
+TEST000334,149,State Reading Assessment,2021-03-07,168,Reading,22
+TEST000335,149,PSAT,2021-03-24,585,Reading,15
+TEST000336,149,SAT,2021-04-23,1476,Reading,89
+TEST000337,150,State Math Assessment,2021-05-30,155,Mathematics,64
+TEST000338,150,State Reading Assessment,2021-03-02,205,Reading,71
+TEST000339,150,PSAT,2021-05-18,937,Reading,44
+TEST000340,150,SAT,2021-04-01,1115,Reading,59
+TEST000341,151,State Math Assessment,2021-05-28,206,Mathematics,62
+TEST000342,151,State Reading Assessment,2021-04-26,252,Reading,3
+TEST000343,151,PSAT,2021-04-04,687,Reading,23
+TEST000344,151,SAT,2021-03-08,855,Reading,37
+TEST000345,153,State Math Assessment,2021-04-29,207,Mathematics,68
+TEST000346,153,State Reading Assessment,2021-05-15,238,Reading,15
+TEST000347,153,PSAT,2021-05-19,1140,Reading,61
+TEST000348,153,SAT,2021-03-25,673,Reading,22
+TEST000349,154,State Math Assessment,2021-04-23,268,Mathematics,87
+TEST000350,154,State Reading Assessment,2021-03-28,254,Reading,14
+TEST000351,154,PSAT,2021-05-11,1285,Reading,73
+TEST000352,154,SAT,2021-04-04,419,Reading,1
+TEST000353,155,State Math Assessment,2021-03-27,200,Mathematics,98
+TEST000354,155,State Reading Assessment,2021-05-12,160,Reading,69
+TEST000355,155,PSAT,2021-03-17,721,Reading,26
+TEST000356,155,SAT,2021-03-16,1539,Reading,94
+TEST000357,156,State Math Assessment,2021-05-27,282,Mathematics,56
+TEST000358,156,State Reading Assessment,2021-04-05,182,Reading,38
+TEST000359,156,PSAT,2021-04-26,413,Reading,1
+TEST000360,156,SAT,2021-04-02,1252,Reading,71
+TEST000361,157,State Math Assessment,2021-04-02,222,Mathematics,91
+TEST000362,157,State Reading Assessment,2021-03-10,218,Reading,35
+TEST000363,157,PSAT,2021-03-20,1076,Reading,56
+TEST000364,157,SAT,2021-05-19,1521,Reading,93
+TEST000365,157,AP Exam,2021-05-22,212,Reading,24
+TEST000366,158,State Math Assessment,2021-05-20,285,Mathematics,96
+TEST000367,158,State Reading Assessment,2021-03-19,219,Reading,33
+TEST000368,158,PSAT,2021-05-08,1316,Reading,76
+TEST000369,158,SAT,2021-03-04,1430,Reading,85
+TEST000370,159,State Math Assessment,2021-05-12,252,Mathematics,92
+TEST000371,159,State Reading Assessment,2021-04-01,251,Reading,86
+TEST000372,159,PSAT,2021-04-29,759,Reading,29
+TEST000373,159,SAT,2021-03-07,825,Reading,35
+TEST000374,159,AP Exam,2021-04-04,265,Reading,19
+TEST000375,160,State Math Assessment,2021-03-29,200,Mathematics,85
+TEST000376,160,State Reading Assessment,2021-03-10,155,Reading,80
+TEST000377,160,PSAT,2021-04-26,1248,Reading,70
+TEST000378,160,SAT,2021-04-10,1089,Reading,57
+TEST000379,161,State Math Assessment,2021-03-21,199,Mathematics,80
+TEST000380,161,State Reading Assessment,2021-05-04,237,Reading,6
+TEST000381,161,PSAT,2021-05-06,734,Reading,27
+TEST000382,161,SAT,2021-04-04,458,Reading,4
+TEST000383,163,State Math Assessment,2021-03-11,234,Mathematics,24
+TEST000384,163,State Reading Assessment,2021-05-29,175,Reading,72
+TEST000385,163,PSAT,2021-05-12,674,Reading,22
+TEST000386,163,SAT,2021-05-08,813,Reading,34
+TEST000387,164,State Math Assessment,2021-05-29,158,Mathematics,62
+TEST000388,164,State Reading Assessment,2021-05-29,208,Reading,1
+TEST000389,164,PSAT,2021-03-10,1542,Reading,95
+TEST000390,164,SAT,2021-03-03,1202,Reading,66
+TEST000391,164,AP Exam,2021-04-27,244,Reading,94
+TEST000392,165,State Math Assessment,2021-04-09,232,Mathematics,46
+TEST000393,165,State Reading Assessment,2021-04-18,165,Reading,41
+TEST000394,165,PSAT,2021-03-30,567,Reading,13
+TEST000395,165,SAT,2021-04-03,625,Reading,18
+TEST000396,165,AP Exam,2021-03-11,245,Reading,30
+TEST000397,166,State Math Assessment,2021-05-05,155,Mathematics,2
+TEST000398,166,State Reading Assessment,2021-03-23,221,Reading,29
+TEST000399,166,PSAT,2021-05-23,1224,Reading,68
+TEST000400,166,SAT,2021-05-18,977,Reading,48
+TEST000401,167,State Math Assessment,2021-05-30,214,Mathematics,90
+TEST000402,167,State Reading Assessment,2021-04-11,298,Reading,94
+TEST000403,167,PSAT,2021-03-23,1390,Reading,82
+TEST000404,167,SAT,2021-04-09,1575,Reading,97
+TEST000405,167,AP Exam,2021-05-13,236,Reading,34
+TEST000406,168,State Math Assessment,2021-04-04,184,Mathematics,41
+TEST000407,168,State Reading Assessment,2021-05-11,273,Reading,82
+TEST000408,168,PSAT,2021-04-28,830,Reading,35
+TEST000409,168,SAT,2021-03-01,701,Reading,25
+TEST000410,169,State Math Assessment,2021-05-22,208,Mathematics,43
+TEST000411,169,State Reading Assessment,2021-04-02,225,Reading,55
+TEST000412,169,PSAT,2021-05-11,770,Reading,30
+TEST000413,169,SAT,2021-03-03,1388,Reading,82
+TEST000414,169,AP Exam,2021-03-25,163,Reading,1
+TEST000415,170,State Math Assessment,2021-03-07,178,Mathematics,20
+TEST000416,170,State Reading Assessment,2021-04-17,187,Reading,64
+TEST000417,170,PSAT,2021-03-24,705,Reading,25
+TEST000418,170,SAT,2021-04-18,669,Reading,22
+TEST000419,170,AP Exam,2021-05-25,243,Reading,70
+TEST000420,171,State Math Assessment,2021-05-29,203,Mathematics,54
+TEST000421,171,State Reading Assessment,2021-05-27,186,Reading,6
+TEST000422,171,PSAT,2021-03-14,617,Reading,18
+TEST000423,171,SAT,2021-03-14,809,Reading,34
+TEST000424,172,State Math Assessment,2021-03-24,170,Mathematics,52
+TEST000425,172,State Reading Assessment,2021-03-26,271,Reading,11
+TEST000426,172,PSAT,2021-03-14,990,Reading,49
+TEST000427,172,SAT,2021-04-10,785,Reading,32
+TEST000428,173,State Math Assessment,2021-05-24,206,Mathematics,66
+TEST000429,173,State Reading Assessment,2021-05-08,161,Reading,35
+TEST000430,173,PSAT,2021-04-17,747,Reading,28
+TEST000431,173,SAT,2021-05-21,539,Reading,11
+TEST000432,174,State Math Assessment,2021-04-18,277,Mathematics,38
+TEST000433,174,State Reading Assessment,2021-05-16,277,Reading,88
+TEST000434,174,PSAT,2021-05-18,1260,Reading,71
+TEST000435,174,SAT,2021-04-15,1062,Reading,55
+TEST000436,174,AP Exam,2021-05-24,189,Reading,26
+TEST000437,175,State Math Assessment,2021-03-04,300,Mathematics,45
+TEST000438,175,State Reading Assessment,2021-05-08,217,Reading,66
+TEST000439,175,PSAT,2021-03-20,931,Reading,44
+TEST000440,175,SAT,2021-05-25,596,Reading,16
+TEST000441,176,State Math Assessment,2021-05-20,261,Mathematics,76
+TEST000442,176,State Reading Assessment,2021-05-05,256,Reading,8
+TEST000443,176,PSAT,2021-03-17,1466,Reading,88
+TEST000444,176,SAT,2021-03-22,1087,Reading,57
+TEST000445,177,State Math Assessment,2021-05-01,156,Mathematics,22
+TEST000446,177,State Reading Assessment,2021-05-20,169,Reading,38
+TEST000447,177,PSAT,2021-04-22,1553,Reading,96
+TEST000448,177,SAT,2021-03-11,724,Reading,27
+TEST000449,178,State Math Assessment,2021-03-14,235,Mathematics,84
+TEST000450,178,State Reading Assessment,2021-04-20,205,Reading,39
+TEST000451,178,PSAT,2021-03-08,1309,Reading,75
+TEST000452,178,SAT,2021-04-12,1250,Reading,70
+TEST000453,179,State Math Assessment,2021-03-07,241,Mathematics,64
+TEST000454,179,State Reading Assessment,2021-05-26,243,Reading,47
+TEST000455,179,PSAT,2021-05-16,1396,Reading,83
+TEST000456,179,SAT,2021-05-24,866,Reading,38
+TEST000457,179,AP Exam,2021-04-21,278,Reading,40
+TEST000458,180,State Math Assessment,2021-05-19,233,Mathematics,4
+TEST000459,180,State Reading Assessment,2021-04-30,185,Reading,76
+TEST000460,180,PSAT,2021-05-03,1522,Reading,93
+TEST000461,180,SAT,2021-05-10,468,Reading,5
+TEST000462,181,State Math Assessment,2021-04-25,254,Mathematics,78
+TEST000463,181,State Reading Assessment,2021-05-12,212,Reading,24
+TEST000464,181,PSAT,2021-03-23,1181,Reading,65
+TEST000465,181,SAT,2021-04-04,663,Reading,21
+TEST000466,181,AP Exam,2021-05-23,247,Reading,8
+TEST000467,182,State Math Assessment,2021-03-30,298,Mathematics,35
+TEST000468,182,State Reading Assessment,2021-05-05,190,Reading,21
+TEST000469,182,PSAT,2021-04-13,1551,Reading,95
+TEST000470,182,SAT,2021-05-12,439,Reading,3
+TEST000471,183,State Math Assessment,2021-05-06,283,Mathematics,91
+TEST000472,183,State Reading Assessment,2021-05-22,300,Reading,18
+TEST000473,183,PSAT,2021-05-12,602,Reading,16
+TEST000474,183,SAT,2021-04-01,1097,Reading,58
+TEST000475,184,State Math Assessment,2021-05-25,259,Mathematics,5
+TEST000476,184,State Reading Assessment,2021-03-14,229,Reading,32
+TEST000477,184,PSAT,2021-05-19,985,Reading,48
+TEST000478,184,SAT,2021-03-12,621,Reading,18
+TEST000479,185,State Math Assessment,2021-03-07,217,Mathematics,13
+TEST000480,185,State Reading Assessment,2021-05-27,267,Reading,83
+TEST000481,185,PSAT,2021-03-16,662,Reading,21
+TEST000482,185,SAT,2021-04-12,776,Reading,31
+TEST000483,185,AP Exam,2021-05-12,284,Reading,14
+TEST000484,186,State Math Assessment,2021-03-31,232,Mathematics,89
+TEST000485,186,State Reading Assessment,2021-04-26,236,Reading,74
+TEST000486,186,PSAT,2021-04-11,1261,Reading,71
+TEST000487,186,SAT,2021-03-24,1466,Reading,88
+TEST000488,187,State Math Assessment,2021-05-13,175,Mathematics,87
+TEST000489,187,State Reading Assessment,2021-05-23,271,Reading,10
+TEST000490,187,PSAT,2021-04-18,1207,Reading,67
+TEST000491,187,SAT,2021-05-26,1357,Reading,79
+TEST000492,188,State Math Assessment,2021-05-19,175,Mathematics,74
+TEST000493,188,State Reading Assessment,2021-03-22,163,Reading,60
+TEST000494,188,PSAT,2021-03-07,869,Reading,39
+TEST000495,188,SAT,2021-03-09,950,Reading,45
+TEST000496,190,State Math Assessment,2021-03-30,232,Mathematics,48
+TEST000497,190,State Reading Assessment,2021-04-28,205,Reading,74
+TEST000498,190,PSAT,2021-05-21,961,Reading,46
+TEST000499,190,SAT,2021-03-20,528,Reading,10
+TEST000500,191,State Math Assessment,2021-03-24,286,Mathematics,11
+TEST000501,191,State Reading Assessment,2021-03-11,273,Reading,26
+TEST000502,191,PSAT,2021-05-27,1528,Reading,94
+TEST000503,191,SAT,2021-03-02,1398,Reading,83
+TEST000504,192,State Math Assessment,2021-04-21,261,Mathematics,90
+TEST000505,192,State Reading Assessment,2021-04-18,251,Reading,30
+TEST000506,192,PSAT,2021-04-09,1160,Reading,63
+TEST000507,192,SAT,2021-03-16,807,Reading,33
+TEST000508,193,State Math Assessment,2021-03-24,175,Mathematics,89
+TEST000509,193,State Reading Assessment,2021-03-06,162,Reading,75
+TEST000510,193,PSAT,2021-05-19,638,Reading,19
+TEST000511,193,SAT,2021-04-11,1570,Reading,97
+TEST000512,193,AP Exam,2021-05-11,195,Reading,39
+TEST000513,194,State Math Assessment,2021-05-14,177,Mathematics,51
+TEST000514,194,State Reading Assessment,2021-04-02,249,Reading,64
+TEST000515,194,PSAT,2021-05-15,849,Reading,37
+TEST000516,194,SAT,2021-04-26,404,Reading,1
+TEST000517,195,State Math Assessment,2021-05-26,228,Mathematics,93
+TEST000518,195,State Reading Assessment,2021-03-26,209,Reading,83
+TEST000519,195,PSAT,2021-05-05,1579,Reading,98
+TEST000520,195,SAT,2021-05-20,430,Reading,2
+TEST000521,196,State Math Assessment,2021-03-03,191,Mathematics,92
+TEST000522,196,State Reading Assessment,2021-03-03,176,Reading,12
+TEST000523,196,PSAT,2021-03-23,1152,Reading,62
+TEST000524,196,SAT,2021-05-19,1196,Reading,66
+TEST000525,196,AP Exam,2021-05-30,151,Reading,23
+TEST000526,197,State Math Assessment,2021-04-21,243,Mathematics,24
+TEST000527,197,State Reading Assessment,2021-03-10,207,Reading,5
+TEST000528,197,PSAT,2021-04-19,1210,Reading,67
+TEST000529,197,SAT,2021-05-17,793,Reading,32
+TEST000530,198,State Math Assessment,2021-03-02,197,Mathematics,23
+TEST000531,198,State Reading Assessment,2021-03-24,292,Reading,69
+TEST000532,198,PSAT,2021-05-08,409,Reading,1
+TEST000533,198,SAT,2021-04-10,1023,Reading,51
+TEST000534,199,State Math Assessment,2021-03-29,189,Mathematics,71
+TEST000535,199,State Reading Assessment,2021-04-23,273,Reading,8
+TEST000536,199,PSAT,2021-04-06,1080,Reading,56
+TEST000537,199,SAT,2021-05-09,1508,Reading,92
+TEST000538,201,State Math Assessment,2021-03-09,225,Mathematics,75
+TEST000539,201,State Reading Assessment,2021-05-05,164,Reading,59
+TEST000540,201,PSAT,2021-03-04,688,Reading,24
+TEST000541,201,SAT,2021-05-29,548,Reading,12
+TEST000542,202,State Math Assessment,2021-03-05,282,Mathematics,94
+TEST000543,202,State Reading Assessment,2021-03-13,181,Reading,31
+TEST000544,202,PSAT,2021-03-07,841,Reading,36
+TEST000545,202,SAT,2021-04-18,1029,Reading,52
+TEST000546,203,State Math Assessment,2021-03-15,165,Mathematics,27
+TEST000547,203,State Reading Assessment,2021-03-30,275,Reading,10
+TEST000548,203,PSAT,2021-03-08,716,Reading,26
+TEST000549,203,SAT,2021-05-08,1442,Reading,86
+TEST000550,204,State Math Assessment,2021-03-25,192,Mathematics,59
+TEST000551,204,State Reading Assessment,2021-03-03,164,Reading,98
+TEST000552,204,PSAT,2021-04-22,444,Reading,3
+TEST000553,204,SAT,2021-03-09,726,Reading,27
+TEST000554,205,State Math Assessment,2021-04-13,270,Mathematics,92
+TEST000555,205,State Reading Assessment,2021-03-05,165,Reading,65
+TEST000556,205,PSAT,2021-03-14,1273,Reading,72
+TEST000557,205,SAT,2021-04-20,784,Reading,32
+TEST000558,206,State Math Assessment,2021-03-26,231,Mathematics,36
+TEST000559,206,State Reading Assessment,2021-04-11,284,Reading,56
+TEST000560,206,PSAT,2021-03-07,747,Reading,28
+TEST000561,206,SAT,2021-04-11,1520,Reading,93
+TEST000562,207,State Math Assessment,2021-05-01,287,Mathematics,16
+TEST000563,207,State Reading Assessment,2021-04-23,153,Reading,9
+TEST000564,207,PSAT,2021-04-15,1475,Reading,89
+TEST000565,207,SAT,2021-04-21,900,Reading,41
+TEST000566,208,State Math Assessment,2021-04-13,294,Mathematics,11
+TEST000567,208,State Reading Assessment,2021-05-02,225,Reading,64
+TEST000568,208,PSAT,2021-05-16,634,Reading,19
+TEST000569,208,SAT,2021-05-01,1319,Reading,76
+TEST000570,209,State Math Assessment,2021-03-19,263,Mathematics,39
+TEST000571,209,State Reading Assessment,2021-03-18,257,Reading,76
+TEST000572,209,PSAT,2021-05-13,749,Reading,29
+TEST000573,209,SAT,2021-03-07,414,Reading,1
+TEST000574,210,State Math Assessment,2021-03-28,247,Mathematics,35
+TEST000575,210,State Reading Assessment,2021-04-25,227,Reading,1
+TEST000576,210,PSAT,2021-04-28,955,Reading,46
+TEST000577,210,SAT,2021-04-25,622,Reading,18
+TEST000578,211,State Math Assessment,2021-04-16,273,Mathematics,53
+TEST000579,211,State Reading Assessment,2021-05-23,247,Reading,35
+TEST000580,211,PSAT,2021-05-28,1211,Reading,67
+TEST000581,211,SAT,2021-05-22,1130,Reading,60
+TEST000582,212,State Math Assessment,2021-03-02,227,Mathematics,44
+TEST000583,212,State Reading Assessment,2021-03-21,257,Reading,45
+TEST000584,212,PSAT,2021-05-04,1224,Reading,68
+TEST000585,212,SAT,2021-03-13,1220,Reading,68
+TEST000586,213,State Math Assessment,2021-03-03,236,Mathematics,95
+TEST000587,213,State Reading Assessment,2021-03-28,250,Reading,9
+TEST000588,213,PSAT,2021-03-19,896,Reading,41
+TEST000589,213,SAT,2021-05-02,484,Reading,7
+TEST000590,214,State Math Assessment,2021-03-31,151,Mathematics,73
+TEST000591,214,State Reading Assessment,2021-05-04,263,Reading,69
+TEST000592,214,PSAT,2021-04-18,1354,Reading,79
+TEST000593,214,SAT,2021-03-25,1411,Reading,84
+TEST000594,215,State Math Assessment,2021-03-21,284,Mathematics,45
+TEST000595,215,State Reading Assessment,2021-05-10,286,Reading,30
+TEST000596,215,PSAT,2021-03-20,1228,Reading,69
+TEST000597,215,SAT,2021-03-30,1099,Reading,58
+TEST000598,215,AP Exam,2021-03-30,213,Reading,99
+TEST000599,216,State Math Assessment,2021-03-13,223,Mathematics,82
+TEST000600,216,State Reading Assessment,2021-03-11,171,Reading,57
+TEST000601,216,PSAT,2021-03-05,1125,Reading,60
+TEST000602,216,SAT,2021-04-09,1321,Reading,76
+TEST000603,217,State Math Assessment,2021-04-05,290,Mathematics,61
+TEST000604,217,State Reading Assessment,2021-03-07,178,Reading,17
+TEST000605,217,PSAT,2021-05-24,736,Reading,28
+TEST000606,217,SAT,2021-03-05,1332,Reading,77
+TEST000607,218,State Math Assessment,2021-05-18,298,Mathematics,16
+TEST000608,218,State Reading Assessment,2021-03-03,299,Reading,30
+TEST000609,218,PSAT,2021-03-29,1083,Reading,56
+TEST000610,218,SAT,2021-05-21,528,Reading,10
+TEST000611,219,State Math Assessment,2021-04-08,167,Mathematics,37
+TEST000612,219,State Reading Assessment,2021-03-01,299,Reading,63
+TEST000613,219,PSAT,2021-03-07,1317,Reading,76
+TEST000614,219,SAT,2021-03-02,596,Reading,16
+TEST000615,220,State Math Assessment,2021-05-01,253,Mathematics,16
+TEST000616,220,State Reading Assessment,2021-03-29,198,Reading,48
+TEST000617,220,PSAT,2021-03-11,1155,Reading,62
+TEST000618,220,SAT,2021-03-20,913,Reading,42
+TEST000619,220,AP Exam,2021-03-12,179,Reading,61
+TEST000620,221,State Math Assessment,2021-03-23,208,Mathematics,66
+TEST000621,221,State Reading Assessment,2021-04-02,176,Reading,10
+TEST000622,221,PSAT,2021-04-05,445,Reading,3
+TEST000623,221,SAT,2021-04-02,649,Reading,20
+TEST000624,221,AP Exam,2021-05-12,215,Reading,73
+TEST000625,222,State Math Assessment,2021-04-14,286,Mathematics,42
+TEST000626,222,State Reading Assessment,2021-04-25,249,Reading,21
+TEST000627,222,PSAT,2021-03-30,821,Reading,35
+TEST000628,222,SAT,2021-03-13,886,Reading,40
+TEST000629,223,State Math Assessment,2021-03-05,254,Mathematics,71
+TEST000630,223,State Reading Assessment,2021-05-09,284,Reading,33
+TEST000631,223,PSAT,2021-04-15,592,Reading,16
+TEST000632,223,SAT,2021-05-13,1252,Reading,71
+TEST000633,224,State Math Assessment,2021-03-15,261,Mathematics,87
+TEST000634,224,State Reading Assessment,2021-05-06,225,Reading,99
+TEST000635,224,PSAT,2021-05-06,563,Reading,13
+TEST000636,224,SAT,2021-03-13,901,Reading,41
+TEST000637,225,State Math Assessment,2021-05-05,220,Mathematics,94
+TEST000638,225,State Reading Assessment,2021-03-23,241,Reading,14
+TEST000639,225,PSAT,2021-04-27,1019,Reading,51
+TEST000640,225,SAT,2021-04-04,1094,Reading,57
+TEST000641,225,AP Exam,2021-04-11,165,Reading,95
+TEST000642,226,State Math Assessment,2021-05-13,152,Mathematics,14
+TEST000643,226,State Reading Assessment,2021-05-23,198,Reading,43
+TEST000644,226,PSAT,2021-05-07,638,Reading,19
+TEST000645,226,SAT,2021-04-15,1549,Reading,95
+TEST000646,226,AP Exam,2021-03-13,200,Reading,34
+TEST000647,227,State Math Assessment,2021-05-03,180,Mathematics,72
+TEST000648,227,State Reading Assessment,2021-03-09,224,Reading,35
+TEST000649,227,PSAT,2021-04-17,617,Reading,18
+TEST000650,227,SAT,2021-04-06,1287,Reading,73
+TEST000651,228,State Math Assessment,2021-05-17,159,Mathematics,19
+TEST000652,228,State Reading Assessment,2021-05-15,152,Reading,77
+TEST000653,228,PSAT,2021-03-08,791,Reading,32
+TEST000654,228,SAT,2021-05-09,917,Reading,43
+TEST000655,229,State Math Assessment,2021-04-20,251,Mathematics,44
+TEST000656,229,State Reading Assessment,2021-05-17,235,Reading,71
+TEST000657,229,PSAT,2021-05-14,892,Reading,41
+TEST000658,229,SAT,2021-04-28,1307,Reading,75
+TEST000659,230,State Math Assessment,2021-05-26,296,Mathematics,7
+TEST000660,230,State Reading Assessment,2021-05-13,216,Reading,65
+TEST000661,230,PSAT,2021-04-24,1442,Reading,86
+TEST000662,230,SAT,2021-04-26,720,Reading,26
+TEST000663,230,AP Exam,2021-04-23,190,Reading,87
+TEST000664,231,State Math Assessment,2021-04-18,156,Mathematics,98
+TEST000665,231,State Reading Assessment,2021-05-09,283,Reading,40
+TEST000666,231,PSAT,2021-04-23,1247,Reading,70
+TEST000667,231,SAT,2021-05-27,1234,Reading,69
+TEST000668,233,State Math Assessment,2021-05-22,193,Mathematics,34
+TEST000669,233,State Reading Assessment,2021-05-19,219,Reading,88
+TEST000670,233,PSAT,2021-04-14,1309,Reading,75
+TEST000671,233,SAT,2021-04-17,1478,Reading,89
+TEST000672,234,State Math Assessment,2021-04-11,172,Mathematics,13
+TEST000673,234,State Reading Assessment,2021-04-16,190,Reading,99
+TEST000674,234,PSAT,2021-05-11,1077,Reading,56
+TEST000675,234,SAT,2021-04-12,664,Reading,22
+TEST000676,235,State Math Assessment,2021-05-29,162,Mathematics,45
+TEST000677,235,State Reading Assessment,2021-04-06,263,Reading,60
+TEST000678,235,PSAT,2021-05-23,1027,Reading,52
+TEST000679,235,SAT,2021-03-07,1497,Reading,91
+TEST000680,236,State Math Assessment,2021-03-22,202,Mathematics,88
+TEST000681,236,State Reading Assessment,2021-04-18,276,Reading,94
+TEST000682,236,PSAT,2021-04-16,1245,Reading,70
+TEST000683,236,SAT,2021-04-15,415,Reading,1
+TEST000684,237,State Math Assessment,2021-05-03,291,Mathematics,70
+TEST000685,237,State Reading Assessment,2021-03-08,176,Reading,43
+TEST000686,237,PSAT,2021-03-13,819,Reading,34
+TEST000687,237,SAT,2021-05-16,452,Reading,4
+TEST000688,237,AP Exam,2021-03-21,282,Reading,86
+TEST000689,238,State Math Assessment,2021-04-28,261,Mathematics,69
+TEST000690,238,State Reading Assessment,2021-04-22,243,Reading,37
+TEST000691,238,PSAT,2021-03-09,1117,Reading,59
+TEST000692,238,SAT,2021-04-21,859,Reading,38
+TEST000693,239,State Math Assessment,2021-04-25,298,Mathematics,91
+TEST000694,239,State Reading Assessment,2021-03-22,254,Reading,88
+TEST000695,239,PSAT,2021-04-29,822,Reading,35
+TEST000696,239,SAT,2021-04-14,1180,Reading,65
+TEST000697,239,AP Exam,2021-05-02,245,Reading,1
+TEST000698,240,State Math Assessment,2021-05-01,243,Mathematics,26
+TEST000699,240,State Reading Assessment,2021-05-17,180,Reading,89
+TEST000700,240,PSAT,2021-03-16,1182,Reading,65
+TEST000701,240,SAT,2021-03-05,1534,Reading,94
+TEST000702,240,AP Exam,2021-03-27,297,Reading,81
+TEST000703,241,State Math Assessment,2021-04-19,226,Mathematics,20
+TEST000704,241,State Reading Assessment,2021-04-16,290,Reading,11
+TEST000705,241,PSAT,2021-03-22,796,Reading,33
+TEST000706,241,SAT,2021-03-04,1372,Reading,81
+TEST000707,242,State Math Assessment,2021-03-27,170,Mathematics,38
+TEST000708,242,State Reading Assessment,2021-04-05,206,Reading,28
+TEST000709,242,PSAT,2021-03-12,881,Reading,40
+TEST000710,242,SAT,2021-04-26,1264,Reading,72
+TEST000711,243,State Math Assessment,2021-03-25,280,Mathematics,77
+TEST000712,243,State Reading Assessment,2021-03-31,300,Reading,24
+TEST000713,243,PSAT,2021-04-03,827,Reading,35
+TEST000714,243,SAT,2021-05-11,1593,Reading,99
+TEST000715,243,AP Exam,2021-04-18,161,Reading,40
+TEST000716,244,State Math Assessment,2021-04-09,233,Mathematics,73
+TEST000717,244,State Reading Assessment,2021-05-30,206,Reading,21
+TEST000718,244,PSAT,2021-04-19,1505,Reading,92
+TEST000719,244,SAT,2021-05-18,1532,Reading,94
+TEST000720,244,AP Exam,2021-05-20,160,Reading,81
+TEST000721,245,State Math Assessment,2021-03-09,280,Mathematics,42
+TEST000722,245,State Reading Assessment,2021-05-02,217,Reading,27
+TEST000723,245,PSAT,2021-05-11,772,Reading,31
+TEST000724,245,SAT,2021-05-16,1076,Reading,56
+TEST000725,246,State Math Assessment,2021-04-14,174,Mathematics,93
+TEST000726,246,State Reading Assessment,2021-05-20,279,Reading,51
+TEST000727,246,PSAT,2021-05-10,733,Reading,27
+TEST000728,246,SAT,2021-03-22,1363,Reading,80
+TEST000729,247,State Math Assessment,2021-03-28,197,Mathematics,10
+TEST000730,247,State Reading Assessment,2021-03-12,167,Reading,91
+TEST000731,247,PSAT,2021-04-22,756,Reading,29
+TEST000732,247,SAT,2021-04-23,748,Reading,29
+TEST000733,248,State Math Assessment,2021-05-27,267,Mathematics,96
+TEST000734,248,State Reading Assessment,2021-05-06,191,Reading,41
+TEST000735,248,PSAT,2021-03-03,507,Reading,8
+TEST000736,248,SAT,2021-04-18,693,Reading,24
+TEST000737,249,State Math Assessment,2021-04-26,171,Mathematics,99
+TEST000738,249,State Reading Assessment,2021-05-03,188,Reading,22
+TEST000739,249,PSAT,2021-04-09,929,Reading,44
+TEST000740,249,SAT,2021-05-15,1220,Reading,68
+TEST000741,250,State Math Assessment,2021-03-31,192,Mathematics,10
+TEST000742,250,State Reading Assessment,2021-05-10,186,Reading,90
+TEST000743,250,PSAT,2021-05-05,525,Reading,10
+TEST000744,250,SAT,2021-03-04,1477,Reading,89
+TEST000745,251,State Math Assessment,2021-03-25,190,Mathematics,57
+TEST000746,251,State Reading Assessment,2021-04-30,298,Reading,52
+TEST000747,251,PSAT,2021-05-01,575,Reading,14
+TEST000748,251,SAT,2021-05-17,1381,Reading,81
+TEST000749,252,State Math Assessment,2021-03-11,300,Mathematics,89
+TEST000750,252,State Reading Assessment,2021-04-03,204,Reading,54
+TEST000751,252,PSAT,2021-05-25,1234,Reading,69
+TEST000752,252,SAT,2021-04-17,498,Reading,8
+TEST000753,253,State Math Assessment,2021-05-18,273,Mathematics,84
+TEST000754,253,State Reading Assessment,2021-03-31,253,Reading,12
+TEST000755,253,PSAT,2021-04-19,404,Reading,1
+TEST000756,253,SAT,2021-04-02,1597,Reading,99
+TEST000757,254,State Math Assessment,2021-04-30,251,Mathematics,66
+TEST000758,254,State Reading Assessment,2021-03-19,292,Reading,47
+TEST000759,254,PSAT,2021-05-28,1135,Reading,61
+TEST000760,254,SAT,2021-04-25,508,Reading,9
+TEST000761,255,State Math Assessment,2021-03-11,184,Mathematics,5
+TEST000762,255,State Reading Assessment,2021-05-14,263,Reading,20
+TEST000763,255,PSAT,2021-04-22,1062,Reading,55
+TEST000764,255,SAT,2021-05-01,851,Reading,37
+TEST000765,255,AP Exam,2021-04-01,172,Reading,5
+TEST000766,256,State Math Assessment,2021-03-24,234,Mathematics,12
+TEST000767,256,State Reading Assessment,2021-05-04,158,Reading,68
+TEST000768,256,PSAT,2021-04-07,841,Reading,36
+TEST000769,256,SAT,2021-05-09,1396,Reading,83
+TEST000770,256,AP Exam,2021-03-14,214,Reading,49
+TEST000771,257,State Math Assessment,2021-03-04,224,Mathematics,72
+TEST000772,257,State Reading Assessment,2021-04-05,300,Reading,29
+TEST000773,257,PSAT,2021-05-27,1329,Reading,77
+TEST000774,257,SAT,2021-03-28,1520,Reading,93
+TEST000775,258,State Math Assessment,2021-05-20,165,Mathematics,70
+TEST000776,258,State Reading Assessment,2021-03-30,180,Reading,18
+TEST000777,258,PSAT,2021-04-28,668,Reading,22
+TEST000778,258,SAT,2021-03-19,611,Reading,17
+TEST000779,259,State Math Assessment,2021-05-14,255,Mathematics,70
+TEST000780,259,State Reading Assessment,2021-03-23,286,Reading,38
+TEST000781,259,PSAT,2021-04-26,711,Reading,25
+TEST000782,259,SAT,2021-03-18,978,Reading,48
+TEST000783,260,State Math Assessment,2021-04-13,285,Mathematics,26
+TEST000784,260,State Reading Assessment,2021-03-08,166,Reading,19
+TEST000785,260,PSAT,2021-05-05,663,Reading,21
+TEST000786,260,SAT,2021-04-24,913,Reading,42
+TEST000787,262,State Math Assessment,2021-03-31,298,Mathematics,51
+TEST000788,262,State Reading Assessment,2021-03-25,235,Reading,57
+TEST000789,262,PSAT,2021-03-04,1150,Reading,62
+TEST000790,262,SAT,2021-04-09,1557,Reading,96
+TEST000791,262,AP Exam,2021-03-23,297,Reading,45
+TEST000792,263,State Math Assessment,2021-04-20,259,Mathematics,41
+TEST000793,263,State Reading Assessment,2021-03-31,255,Reading,83
+TEST000794,263,PSAT,2021-05-22,990,Reading,49
+TEST000795,263,SAT,2021-04-10,664,Reading,22
+TEST000796,263,AP Exam,2021-05-27,236,Reading,72
+TEST000797,264,State Math Assessment,2021-04-14,263,Mathematics,72
+TEST000798,264,State Reading Assessment,2021-03-01,206,Reading,71
+TEST000799,264,PSAT,2021-03-14,847,Reading,37
+TEST000800,264,SAT,2021-03-06,479,Reading,6
+TEST000801,265,State Math Assessment,2021-05-11,204,Mathematics,8
+TEST000802,265,State Reading Assessment,2021-04-15,267,Reading,39
+TEST000803,265,PSAT,2021-05-01,534,Reading,11
+TEST000804,265,SAT,2021-03-08,870,Reading,39
+TEST000805,265,AP Exam,2021-05-14,157,Reading,22
+TEST000806,266,State Math Assessment,2021-04-04,249,Mathematics,61
+TEST000807,266,State Reading Assessment,2021-03-20,183,Reading,15
+TEST000808,266,PSAT,2021-04-14,760,Reading,30
+TEST000809,266,SAT,2021-04-24,1512,Reading,92
+TEST000810,266,AP Exam,2021-05-03,284,Reading,97
+TEST000811,267,State Math Assessment,2021-03-28,159,Mathematics,57
+TEST000812,267,State Reading Assessment,2021-03-19,210,Reading,19
+TEST000813,267,PSAT,2021-03-06,861,Reading,38
+TEST000814,267,SAT,2021-05-06,619,Reading,18
+TEST000815,268,State Math Assessment,2021-05-26,269,Mathematics,81
+TEST000816,268,State Reading Assessment,2021-04-03,154,Reading,10
+TEST000817,268,PSAT,2021-04-04,511,Reading,9
+TEST000818,268,SAT,2021-05-06,1454,Reading,87
+TEST000819,268,AP Exam,2021-05-03,284,Reading,32
+TEST000820,269,State Math Assessment,2021-04-03,242,Mathematics,31
+TEST000821,269,State Reading Assessment,2021-05-09,287,Reading,1
+TEST000822,269,PSAT,2021-04-02,1577,Reading,98
+TEST000823,269,SAT,2021-05-13,1229,Reading,69
+TEST000824,270,State Math Assessment,2021-03-22,209,Mathematics,16
+TEST000825,270,State Reading Assessment,2021-05-05,175,Reading,11
+TEST000826,270,PSAT,2021-04-01,539,Reading,11
+TEST000827,270,SAT,2021-03-26,654,Reading,21
+TEST000828,271,State Math Assessment,2021-03-28,255,Mathematics,87
+TEST000829,271,State Reading Assessment,2021-05-30,165,Reading,52
+TEST000830,271,PSAT,2021-05-13,861,Reading,38
+TEST000831,271,SAT,2021-05-22,1552,Reading,96
+TEST000832,271,AP Exam,2021-03-04,159,Reading,12
+TEST000833,272,State Math Assessment,2021-04-13,222,Mathematics,8
+TEST000834,272,State Reading Assessment,2021-05-13,227,Reading,92
+TEST000835,272,PSAT,2021-05-29,1548,Reading,95
+TEST000836,272,SAT,2021-04-20,1233,Reading,69
+TEST000837,501,State Math Assessment,2021-05-08,246,Mathematics,7
+TEST000838,501,State Reading Assessment,2021-04-27,286,Reading,16
+TEST000839,502,State Math Assessment,2021-05-05,237,Mathematics,53
+TEST000840,502,State Reading Assessment,2021-04-10,178,Reading,26
+TEST000841,503,State Math Assessment,2021-04-14,270,Mathematics,91
+TEST000842,503,State Reading Assessment,2021-04-15,252,Reading,47
+TEST000843,504,State Math Assessment,2021-05-07,245,Mathematics,68
+TEST000844,504,State Reading Assessment,2021-04-18,201,Reading,13
+TEST000845,505,State Math Assessment,2021-05-24,192,Mathematics,32
+TEST000846,505,State Reading Assessment,2021-04-21,230,Reading,92
+TEST000847,506,State Math Assessment,2021-04-22,209,Mathematics,56
+TEST000848,506,State Reading Assessment,2021-05-17,180,Reading,21
+TEST000849,507,State Math Assessment,2021-04-27,154,Mathematics,48
+TEST000850,507,State Reading Assessment,2021-05-30,164,Reading,28
+TEST000851,508,State Math Assessment,2021-05-25,200,Mathematics,17
+TEST000852,508,State Reading Assessment,2021-03-16,154,Reading,54
+TEST000853,509,State Math Assessment,2021-05-02,275,Mathematics,79
+TEST000854,509,State Reading Assessment,2021-05-09,214,Reading,11
+TEST000855,510,State Math Assessment,2021-05-27,222,Mathematics,22
+TEST000856,510,State Reading Assessment,2021-05-10,200,Reading,46
+TEST000857,511,State Math Assessment,2021-03-14,222,Mathematics,69
+TEST000858,511,State Reading Assessment,2021-05-17,219,Reading,48
+TEST000859,512,State Math Assessment,2021-03-11,229,Mathematics,94
+TEST000860,512,State Reading Assessment,2021-05-14,188,Reading,63
+TEST000861,513,State Math Assessment,2021-05-29,277,Mathematics,16
+TEST000862,513,State Reading Assessment,2021-03-04,201,Reading,43
+TEST000863,514,State Math Assessment,2021-05-11,265,Mathematics,66
+TEST000864,514,State Reading Assessment,2021-03-04,167,Reading,65
+TEST000865,515,State Math Assessment,2021-04-14,282,Mathematics,51
+TEST000866,515,State Reading Assessment,2021-05-15,151,Reading,43
+TEST000867,516,State Math Assessment,2021-03-14,198,Mathematics,12
+TEST000868,516,State Reading Assessment,2021-05-05,197,Reading,28
+TEST000869,517,State Math Assessment,2021-05-04,214,Mathematics,90
+TEST000870,517,State Reading Assessment,2021-03-01,250,Reading,75
+TEST000871,518,State Math Assessment,2021-05-29,153,Mathematics,19
+TEST000872,518,State Reading Assessment,2021-03-27,206,Reading,49
+TEST000873,519,State Math Assessment,2021-03-03,271,Mathematics,94
+TEST000874,519,State Reading Assessment,2021-05-14,167,Reading,89
+TEST000875,520,State Math Assessment,2021-05-13,192,Mathematics,47
+TEST000876,520,State Reading Assessment,2021-04-30,233,Reading,75
+TEST000877,521,State Math Assessment,2021-03-31,290,Mathematics,91
+TEST000878,521,State Reading Assessment,2021-04-18,256,Reading,82
+TEST000879,522,State Math Assessment,2021-05-13,264,Mathematics,22
+TEST000880,522,State Reading Assessment,2021-03-07,277,Reading,25
+TEST000881,523,State Math Assessment,2021-03-13,258,Mathematics,65
+TEST000882,523,State Reading Assessment,2021-05-15,290,Reading,23
+TEST000883,524,State Math Assessment,2021-03-17,238,Mathematics,65
+TEST000884,524,State Reading Assessment,2021-03-29,274,Reading,79
+TEST000885,525,State Math Assessment,2021-04-09,284,Mathematics,51
+TEST000886,525,State Reading Assessment,2021-03-11,184,Reading,66
+TEST000887,526,State Math Assessment,2021-05-06,188,Mathematics,20
+TEST000888,526,State Reading Assessment,2021-04-13,178,Reading,95
+TEST000889,527,State Math Assessment,2021-04-05,186,Mathematics,65
+TEST000890,527,State Reading Assessment,2021-05-04,190,Reading,57
+TEST000891,528,State Math Assessment,2021-04-17,215,Mathematics,21
+TEST000892,528,State Reading Assessment,2021-04-22,214,Reading,3
+TEST000893,529,State Math Assessment,2021-05-07,170,Mathematics,86
+TEST000894,529,State Reading Assessment,2021-03-02,171,Reading,31
+TEST000895,531,State Math Assessment,2021-05-26,267,Mathematics,30
+TEST000896,531,State Reading Assessment,2021-03-28,253,Reading,79
+TEST000897,533,State Math Assessment,2021-03-10,172,Mathematics,47
+TEST000898,533,State Reading Assessment,2021-05-26,173,Reading,89
+TEST000899,534,State Math Assessment,2021-03-03,189,Mathematics,18
+TEST000900,534,State Reading Assessment,2021-05-07,197,Reading,26
+TEST000901,536,State Math Assessment,2021-03-31,216,Mathematics,78
+TEST000902,536,State Reading Assessment,2021-04-23,207,Reading,50
+TEST000903,537,State Math Assessment,2021-04-11,178,Mathematics,72
+TEST000904,537,State Reading Assessment,2021-04-09,188,Reading,86
+TEST000905,538,State Math Assessment,2021-04-16,279,Mathematics,70
+TEST000906,538,State Reading Assessment,2021-03-08,215,Reading,55
+TEST000907,539,State Math Assessment,2021-04-20,236,Mathematics,39
+TEST000908,539,State Reading Assessment,2021-04-10,252,Reading,37
+TEST000909,540,State Math Assessment,2021-03-25,154,Mathematics,85
+TEST000910,540,State Reading Assessment,2021-03-27,162,Reading,37
+TEST000911,541,State Math Assessment,2021-03-15,263,Mathematics,30
+TEST000912,541,State Reading Assessment,2021-04-12,152,Reading,13
+TEST000913,542,State Math Assessment,2021-03-13,287,Mathematics,43
+TEST000914,542,State Reading Assessment,2021-05-14,172,Reading,84
+TEST000915,543,State Math Assessment,2021-03-29,298,Mathematics,58
+TEST000916,543,State Reading Assessment,2021-03-30,244,Reading,61
+TEST000917,544,State Math Assessment,2021-05-19,239,Mathematics,62
+TEST000918,544,State Reading Assessment,2021-04-18,183,Reading,24
+TEST000919,545,State Math Assessment,2021-03-06,258,Mathematics,99
+TEST000920,545,State Reading Assessment,2021-05-07,246,Reading,69
+TEST000921,548,State Math Assessment,2021-03-26,224,Mathematics,43
+TEST000922,548,State Reading Assessment,2021-04-24,225,Reading,89
+TEST000923,548,PSAT,2021-04-23,1519,Reading,93
+TEST000924,548,SAT,2021-04-10,993,Reading,49
+TEST000925,550,State Math Assessment,2021-04-15,295,Mathematics,79
+TEST000926,550,State Reading Assessment,2021-03-08,177,Reading,32
+TEST000927,551,State Math Assessment,2021-03-12,290,Mathematics,70
+TEST000928,551,State Reading Assessment,2021-05-18,245,Reading,61
+TEST000929,552,State Math Assessment,2021-03-02,296,Mathematics,72
+TEST000930,552,State Reading Assessment,2021-03-12,250,Reading,40
+TEST000931,553,State Math Assessment,2021-04-18,154,Mathematics,53
+TEST000932,553,State Reading Assessment,2021-04-14,280,Reading,24
+TEST000933,554,State Math Assessment,2021-04-15,251,Mathematics,68
+TEST000934,554,State Reading Assessment,2021-05-15,193,Reading,81
+TEST000935,555,State Math Assessment,2021-03-02,253,Mathematics,29
+TEST000936,555,State Reading Assessment,2021-03-23,159,Reading,59
+TEST000937,556,State Math Assessment,2021-03-24,216,Mathematics,58
+TEST000938,556,State Reading Assessment,2021-03-16,232,Reading,38
+TEST000939,557,State Math Assessment,2021-04-01,222,Mathematics,13
+TEST000940,557,State Reading Assessment,2021-04-14,262,Reading,24
+TEST000941,558,State Math Assessment,2021-05-15,281,Mathematics,43
+TEST000942,558,State Reading Assessment,2021-03-05,161,Reading,69
+TEST000943,559,State Math Assessment,2021-05-07,227,Mathematics,94
+TEST000944,559,State Reading Assessment,2021-03-28,259,Reading,86
+TEST000945,560,State Math Assessment,2021-05-04,257,Mathematics,80
+TEST000946,560,State Reading Assessment,2021-03-29,281,Reading,88
+TEST000947,561,State Math Assessment,2021-03-22,247,Mathematics,46
+TEST000948,561,State Reading Assessment,2021-05-16,220,Reading,92
+TEST000949,562,State Math Assessment,2021-05-13,193,Mathematics,52
+TEST000950,562,State Reading Assessment,2021-03-03,284,Reading,25
+TEST000951,563,State Math Assessment,2021-04-15,220,Mathematics,97
+TEST000952,563,State Reading Assessment,2021-03-24,241,Reading,26
+TEST000953,564,State Math Assessment,2021-03-14,213,Mathematics,57
+TEST000954,564,State Reading Assessment,2021-03-30,180,Reading,59
+TEST000955,565,State Math Assessment,2021-05-21,153,Mathematics,15
+TEST000956,565,State Reading Assessment,2021-04-06,213,Reading,58
+TEST000957,566,State Math Assessment,2021-05-04,249,Mathematics,4
+TEST000958,566,State Reading Assessment,2021-04-11,202,Reading,96
+TEST000959,567,State Math Assessment,2021-05-15,253,Mathematics,30
+TEST000960,567,State Reading Assessment,2021-04-21,178,Reading,31
+TEST000961,568,State Math Assessment,2021-04-24,247,Mathematics,66
+TEST000962,568,State Reading Assessment,2021-04-29,230,Reading,96
+TEST000963,569,State Math Assessment,2021-05-24,162,Mathematics,22
+TEST000964,569,State Reading Assessment,2021-04-16,197,Reading,30
+TEST000965,570,State Math Assessment,2021-05-03,247,Mathematics,55
+TEST000966,570,State Reading Assessment,2021-05-26,172,Reading,89
+TEST000967,571,State Math Assessment,2021-03-25,223,Mathematics,91
+TEST000968,571,State Reading Assessment,2021-04-28,229,Reading,60
+TEST000969,572,State Math Assessment,2021-05-18,238,Mathematics,84
+TEST000970,572,State Reading Assessment,2021-05-18,213,Reading,39
+TEST000971,573,State Math Assessment,2021-05-05,300,Mathematics,62
+TEST000972,573,State Reading Assessment,2021-03-06,178,Reading,63
+TEST000973,574,State Math Assessment,2021-05-13,278,Mathematics,85
+TEST000974,574,State Reading Assessment,2021-03-21,209,Reading,81
+TEST000975,575,State Math Assessment,2021-05-02,269,Mathematics,43
+TEST000976,575,State Reading Assessment,2021-05-15,240,Reading,59
+TEST000977,576,State Math Assessment,2021-03-06,185,Mathematics,97
+TEST000978,576,State Reading Assessment,2021-03-26,179,Reading,89
+TEST000979,577,State Math Assessment,2021-05-17,237,Mathematics,72
+TEST000980,577,State Reading Assessment,2021-03-23,168,Reading,76
+TEST000981,579,State Math Assessment,2021-04-19,168,Mathematics,58
+TEST000982,579,State Reading Assessment,2021-03-10,286,Reading,5
+TEST000983,580,State Math Assessment,2021-05-17,215,Mathematics,36
+TEST000984,580,State Reading Assessment,2021-04-15,184,Reading,54
+TEST000985,581,State Math Assessment,2021-04-12,185,Mathematics,85
+TEST000986,581,State Reading Assessment,2021-04-30,254,Reading,53
+TEST000987,582,State Math Assessment,2021-04-27,171,Mathematics,82
+TEST000988,582,State Reading Assessment,2021-05-25,176,Reading,70
+TEST000989,583,State Math Assessment,2021-05-11,240,Mathematics,81
+TEST000990,583,State Reading Assessment,2021-04-18,163,Reading,2
+TEST000991,584,State Math Assessment,2021-05-30,233,Mathematics,13
+TEST000992,584,State Reading Assessment,2021-04-27,243,Reading,66
+TEST000993,586,State Math Assessment,2021-04-25,243,Mathematics,83
+TEST000994,586,State Reading Assessment,2021-03-14,249,Reading,70
+TEST000995,587,State Math Assessment,2021-03-26,295,Mathematics,54
+TEST000996,587,State Reading Assessment,2021-04-09,295,Reading,40
+TEST000997,588,State Math Assessment,2021-05-21,286,Mathematics,16
+TEST000998,588,State Reading Assessment,2021-04-25,255,Reading,48
+TEST000999,590,State Math Assessment,2021-03-16,266,Mathematics,27
+TEST001000,590,State Reading Assessment,2021-03-28,293,Reading,63
+TEST001001,590,PSAT,2021-04-15,1262,Reading,71
+TEST001002,590,SAT,2021-03-03,1362,Reading,80
+TEST001003,590,AP Exam,2021-03-28,255,Reading,13
+TEST001004,591,State Math Assessment,2021-05-23,226,Mathematics,88
+TEST001005,591,State Reading Assessment,2021-04-21,156,Reading,9
+TEST001006,591,PSAT,2021-03-12,1427,Reading,85
+TEST001007,591,SAT,2021-03-11,732,Reading,27
+TEST001008,591,AP Exam,2021-05-30,228,Reading,47
+TEST001009,594,State Math Assessment,2021-05-30,300,Mathematics,86
+TEST001010,594,State Reading Assessment,2021-05-06,295,Reading,94
+TEST001011,595,State Math Assessment,2021-03-19,254,Mathematics,12
+TEST001012,595,State Reading Assessment,2021-03-06,279,Reading,79
+TEST001013,595,PSAT,2021-03-10,593,Reading,16
+TEST001014,595,SAT,2021-04-19,1206,Reading,67
+TEST001015,595,AP Exam,2021-04-11,169,Reading,57
+TEST001016,597,State Math Assessment,2021-05-14,275,Mathematics,90
+TEST001017,597,State Reading Assessment,2021-03-29,265,Reading,7
+TEST001018,598,State Math Assessment,2021-03-24,151,Mathematics,46
+TEST001019,598,State Reading Assessment,2021-03-14,290,Reading,38
+TEST001020,599,State Math Assessment,2021-03-25,232,Mathematics,35
+TEST001021,599,State Reading Assessment,2021-03-09,207,Reading,13
+TEST001022,600,State Math Assessment,2021-05-19,172,Mathematics,57
+TEST001023,600,State Reading Assessment,2021-03-26,259,Reading,76
+TEST001024,601,State Math Assessment,2021-05-29,251,Mathematics,89
+TEST001025,601,State Reading Assessment,2021-04-04,166,Reading,42
+TEST001026,602,State Math Assessment,2021-05-06,279,Mathematics,96
+TEST001027,602,State Reading Assessment,2021-04-06,212,Reading,38
+TEST001028,603,State Math Assessment,2021-05-19,193,Mathematics,24
+TEST001029,603,State Reading Assessment,2021-04-06,207,Reading,98
+TEST001030,604,State Math Assessment,2021-03-10,259,Mathematics,31
+TEST001031,604,State Reading Assessment,2021-04-19,234,Reading,32
+TEST001032,605,State Math Assessment,2021-05-16,262,Mathematics,92
+TEST001033,605,State Reading Assessment,2021-03-13,251,Reading,6
+TEST001034,606,State Math Assessment,2021-03-17,175,Mathematics,17
+TEST001035,606,State Reading Assessment,2021-04-15,240,Reading,70
+TEST001036,607,State Math Assessment,2021-04-05,277,Mathematics,95
+TEST001037,607,State Reading Assessment,2021-04-27,157,Reading,66
+TEST001038,608,State Math Assessment,2021-03-08,218,Mathematics,29
+TEST001039,608,State Reading Assessment,2021-05-27,189,Reading,47
+TEST001040,609,State Math Assessment,2021-05-19,190,Mathematics,64
+TEST001041,609,State Reading Assessment,2021-04-16,160,Reading,89
+TEST001042,610,State Math Assessment,2021-03-06,276,Mathematics,59
+TEST001043,610,State Reading Assessment,2021-03-03,223,Reading,48
+TEST001044,611,State Math Assessment,2021-03-24,258,Mathematics,61
+TEST001045,611,State Reading Assessment,2021-03-27,289,Reading,46
+TEST001046,612,State Math Assessment,2021-03-24,236,Mathematics,89
+TEST001047,612,State Reading Assessment,2021-05-27,293,Reading,95
+TEST001048,613,State Math Assessment,2021-05-13,247,Mathematics,70
+TEST001049,613,State Reading Assessment,2021-04-14,238,Reading,50
+TEST001050,614,State Math Assessment,2021-03-27,201,Mathematics,97
+TEST001051,614,State Reading Assessment,2021-03-20,282,Reading,13
+TEST001052,615,State Math Assessment,2021-05-10,165,Mathematics,91
+TEST001053,615,State Reading Assessment,2021-05-21,256,Reading,24
+TEST001054,616,State Math Assessment,2021-03-16,266,Mathematics,56
+TEST001055,616,State Reading Assessment,2021-04-04,246,Reading,81
+TEST001056,617,State Math Assessment,2021-05-26,193,Mathematics,69
+TEST001057,617,State Reading Assessment,2021-04-07,271,Reading,78
+TEST001058,618,State Math Assessment,2021-05-18,249,Mathematics,48
+TEST001059,618,State Reading Assessment,2021-05-06,242,Reading,83
+TEST001060,619,State Math Assessment,2021-04-15,293,Mathematics,92
+TEST001061,619,State Reading Assessment,2021-03-29,164,Reading,40
+TEST001062,620,State Math Assessment,2021-03-03,264,Mathematics,65
+TEST001063,620,State Reading Assessment,2021-05-18,292,Reading,79
+TEST001064,621,State Math Assessment,2021-05-17,199,Mathematics,61
+TEST001065,621,State Reading Assessment,2021-05-15,159,Reading,17
+TEST001066,622,State Math Assessment,2021-05-06,243,Mathematics,47
+TEST001067,622,State Reading Assessment,2021-04-02,282,Reading,10
+TEST001068,623,State Math Assessment,2021-03-21,194,Mathematics,64
+TEST001069,623,State Reading Assessment,2021-04-06,262,Reading,60
+TEST001070,624,State Math Assessment,2021-03-14,270,Mathematics,3
+TEST001071,624,State Reading Assessment,2021-03-31,279,Reading,5
+TEST001072,625,State Math Assessment,2021-03-09,177,Mathematics,30
+TEST001073,625,State Reading Assessment,2021-05-24,174,Reading,71
+TEST001074,626,State Math Assessment,2021-05-03,215,Mathematics,15
+TEST001075,626,State Reading Assessment,2021-05-05,257,Reading,88
+TEST001076,627,State Math Assessment,2021-03-16,189,Mathematics,28
+TEST001077,627,State Reading Assessment,2021-03-20,213,Reading,87
+TEST001078,628,State Math Assessment,2021-03-12,180,Mathematics,44
+TEST001079,628,State Reading Assessment,2021-03-08,259,Reading,31
+TEST001080,629,State Math Assessment,2021-05-19,193,Mathematics,10
+TEST001081,629,State Reading Assessment,2021-04-02,266,Reading,58
+TEST001082,630,State Math Assessment,2021-03-26,164,Mathematics,59
+TEST001083,630,State Reading Assessment,2021-03-11,265,Reading,49
+TEST001084,631,State Math Assessment,2021-05-01,283,Mathematics,42
+TEST001085,631,State Reading Assessment,2021-03-07,197,Reading,4
+TEST001086,632,State Math Assessment,2021-03-12,241,Mathematics,30
+TEST001087,632,State Reading Assessment,2021-04-27,186,Reading,69
+TEST001088,633,State Math Assessment,2021-05-21,190,Mathematics,32
+TEST001089,633,State Reading Assessment,2021-05-29,270,Reading,8
+TEST001090,634,State Math Assessment,2021-05-27,294,Mathematics,19
+TEST001091,634,State Reading Assessment,2021-03-03,251,Reading,17
+TEST001092,635,State Math Assessment,2021-05-02,252,Mathematics,34
+TEST001093,635,State Reading Assessment,2021-03-14,169,Reading,27
+TEST001094,636,State Math Assessment,2021-03-03,224,Mathematics,94
+TEST001095,636,State Reading Assessment,2021-04-06,225,Reading,5
+TEST001096,637,State Math Assessment,2021-03-02,285,Mathematics,71
+TEST001097,637,State Reading Assessment,2021-04-17,283,Reading,9
+TEST001098,638,State Math Assessment,2021-03-10,220,Mathematics,49
+TEST001099,638,State Reading Assessment,2021-03-25,227,Reading,69
+TEST001100,639,State Math Assessment,2021-05-11,234,Mathematics,21
+TEST001101,639,State Reading Assessment,2021-04-09,254,Reading,45
+TEST001102,640,State Math Assessment,2021-05-03,230,Mathematics,28
+TEST001103,640,State Reading Assessment,2021-04-26,253,Reading,4
+TEST001104,641,State Math Assessment,2021-03-20,192,Mathematics,91
+TEST001105,641,State Reading Assessment,2021-03-06,198,Reading,93
+TEST001106,642,State Math Assessment,2021-05-16,204,Mathematics,93
+TEST001107,642,State Reading Assessment,2021-03-04,157,Reading,21
+TEST001108,643,State Math Assessment,2021-04-04,257,Mathematics,71
+TEST001109,643,State Reading Assessment,2021-05-24,194,Reading,6
+TEST001110,643,PSAT,2021-03-13,1503,Reading,91
+TEST001111,643,SAT,2021-03-18,654,Reading,21
+TEST001112,643,AP Exam,2021-03-08,201,Reading,79
+TEST001113,644,State Math Assessment,2021-05-05,281,Mathematics,3
+TEST001114,644,State Reading Assessment,2021-03-31,207,Reading,15
+TEST001115,645,State Math Assessment,2021-03-26,184,Mathematics,76
+TEST001116,645,State Reading Assessment,2021-03-16,242,Reading,6
+TEST001117,645,PSAT,2021-05-02,409,Reading,1
+TEST001118,645,SAT,2021-05-23,1433,Reading,86
+TEST001119,646,State Math Assessment,2021-04-11,207,Mathematics,27
+TEST001120,646,State Reading Assessment,2021-05-16,194,Reading,95
+TEST001121,646,PSAT,2021-05-30,416,Reading,1
+TEST001122,646,SAT,2021-04-12,1189,Reading,65
+TEST001123,647,State Math Assessment,2021-05-03,289,Mathematics,92
+TEST001124,647,State Reading Assessment,2021-03-24,244,Reading,92
+TEST001125,648,State Math Assessment,2021-05-12,253,Mathematics,56
+TEST001126,648,State Reading Assessment,2021-05-13,286,Reading,73
+TEST001127,649,State Math Assessment,2021-04-05,194,Mathematics,99
+TEST001128,649,State Reading Assessment,2021-05-19,280,Reading,53
+TEST001129,650,State Math Assessment,2021-03-20,255,Mathematics,43
+TEST001130,650,State Reading Assessment,2021-04-24,212,Reading,2
+TEST001131,651,State Math Assessment,2021-03-26,234,Mathematics,76
+TEST001132,651,State Reading Assessment,2021-05-05,240,Reading,65
+TEST001133,652,State Math Assessment,2021-03-14,155,Mathematics,99
+TEST001134,652,State Reading Assessment,2021-03-31,296,Reading,43
+TEST001135,653,State Math Assessment,2021-05-15,180,Mathematics,19
+TEST001136,653,State Reading Assessment,2021-04-11,296,Reading,7
+TEST001137,654,State Math Assessment,2021-03-12,200,Mathematics,5
+TEST001138,654,State Reading Assessment,2021-03-13,152,Reading,5
+TEST001139,655,State Math Assessment,2021-05-20,239,Mathematics,22
+TEST001140,655,State Reading Assessment,2021-04-09,222,Reading,76
+TEST001141,656,State Math Assessment,2021-03-11,188,Mathematics,74
+TEST001142,656,State Reading Assessment,2021-05-06,222,Reading,23
+TEST001143,657,State Math Assessment,2021-03-31,262,Mathematics,29
+TEST001144,657,State Reading Assessment,2021-05-04,229,Reading,61
+TEST001145,658,State Math Assessment,2021-05-14,172,Mathematics,48
+TEST001146,658,State Reading Assessment,2021-04-30,223,Reading,86
+TEST001147,659,State Math Assessment,2021-04-25,225,Mathematics,26
+TEST001148,659,State Reading Assessment,2021-05-09,230,Reading,31
+TEST001149,660,State Math Assessment,2021-04-29,188,Mathematics,25
+TEST001150,660,State Reading Assessment,2021-03-31,176,Reading,78
+TEST001151,661,State Math Assessment,2021-03-27,259,Mathematics,57
+TEST001152,661,State Reading Assessment,2021-05-11,233,Reading,81
+TEST001153,662,State Math Assessment,2021-03-14,214,Mathematics,55
+TEST001154,662,State Reading Assessment,2021-04-10,214,Reading,25
+TEST001155,663,State Math Assessment,2021-05-16,237,Mathematics,62
+TEST001156,663,State Reading Assessment,2021-05-08,234,Reading,94
+TEST001157,664,State Math Assessment,2021-03-09,200,Mathematics,88
+TEST001158,664,State Reading Assessment,2021-04-21,229,Reading,24
+TEST001159,665,State Math Assessment,2021-03-27,263,Mathematics,77
+TEST001160,665,State Reading Assessment,2021-05-22,162,Reading,70
+TEST001161,666,State Math Assessment,2021-05-20,283,Mathematics,72
+TEST001162,666,State Reading Assessment,2021-04-01,213,Reading,79
+TEST001163,667,State Math Assessment,2021-03-31,182,Mathematics,8
+TEST001164,667,State Reading Assessment,2021-03-21,260,Reading,53
+TEST001165,668,State Math Assessment,2021-04-12,213,Mathematics,52
+TEST001166,668,State Reading Assessment,2021-05-14,295,Reading,45
+TEST001167,669,State Math Assessment,2021-05-15,235,Mathematics,3
+TEST001168,669,State Reading Assessment,2021-05-25,251,Reading,86
+TEST001169,670,State Math Assessment,2021-03-31,170,Mathematics,66
+TEST001170,670,State Reading Assessment,2021-04-21,260,Reading,31
+TEST001171,671,State Math Assessment,2021-03-15,263,Mathematics,60
+TEST001172,671,State Reading Assessment,2021-04-08,227,Reading,1
+TEST001173,672,State Math Assessment,2021-04-21,159,Mathematics,14
+TEST001174,672,State Reading Assessment,2021-03-13,176,Reading,29
+TEST001175,673,State Math Assessment,2021-05-09,260,Mathematics,9
+TEST001176,673,State Reading Assessment,2021-05-02,243,Reading,82
+TEST001177,674,State Math Assessment,2021-04-30,158,Mathematics,69
+TEST001178,674,State Reading Assessment,2021-04-05,240,Reading,8
+TEST001179,675,State Math Assessment,2021-03-06,181,Mathematics,69
+TEST001180,675,State Reading Assessment,2021-04-21,261,Reading,47
+TEST001181,676,State Math Assessment,2021-03-11,262,Mathematics,2
+TEST001182,676,State Reading Assessment,2021-03-27,161,Reading,77
+TEST001183,677,State Math Assessment,2021-05-22,248,Mathematics,17
+TEST001184,677,State Reading Assessment,2021-04-29,178,Reading,93
+TEST001185,678,State Math Assessment,2021-04-26,155,Mathematics,32
+TEST001186,678,State Reading Assessment,2021-05-19,181,Reading,38
+TEST001187,679,State Math Assessment,2021-05-22,260,Mathematics,87
+TEST001188,679,State Reading Assessment,2021-05-03,251,Reading,42
+TEST001189,680,State Math Assessment,2021-03-31,175,Mathematics,30
+TEST001190,680,State Reading Assessment,2021-03-04,221,Reading,8
+TEST001191,681,State Math Assessment,2021-03-18,169,Mathematics,95
+TEST001192,681,State Reading Assessment,2021-05-17,230,Reading,9
+TEST001193,683,State Math Assessment,2021-03-19,296,Mathematics,76
+TEST001194,683,State Reading Assessment,2021-03-13,179,Reading,62
+TEST001195,684,State Math Assessment,2021-03-19,214,Mathematics,5
+TEST001196,684,State Reading Assessment,2021-04-03,205,Reading,76
+TEST001197,685,State Math Assessment,2021-04-23,245,Mathematics,51
+TEST001198,685,State Reading Assessment,2021-04-05,186,Reading,33
+TEST001199,686,State Math Assessment,2021-04-27,255,Mathematics,84
+TEST001200,686,State Reading Assessment,2021-03-23,287,Reading,68
+TEST001201,687,State Math Assessment,2021-05-20,153,Mathematics,53
+TEST001202,687,State Reading Assessment,2021-04-03,289,Reading,95
+TEST001203,688,State Math Assessment,2021-04-19,188,Mathematics,19
+TEST001204,688,State Reading Assessment,2021-03-06,192,Reading,80
+TEST001205,689,State Math Assessment,2021-05-07,167,Mathematics,56
+TEST001206,689,State Reading Assessment,2021-03-21,275,Reading,91
+TEST001207,690,State Math Assessment,2021-05-05,177,Mathematics,56
+TEST001208,690,State Reading Assessment,2021-05-11,180,Reading,57
+TEST001209,691,State Math Assessment,2021-05-30,210,Mathematics,7
+TEST001210,691,State Reading Assessment,2021-05-01,266,Reading,37
+TEST001211,692,State Math Assessment,2021-04-02,152,Mathematics,38
+TEST001212,692,State Reading Assessment,2021-05-25,282,Reading,8
+TEST001213,693,State Math Assessment,2021-05-02,280,Mathematics,43
+TEST001214,693,State Reading Assessment,2021-03-17,263,Reading,15
+TEST001215,694,State Math Assessment,2021-04-19,250,Mathematics,41
+TEST001216,694,State Reading Assessment,2021-04-20,205,Reading,5
+TEST001217,696,State Math Assessment,2021-03-03,264,Mathematics,86
+TEST001218,696,State Reading Assessment,2021-04-02,161,Reading,41
+TEST001219,697,State Math Assessment,2021-03-03,173,Mathematics,13
+TEST001220,697,State Reading Assessment,2021-05-29,278,Reading,88
+TEST001221,698,State Math Assessment,2021-05-18,270,Mathematics,35
+TEST001222,698,State Reading Assessment,2021-04-18,213,Reading,85
+TEST001223,734,State Math Assessment,2021-03-31,286,Mathematics,11
+TEST001224,734,State Reading Assessment,2021-03-05,194,Reading,65
+TEST001225,735,State Math Assessment,2021-05-24,268,Mathematics,85
+TEST001226,735,State Reading Assessment,2021-04-18,228,Reading,23
+TEST001227,736,State Math Assessment,2021-05-09,289,Mathematics,93
+TEST001228,736,State Reading Assessment,2021-05-04,228,Reading,45
+TEST001229,737,State Math Assessment,2021-04-19,222,Mathematics,16
+TEST001230,737,State Reading Assessment,2021-03-09,237,Reading,87
+TEST001231,738,State Math Assessment,2021-04-26,178,Mathematics,95
+TEST001232,738,State Reading Assessment,2021-05-06,179,Reading,44
+TEST001233,738,PSAT,2021-05-25,1388,Reading,82
+TEST001234,738,SAT,2021-05-26,657,Reading,21
+TEST001235,739,State Math Assessment,2021-05-01,287,Mathematics,66
+TEST001236,739,State Reading Assessment,2021-05-19,279,Reading,37
+TEST001237,740,State Math Assessment,2021-04-13,215,Mathematics,41
+TEST001238,740,State Reading Assessment,2021-05-18,247,Reading,60
+TEST001239,793,State Math Assessment,2021-03-21,203,Mathematics,5
+TEST001240,793,State Reading Assessment,2021-04-05,233,Reading,57
+TEST001241,795,State Math Assessment,2021-03-26,159,Mathematics,78
+TEST001242,795,State Reading Assessment,2021-05-16,199,Reading,11
+TEST001243,795,PSAT,2021-05-16,625,Reading,18
+TEST001244,795,SAT,2021-05-19,1342,Reading,78
+TEST001245,796,State Math Assessment,2021-03-29,264,Mathematics,19
+TEST001246,796,State Reading Assessment,2021-05-28,209,Reading,34
+TEST001247,796,PSAT,2021-03-13,1068,Reading,55
+TEST001248,796,SAT,2021-04-04,1517,Reading,93
+TEST001249,798,State Math Assessment,2021-03-18,264,Mathematics,75
+TEST001250,798,State Reading Assessment,2021-03-28,250,Reading,75

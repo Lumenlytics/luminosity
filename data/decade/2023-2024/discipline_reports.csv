@@ -1,0 +1,58 @@
+discipline_report_id,student_id,date,severity,type,action_taken
+DISC000001,757,2023-10-14,Minor,Vandalism,Verbal Warning
+DISC000002,757,2023-12-03,Severe,Vandalism,Out-of-School Suspension
+DISC000003,653,2024-01-13,Major,Academic Dishonesty,Parent Conference
+DISC000004,56,2023-10-14,Major,Other,Office Referral
+DISC000005,36,2023-12-15,Minor,Academic Dishonesty,Parent Contact
+DISC000006,36,2024-03-23,Minor,Disruption,Verbal Warning
+DISC000007,36,2024-03-21,Major,Tardiness,Parent Conference
+DISC000008,725,2023-10-11,Major,Fighting,Office Referral
+DISC000009,725,2024-01-23,Minor,Other,Verbal Warning
+DISC000010,725,2023-09-01,Minor,Disruption,Detention
+DISC000011,656,2024-05-09,Minor,Disrespect,Detention
+DISC000012,656,2023-11-07,Minor,Academic Dishonesty,Parent Contact
+DISC000013,516,2024-01-14,Major,Vandalism,Office Referral
+DISC000014,516,2023-11-30,Major,Disruption,Office Referral
+DISC000015,516,2023-12-24,Minor,Disrespect,Detention
+DISC000016,53,2023-10-06,Minor,Disruption,Detention
+DISC000017,53,2024-03-02,Minor,Academic Dishonesty,Detention
+DISC000018,134,2024-02-06,Major,Academic Dishonesty,Parent Conference
+DISC000019,134,2024-05-23,Major,Other,Office Referral
+DISC000020,15,2024-01-10,Minor,Other,Detention
+DISC000021,15,2023-12-24,Major,Academic Dishonesty,Parent Conference
+DISC000022,670,2024-01-31,Minor,Disruption,Parent Contact
+DISC000023,670,2023-10-06,Minor,Fighting,Verbal Warning
+DISC000024,61,2023-12-05,Major,Tardiness,In-School Suspension
+DISC000025,722,2023-10-03,Minor,Vandalism,Detention
+DISC000026,722,2023-10-05,Minor,Fighting,Detention
+DISC000027,804,2024-05-02,Minor,Other,Verbal Warning
+DISC000028,804,2024-04-06,Minor,Other,Parent Contact
+DISC000029,57,2024-05-06,Severe,Vandalism,Parent Conference
+DISC000030,615,2023-10-07,Minor,Academic Dishonesty,Verbal Warning
+DISC000031,615,2023-09-07,Major,Other,In-School Suspension
+DISC000032,615,2024-05-06,Minor,Tardiness,Detention
+DISC000033,74,2023-10-03,Major,Tardiness,In-School Suspension
+DISC000034,74,2023-12-17,Minor,Fighting,Detention
+DISC000035,141,2024-05-13,Minor,Fighting,Detention
+DISC000036,141,2024-02-21,Minor,Tardiness,Parent Contact
+DISC000037,141,2023-11-20,Minor,Disruption,Parent Contact
+DISC000038,787,2024-04-02,Major,Fighting,In-School Suspension
+DISC000039,787,2024-04-30,Minor,Fighting,Verbal Warning
+DISC000040,860,2024-05-08,Minor,Tardiness,Verbal Warning
+DISC000041,860,2024-05-16,Minor,Academic Dishonesty,Parent Contact
+DISC000042,860,2023-09-25,Major,Tardiness,Office Referral
+DISC000043,186,2024-04-26,Major,Tardiness,Parent Conference
+DISC000044,186,2023-10-30,Major,Fighting,Parent Conference
+DISC000045,777,2024-04-06,Minor,Fighting,Verbal Warning
+DISC000046,119,2024-03-09,Minor,Disruption,Detention
+DISC000047,119,2024-05-05,Minor,Academic Dishonesty,Detention
+DISC000048,119,2023-11-25,Minor,Disruption,Detention
+DISC000049,580,2023-12-25,Minor,Disruption,Parent Contact
+DISC000050,580,2024-03-14,Minor,Vandalism,Detention
+DISC000051,101,2023-12-01,Minor,Disrespect,Detention
+DISC000052,101,2023-12-13,Major,Vandalism,In-School Suspension
+DISC000053,101,2024-03-30,Minor,Fighting,Detention
+DISC000054,668,2024-05-27,Major,Fighting,Office Referral
+DISC000055,668,2023-08-29,Major,Fighting,Office Referral
+DISC000056,640,2024-05-13,Minor,Disruption,Verbal Warning
+DISC000057,640,2023-10-03,Minor,Disrespect,Parent Contact

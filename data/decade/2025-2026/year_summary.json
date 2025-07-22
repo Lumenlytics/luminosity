@@ -1,35 +1,29 @@
 {
   "year": 2025,
-  "label": "2025-2026",
-  "enrollment": {
-    "total": 584,
-    "target": 585,
-    "graduated": 35,
+  "school_year_label": "2025-2026",
+  "enrollment_target": 585,
+  "actual_enrollment": 584,
+  "student_changes": {
+    "graduated": 41,
     "new_kindergarten": 51,
-    "transfers_in": 8,
-    "transfers_out": 2
+    "transfers_in": 7,
+    "transfers_out": 4
   },
-  "staff": {
-    "total_teachers": 62,
+  "teacher_changes": {
     "retirements": 0,
     "resignations": 3,
     "new_hires": 3,
-    "turnover_rate": 0.05
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [],
-    "active_subjects": 20
-  },
-  "events": {
-    "major_events": [
-      "10-year anniversary",
-      "Alumni network launch"
-    ],
-    "technology_updates": [
-      "Next-gen learning tools"
-    ],
-    "fee_adjustments": {
-      "Tuition": 1.03
-    }
+  "curriculum_changes": [],
+  "major_events": [
+    "10-year anniversary",
+    "Alumni network launch"
+  ],
+  "technology_updates": [
+    "Next-gen learning tools"
+  ],
+  "fee_adjustments": {
+    "Tuition": 1.03
   }
 }

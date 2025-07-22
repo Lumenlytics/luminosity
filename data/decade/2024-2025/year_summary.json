@@ -1,33 +1,27 @@
 {
   "year": 2024,
-  "label": "2024-2025",
-  "enrollment": {
-    "total": 562,
-    "target": 580,
-    "graduated": 37,
+  "school_year_label": "2024-2025",
+  "enrollment_target": 580,
+  "actual_enrollment": 571,
+  "student_changes": {
+    "graduated": 38,
     "new_kindergarten": 50,
-    "transfers_in": 4,
-    "transfers_out": 7
+    "transfers_in": 6,
+    "transfers_out": 4
   },
-  "staff": {
-    "total_teachers": 62,
-    "retirements": 2,
-    "resignations": 1,
+  "teacher_changes": {
+    "retirements": 0,
+    "resignations": 3,
     "new_hires": 3,
-    "turnover_rate": 0.05
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [],
-    "active_subjects": 20
-  },
-  "events": {
-    "major_events": [
-      "Science lab renovation",
-      "Library modernization"
-    ],
-    "technology_updates": [
-      "AI tutoring pilot"
-    ],
-    "fee_adjustments": {}
-  }
+  "curriculum_changes": [],
+  "major_events": [
+    "Science lab renovation",
+    "Library modernization"
+  ],
+  "technology_updates": [
+    "AI tutoring pilot"
+  ],
+  "fee_adjustments": {}
 }

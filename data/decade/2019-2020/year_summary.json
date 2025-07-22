@@ -1,38 +1,32 @@
 {
   "year": 2019,
-  "label": "2019-2020",
-  "enrollment": {
-    "total": 527,
-    "target": 525,
-    "graduated": 38,
+  "school_year_label": "2019-2020",
+  "enrollment_target": 525,
+  "actual_enrollment": 529,
+  "student_changes": {
+    "graduated": 40,
     "new_kindergarten": 48,
-    "transfers_in": 8,
-    "transfers_out": 4
+    "transfers_in": 4,
+    "transfers_out": 2
   },
-  "staff": {
-    "total_teachers": 62,
+  "teacher_changes": {
     "retirements": 1,
     "resignations": 2,
     "new_hires": 3,
-    "turnover_rate": 0.06
+    "total_active": 62
   },
-  "curriculum": {
-    "changes": [
-      "Added: Robotics (STEM Academy launch)",
-      "Added: Mandarin Chinese (Language diversity)"
-    ],
-    "active_subjects": 16
-  },
-  "events": {
-    "major_events": [
-      "Facility expansion",
-      "New classrooms"
-    ],
-    "technology_updates": [
-      "1:1 tablet deployment"
-    ],
-    "fee_adjustments": {
-      "Technology Fee": 1.25
-    }
+  "curriculum_changes": [
+    "Added: Robotics (STEM Academy launch)",
+    "Added: Mandarin Chinese (Language diversity)"
+  ],
+  "major_events": [
+    "Facility expansion",
+    "New classrooms"
+  ],
+  "technology_updates": [
+    "1:1 tablet deployment"
+  ],
+  "fee_adjustments": {
+    "Technology Fee": 1.25
   }
 }
