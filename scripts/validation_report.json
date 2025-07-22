@@ -1,0 +1,700 @@
+{
+  "passed": [
+    {
+      "category": "File Structure",
+      "message": "All required files present for 10 years"
+    },
+    {
+      "category": "Referential Integrity",
+      "message": "All foreign key relationships valid"
+    },
+    {
+      "category": "Data Types",
+      "message": "All data types and ranges valid"
+    },
+    {
+      "category": "Enrollment Progression",
+      "message": "Enrollment progression realistic: 505-584 students"
+    },
+    {
+      "category": "Attendance Policies",
+      "message": "Attendance rates comply with 5% absence, 3% tardy policy"
+    },
+    {
+      "category": "Teacher Assignments",
+      "message": "Student-teacher ratios within expected range"
+    },
+    {
+      "category": "Financial Data",
+      "message": "Payment data validated for 10 years"
+    },
+    {
+      "category": "Student Progression",
+      "message": "870 students tracked with logical grade progression"
+    },
+    {
+      "category": "Teacher Continuity",
+      "message": "98 unique teachers, avg tenure 6.3 years"
+    },
+    {
+      "category": "Curriculum Evolution",
+      "message": "4 curriculum updates over decade"
+    },
+    {
+      "category": "Demographics",
+      "message": "Demographic distributions calculated"
+    },
+    {
+      "category": "Academic Performance",
+      "message": "Performance metrics calculated"
+    },
+    {
+      "category": "Operational Metrics",
+      "message": "Operational efficiency metrics calculated"
+    }
+  ],
+  "failed": [],
+  "warnings": [
+    {
+      "category": "Grade Distributions",
+      "message": "Distribution issues: 30 years"
+    }
+  ],
+  "statistics": {
+    "enrollment_by_year": {
+      "2016": 505,
+      "2017": 511,
+      "2018": 519,
+      "2019": 529,
+      "2020": 522,
+      "2021": 538,
+      "2022": 546,
+      "2023": 557,
+      "2024": 571,
+      "2025": 584
+    },
+    "attendance_rates": {
+      "2016": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 90900
+      },
+      "2017": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 91980
+      },
+      "2018": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 93420
+      },
+      "2019": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 95220
+      },
+      "2020": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 93960
+      },
+      "2021": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 96840
+      },
+      "2022": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 98280
+      },
+      "2023": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 100260
+      },
+      "2024": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 102780
+      },
+      "2025": {
+        "absent_rate": 0.05,
+        "tardy_rate": 0.027777777777777776,
+        "total_records": 105120
+      }
+    },
+    "grade_distributions": {
+      "2016": {
+        "mean": 38.12332050292639,
+        "median": 30.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.790517642209003,
+        "perfect_pct": 0.0011360422588546585,
+        "total_grades": 208619
+      },
+      "2017": {
+        "mean": 38.047710639894916,
+        "median": 30.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.7939247513604804,
+        "perfect_pct": 0.001229123662976168,
+        "total_grades": 213160
+      },
+      "2018": {
+        "mean": 37.710178749912835,
+        "median": 29.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.7956997745287185,
+        "perfect_pct": 0.0011994142395574255,
+        "total_grades": 215105
+      },
+      "2019": {
+        "mean": 37.61836319125083,
+        "median": 29.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.7978264351248083,
+        "perfect_pct": 0.0012492278124785503,
+        "total_grades": 218535
+      },
+      "2020": {
+        "mean": 38.08845922568111,
+        "median": 30.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.7919654008048476,
+        "perfect_pct": 0.0012257736250520376,
+        "total_grades": 216190
+      },
+      "2021": {
+        "mean": 37.61306971508038,
+        "median": 29.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.7967071171961657,
+        "perfect_pct": 0.0012085492442428355,
+        "total_grades": 241612
+      },
+      "2022": {
+        "mean": 37.751081911431925,
+        "median": 29.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.8009117787945359,
+        "perfect_pct": 0.0011934061214713995,
+        "total_grades": 242164
+      },
+      "2023": {
+        "mean": 37.64628874139926,
+        "median": 29.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.799975643914023,
+        "perfect_pct": 0.0012216099372830786,
+        "total_grades": 262768
+      },
+      "2024": {
+        "mean": 37.071772193085884,
+        "median": 28.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.8053222121537605,
+        "perfect_pct": 0.0011755609279933946,
+        "total_grades": 285821
+      },
+      "2025": {
+        "mean": 38.34594570202836,
+        "median": 30.0,
+        "min": "0",
+        "max": "100",
+        "below_70_pct": 0.7866695030797645,
+        "perfect_pct": 0.0013118410577242297,
+        "total_grades": 310251
+      }
+    },
+    "teacher_ratios": {
+      "2016": {
+        "teachers": 62,
+        "students": 505,
+        "ratio": 8.14516129032258
+      },
+      "2017": {
+        "teachers": 62,
+        "students": 511,
+        "ratio": 8.241935483870968
+      },
+      "2018": {
+        "teachers": 62,
+        "students": 519,
+        "ratio": 8.370967741935484
+      },
+      "2019": {
+        "teachers": 62,
+        "students": 529,
+        "ratio": 8.53225806451613
+      },
+      "2020": {
+        "teachers": 62,
+        "students": 522,
+        "ratio": 8.419354838709678
+      },
+      "2021": {
+        "teachers": 62,
+        "students": 538,
+        "ratio": 8.67741935483871
+      },
+      "2022": {
+        "teachers": 62,
+        "students": 546,
+        "ratio": 8.806451612903226
+      },
+      "2023": {
+        "teachers": 62,
+        "students": 557,
+        "ratio": 8.983870967741936
+      },
+      "2024": {
+        "teachers": 62,
+        "students": 571,
+        "ratio": 9.209677419354838
+      },
+      "2025": {
+        "teachers": 62,
+        "students": 584,
+        "ratio": 9.419354838709678
+      }
+    },
+    "financial_summary": {
+      "2016": {
+        "total_revenue": "12326480",
+        "avg_payment": 6813.974571586512,
+        "num_payments": 1809
+      },
+      "2017": {
+        "total_revenue": "13451648",
+        "avg_payment": 6824.783358701167,
+        "num_payments": 1971
+      },
+      "2018": {
+        "total_revenue": "14503767",
+        "avg_payment": 6806.08493664946,
+        "num_payments": 2131
+      },
+      "2019": {
+        "total_revenue": "15198834",
+        "avg_payment": 6782.165997322624,
+        "num_payments": 2241
+      },
+      "2020": {
+        "total_revenue": "17051383",
+        "avg_payment": 6809.657747603834,
+        "num_payments": 2504
+      },
+      "2021": {
+        "total_revenue": "18461650",
+        "avg_payment": 6804.88389237007,
+        "num_payments": 2713
+      },
+      "2022": {
+        "total_revenue": "20698516",
+        "avg_payment": 7469.691808011548,
+        "num_payments": 2771
+      },
+      "2023": {
+        "total_revenue": "23308710",
+        "avg_payment": 7848.050505050505,
+        "num_payments": 2970
+      },
+      "2024": {
+        "total_revenue": "25311703",
+        "avg_payment": 7887.722966656279,
+        "num_payments": 3209
+      },
+      "2025": {
+        "total_revenue": "27550256",
+        "avg_payment": 8053.275650394621,
+        "num_payments": 3421
+      }
+    },
+    "teacher_continuity": {
+      "unique_teachers": 98,
+      "avg_tenure_years": 6.326530612244898,
+      "total_teacher_years": 620
+    },
+    "curriculum_evolution": [
+      {
+        "year": 2017,
+        "added": [
+          "AP Calculus",
+          "Environmental Science"
+        ],
+        "removed": []
+      },
+      {
+        "year": 2019,
+        "added": [
+          "Robotics",
+          "Mandarin Chinese"
+        ],
+        "removed": []
+      },
+      {
+        "year": 2022,
+        "added": [
+          "Cybersecurity",
+          "Data Science"
+        ],
+        "removed": []
+      },
+      {
+        "year": 2023,
+        "added": [
+          "International Baccalaureate",
+          "Dual Enrollment Math"
+        ],
+        "removed": []
+      }
+    ],
+    "demographics": {
+      "2016": {
+        "total_students": 505,
+        "gender_distribution": {
+          "F": 257,
+          "M": 248
+        },
+        "grade_distribution": {
+          "1": 41,
+          "2": 39,
+          "3": 39,
+          "4": 39,
+          "5": 40,
+          "6": 39,
+          "7": 39,
+          "8": 37,
+          "9": 38,
+          "10": 40,
+          "11": 39,
+          "12": 38,
+          "13": 37
+        }
+      },
+      "2017": {
+        "total_students": 511,
+        "gender_distribution": {
+          "F": 258,
+          "M": 253
+        },
+        "grade_distribution": {
+          "1": 38,
+          "2": 41,
+          "3": 38,
+          "4": 39,
+          "5": 40,
+          "6": 40,
+          "7": 40,
+          "8": 40,
+          "9": 37,
+          "10": 38,
+          "11": 43,
+          "12": 40,
+          "13": 37
+        }
+      },
+      "2018": {
+        "total_students": 519,
+        "gender_distribution": {
+          "F": 260,
+          "M": 259
+        },
+        "grade_distribution": {
+          "1": 46,
+          "2": 39,
+          "3": 40,
+          "4": 38,
+          "5": 39,
+          "6": 39,
+          "7": 39,
+          "8": 39,
+          "9": 41,
+          "10": 38,
+          "11": 38,
+          "12": 43,
+          "13": 40
+        }
+      },
+      "2019": {
+        "total_students": 529,
+        "gender_distribution": {
+          "F": 267,
+          "M": 262
+        },
+        "grade_distribution": {
+          "1": 49,
+          "2": 46,
+          "3": 40,
+          "4": 40,
+          "5": 39,
+          "6": 38,
+          "7": 38,
+          "8": 39,
+          "9": 39,
+          "10": 41,
+          "11": 38,
+          "12": 39,
+          "13": 43
+        }
+      },
+      "2020": {
+        "total_students": 522,
+        "gender_distribution": {
+          "M": 264,
+          "F": 258
+        },
+        "grade_distribution": {
+          "1": 35,
+          "2": 48,
+          "3": 46,
+          "4": 41,
+          "5": 41,
+          "6": 39,
+          "7": 39,
+          "8": 38,
+          "9": 39,
+          "10": 39,
+          "11": 41,
+          "12": 38,
+          "13": 38
+        }
+      },
+      "2021": {
+        "total_students": 538,
+        "gender_distribution": {
+          "M": 277,
+          "F": 261
+        },
+        "grade_distribution": {
+          "1": 53,
+          "2": 35,
+          "3": 48,
+          "4": 46,
+          "5": 41,
+          "6": 41,
+          "7": 39,
+          "8": 39,
+          "9": 39,
+          "10": 40,
+          "11": 39,
+          "12": 40,
+          "13": 38
+        }
+      },
+      "2022": {
+        "total_students": 546,
+        "gender_distribution": {
+          "M": 287,
+          "F": 259
+        },
+        "grade_distribution": {
+          "1": 48,
+          "2": 53,
+          "3": 36,
+          "4": 48,
+          "5": 43,
+          "6": 41,
+          "7": 41,
+          "8": 40,
+          "9": 38,
+          "10": 40,
+          "11": 40,
+          "12": 38,
+          "13": 40
+        }
+      },
+      "2023": {
+        "total_students": 557,
+        "gender_distribution": {
+          "M": 297,
+          "F": 260
+        },
+        "grade_distribution": {
+          "1": 50,
+          "2": 48,
+          "3": 51,
+          "4": 37,
+          "5": 48,
+          "6": 42,
+          "7": 41,
+          "8": 41,
+          "9": 41,
+          "10": 39,
+          "11": 40,
+          "12": 41,
+          "13": 38
+        }
+      },
+      "2024": {
+        "total_students": 571,
+        "gender_distribution": {
+          "M": 299,
+          "F": 272
+        },
+        "grade_distribution": {
+          "1": 50,
+          "2": 51,
+          "3": 48,
+          "4": 51,
+          "5": 37,
+          "6": 48,
+          "7": 41,
+          "8": 41,
+          "9": 42,
+          "10": 42,
+          "11": 40,
+          "12": 39,
+          "13": 41
+        }
+      },
+      "2025": {
+        "total_students": 584,
+        "gender_distribution": {
+          "M": 311,
+          "F": 273
+        },
+        "grade_distribution": {
+          "1": 51,
+          "2": 49,
+          "3": 52,
+          "4": 50,
+          "5": 51,
+          "6": 37,
+          "7": 48,
+          "8": 41,
+          "9": 42,
+          "10": 41,
+          "11": 42,
+          "12": 41,
+          "13": 39
+        }
+      }
+    },
+    "academic_performance": {
+      "2016": {
+        "avg_percentage": 0.8275471575601634,
+        "total_assignments": 5379,
+        "total_grades": 208619
+      },
+      "2017": {
+        "avg_percentage": 0.8274479457541114,
+        "total_assignments": 5416,
+        "total_grades": 213160
+      },
+      "2018": {
+        "avg_percentage": 0.8275559258918688,
+        "total_assignments": 5392,
+        "total_grades": 215105
+      },
+      "2019": {
+        "avg_percentage": 0.8275540353685501,
+        "total_assignments": 5401,
+        "total_grades": 218535
+      },
+      "2020": {
+        "avg_percentage": 0.8273204631793712,
+        "total_assignments": 5409,
+        "total_grades": 216190
+      },
+      "2021": {
+        "avg_percentage": 0.8274117076088382,
+        "total_assignments": 5780,
+        "total_grades": 241612
+      },
+      "2022": {
+        "avg_percentage": 0.8274477380747347,
+        "total_assignments": 5722,
+        "total_grades": 242164
+      },
+      "2023": {
+        "avg_percentage": 0.827815104120261,
+        "total_assignments": 6055,
+        "total_grades": 262768
+      },
+      "2024": {
+        "avg_percentage": 0.827376552099599,
+        "total_assignments": 6405,
+        "total_grades": 285821
+      },
+      "2025": {
+        "avg_percentage": 0.8272199146401477,
+        "total_assignments": 6755,
+        "total_grades": 310251
+      }
+    },
+    "operational_metrics": {
+      "2016": {
+        "classes_per_teacher": 1.2419354838709677,
+        "avg_students_per_class": 38.79220779220779,
+        "max_students_per_class": "41",
+        "avg_assignments_per_class": 69.85714285714286
+      },
+      "2017": {
+        "classes_per_teacher": 1.2419354838709677,
+        "avg_students_per_class": 39.36363636363637,
+        "max_students_per_class": "43",
+        "avg_assignments_per_class": 70.33766233766234
+      },
+      "2018": {
+        "classes_per_teacher": 1.2419354838709677,
+        "avg_students_per_class": 39.883116883116884,
+        "max_students_per_class": "46",
+        "avg_assignments_per_class": 70.02597402597402
+      },
+      "2019": {
+        "classes_per_teacher": 1.2419354838709677,
+        "avg_students_per_class": 40.42857142857143,
+        "max_students_per_class": "49",
+        "avg_assignments_per_class": 70.14285714285714
+      },
+      "2020": {
+        "classes_per_teacher": 1.2419354838709677,
+        "avg_students_per_class": 39.97402597402598,
+        "max_students_per_class": "48",
+        "avg_assignments_per_class": 70.24675324675324
+      },
+      "2021": {
+        "classes_per_teacher": 1.3225806451612903,
+        "avg_students_per_class": 41.792682926829265,
+        "max_students_per_class": "53",
+        "avg_assignments_per_class": 70.48780487804878
+      },
+      "2022": {
+        "classes_per_teacher": 1.3225806451612903,
+        "avg_students_per_class": 42.30487804878049,
+        "max_students_per_class": "53",
+        "avg_assignments_per_class": 69.78048780487805
+      },
+      "2023": {
+        "classes_per_teacher": 1.403225806451613,
+        "avg_students_per_class": 43.40229885057471,
+        "max_students_per_class": "51",
+        "avg_assignments_per_class": 69.59770114942529
+      },
+      "2024": {
+        "classes_per_teacher": 1.4838709677419355,
+        "avg_students_per_class": 44.619565217391305,
+        "max_students_per_class": "51",
+        "avg_assignments_per_class": 69.6195652173913
+      },
+      "2025": {
+        "classes_per_teacher": 1.564516129032258,
+        "avg_students_per_class": 45.876288659793815,
+        "max_students_per_class": "52",
+        "avg_assignments_per_class": 69.63917525773196
+      }
+    }
+  }
+}
