@@ -1,12 +1,32 @@
 subject_id,name,department_id
-1,Mathematics,1
-2,Science,2
-3,English,3
-4,Social Studies,4
-5,Physical Education,5
-6,Art,6
-7,Technology,7
-8,Spanish,8
-9,Leadership,9
-10,Reading,3
-11,Homeroom,9
+1,Homeroom,8
+2,Math,2
+3,Reading,1
+4,Science,3
+5,Social Studies,4
+6,ELA,1
+7,Art,6
+8,PE,7
+9,Technology,3
+10,Algebra I,2
+11,Biology,3
+12,English,1
+13,Geography,4
+14,Spanish I,5
+15,Computer Science,3
+16,Geometry,2
+17,Life Science,3
+18,American Literature,1
+19,Old World History,4
+20,Spanish II,5
+21,Visual Arts,6
+22,Algebra II,2
+23,Chemistry,3
+24,English Lit.,1
+25,New World History,4
+26,Leadership,4
+27,Music Performance,6
+28,Calculus,2
+29,Psychology,3
+30,World Lit.,1
+31,Government/Economics,4
