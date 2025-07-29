@@ -1,0 +1,361 @@
+================================================================================
+DATA QUALITY ANALYSIS REPORT
+================================================================================
+
+
+============================================================
+ANALYZING: students.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 5,382
+  - Total columns: 8
+  - Columns: student_id, first_name, last_name, gender, date_of_birth, grade_level_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Duplicate student_ids: 4411
+
+Data Types:
+  - student_id: int64
+  - first_name: object
+  - last_name: object
+  - gender: object
+  - date_of_birth: object
+  - grade_level_id: int64
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: teachers.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 620
+  - Total columns: 6
+  - Columns: teacher_id, first_name, last_name, department_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Duplicate teacher_ids: 522
+
+Data Types:
+  - teacher_id: int64
+  - first_name: object
+  - last_name: object
+  - department_id: int64
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: guardians.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 3,213
+  - Total columns: 7
+  - Columns: guardian_id, first_name, last_name, email, phone, school_year_id, data_source_year
+
+Missing Values: None
+
+Duplicate guardian_ids: 2777
+
+Data Types:
+  - guardian_id: int64
+  - first_name: object
+  - last_name: object
+  - email: object
+  - phone: object
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: student_guardians.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 8,589
+  - Total columns: 6
+  - Columns: student_id, guardian_id, guardian_type_id, family_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Data Types:
+  - student_id: int64
+  - guardian_id: int64
+  - guardian_type_id: int64
+  - family_id: object
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: grades.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 2,414,225
+  - Total columns: 8
+  - Columns: grade_id, student_id, assignment_id, score, submitted_on, term_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Duplicate grade_ids: 2103974
+
+Data Types:
+  - grade_id: int64
+  - student_id: int64
+  - assignment_id: int64
+  - score: int64
+  - submitted_on: object
+  - term_id: int64
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: attendance.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 968,760
+  - Total columns: 6
+  - Columns: attendance_id, student_id, date, status, school_year_id, data_source_year
+
+Missing Values: None
+
+Data Types:
+  - attendance_id: object
+  - student_id: int64
+  - date: object
+  - status: object
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: assignments.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 57,714
+  - Total columns: 9
+  - Columns: assignment_id, class_id, title, due_date, points_possible, category, term_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Duplicate assignment_ids: 50959
+
+Data Types:
+  - assignment_id: int64
+  - class_id: int64
+  - title: object
+  - due_date: object
+  - points_possible: int64
+  - category: object
+  - term_id: int64
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: enrollments.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 34,507
+  - Total columns: 5
+  - Columns: enrollment_id, student_id, class_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Data Types:
+  - enrollment_id: object
+  - student_id: int64
+  - class_id: int64
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: classes.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 825
+  - Total columns: 9
+  - Columns: class_id, name, grade_level_id, teacher_id, classroom_id, period_id, term_id, school_year_id, data_source_year
+
+Missing Values: None
+
+Duplicate class_ids: 728
+
+Data Types:
+  - class_id: int64
+  - name: object
+  - grade_level_id: int64
+  - teacher_id: int64
+  - classroom_id: int64
+  - period_id: int64
+  - term_id: int64
+  - school_year_id: int64
+  - data_source_year: object
+
+============================================================
+ANALYZING: school_calendar.csv
+============================================================
+
+Basic Statistics:
+  - Total rows: 2,852
+  - Total columns: 9
+  - Columns: calendar_date, is_school_day, is_holiday, holiday_name, comment, day_type, label, school_year_id, data_source_year
+
+Missing Values:
+  - holiday_name: 2,794 (97.97%)
+  - comment: 1,857 (65.11%)
+  - label: 1,857 (65.11%)
+
+Data Types:
+  - calendar_date: object
+  - is_school_day: bool
+  - is_holiday: bool
+  - holiday_name: object
+  - comment: object
+  - day_type: object
+  - label: object
+  - school_year_id: int64
+  - data_source_year: object
+
+================================================================================
+BUSINESS RULE VALIDATION
+================================================================================
+
+1. GRADE DISTRIBUTION ANALYSIS
+--------------------------------------------------
+
+Grade Statistics:
+  - Mean: 37.79%
+  - Median: 29.00%
+  - Std Dev: 27.02
+
+Grade Distribution:
+  - Perfect (95-100%): 2,940 (0.12%)
+  - Failing (<70%): 1,921,774 (79.60%)
+  - Expected perfect: ~3%
+  - Expected failing: 3-5%
+
+Grade Range Distribution:
+  - F (0-59%): 1,693,137 (70.13%)
+  - D (60-69%): 228,637 (9.47%)
+  - C (70-79%): 297,652 (12.33%)
+  - B (80-89%): 173,420 (7.18%)
+  - A (90-94%): 18,439 (0.76%)
+  - A+ (95-100%): 2,940 (0.12%)
+
+2. GUARDIAN RELATIONSHIP ANALYSIS
+--------------------------------------------------
+
+Shared Last Names:
+  - Students with guardian's last name: 188,045 (37.70%)
+  - Expected: ~65%
+
+Relationship Types:
+  - Father: 181,478 (36.38%)
+  - Mother: 154,029 (30.88%)
+  - Grandfather: 40,934 (8.21%)
+  - Uncle: 27,728 (5.56%)
+  - Legal Guardian: 25,727 (5.16%)
+  - Other: 25,333 (5.08%)
+  - Grandmother: 23,817 (4.77%)
+  - Aunt: 19,790 (3.97%)
+
+Family Structures:
+  - Two-parent families: 112 (11.53%)
+  - Single mother families: 242 (24.92%)
+  - Single father families: 253 (26.06%)
+  - Other arrangements: 364 (37.49%)
+
+3. ATTENDANCE ANALYSIS
+--------------------------------------------------
+
+Absence Rate:
+  - Average absence rate: 2.48%
+  - Expected: ~5%
+
+Tardy Rate:
+  - Average tardy rate: 2.78%
+  - Expected: ~3%
+
+Overall Attendance Status Distribution:
+  - Present: 893,412 (92.22%)
+  - Tardy: 26,910 (2.78%)
+  - Excused: 24,426 (2.52%)
+  - Absent: 24,012 (2.48%)
+
+4. ASSIGNMENT FREQUENCY ANALYSIS
+--------------------------------------------------
+
+Assignment Frequency:
+  - Average assignments per week per class: 2.08
+  - Expected: ~2
+
+5. SIBLING ANALYSIS
+--------------------------------------------------
+
+Sibling Distribution:
+  - 0 siblings: 1 students (0.10%)
+  - 1 siblings: 12 students (1.24%)
+  - 2 siblings: 40 students (4.12%) (Expected: ~15%)
+  - 3 siblings: 9 students (0.93%) (Expected: ~8%)
+  - 4 siblings: 6 students (0.62%) (Expected: ~5%)
+  - 5 siblings: 20 students (2.06%) (Expected: ~2%)
+  - 6 siblings: 15 students (1.54%)
+  - 7 siblings: 21 students (2.16%)
+  - 8 siblings: 27 students (2.78%)
+  - 9 siblings: 12 students (1.24%)
+  - 10 siblings: 11 students (1.13%)
+  - 11 siblings: 19 students (1.96%)
+  - 12 siblings: 8 students (0.82%)
+  - 13 siblings: 15 students (1.54%)
+  - 14 siblings: 24 students (2.47%)
+  - 16 siblings: 8 students (0.82%)
+  - 17 siblings: 21 students (2.16%)
+  - 18 siblings: 20 students (2.06%)
+  - 19 siblings: 24 students (2.47%)
+  - 20 siblings: 33 students (3.40%)
+  - 21 siblings: 7 students (0.72%)
+  - 22 siblings: 11 students (1.13%)
+  - 23 siblings: 22 students (2.27%)
+  - 24 siblings: 14 students (1.44%)
+  - 26 siblings: 15 students (1.54%)
+  - 27 siblings: 6 students (0.62%)
+  - 28 siblings: 15 students (1.54%)
+  - 29 siblings: 195 students (20.08%)
+  - 30 siblings: 17 students (1.75%)
+  - 31 siblings: 8 students (0.82%)
+  - 32 siblings: 14 students (1.44%)
+  - 33 siblings: 27 students (2.78%)
+  - 34 siblings: 12 students (1.24%)
+  - 35 siblings: 18 students (1.85%)
+  - 36 siblings: 12 students (1.24%)
+  - 37 siblings: 43 students (4.43%)
+  - 38 siblings: 94 students (9.68%)
+  - 39 siblings: 15 students (1.54%)
+  - 40 siblings: 12 students (1.24%)
+  - 41 siblings: 4 students (0.41%)
+  - 42 siblings: 4 students (0.41%)
+  - 44 siblings: 17 students (1.75%)
+  - 45 siblings: 13 students (1.34%)
+  - 46 siblings: 10 students (1.03%)
+  - 57 siblings: 5 students (0.51%)
+  - 60 siblings: 7 students (0.72%)
+  - 72 siblings: 8 students (0.82%)
+
+================================================================================
+FOREIGN KEY RELATIONSHIP VALIDATION
+================================================================================
+
+Foreign Key Integrity Check:
+Traceback (most recent call last):
+  File "C:\Users\Marshall Sisler\Projects\Luminosity\data_quality_analysis.py", line 347, in <module>
+    print(f"  \u2713 {child_table}.{child_col} -> {parent_table}.{parent_col}: Valid")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 2: character maps to <undefined>

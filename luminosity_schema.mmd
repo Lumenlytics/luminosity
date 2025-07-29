@@ -1,0 +1,278 @@
+erDiagram
+    %% Core Entity Tables
+    students {
+        integer student_id PK
+        text first_name
+        text last_name
+        text gender
+        date date_of_birth
+        integer grade_level_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    teachers {
+        integer teacher_id PK
+        text first_name
+        text last_name
+        integer department_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    guardians {
+        integer guardian_id PK
+        text first_name
+        text last_name
+        text email
+        text phone
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    %% Academic Structure Tables
+    classes {
+        integer class_id PK
+        text name
+        integer grade_level_id FK
+        integer teacher_id FK
+        integer classroom_id FK
+        integer period_id FK
+        integer term_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    assignments {
+        integer assignment_id PK
+        integer class_id FK
+        text title
+        date due_date
+        integer points_possible
+        text category
+        integer term_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    grades {
+        integer grade_id PK
+        integer student_id FK
+        integer assignment_id FK
+        integer class_id FK
+        integer score
+        date submitted_on
+        integer term_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    enrollments {
+        text enrollment_id PK
+        integer student_id FK
+        integer class_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    %% Reference Tables
+    grade_levels {
+        integer grade_level_id PK
+        text label
+    }
+    
+    departments {
+        integer department_id PK
+        text name
+    }
+    
+    subjects {
+        integer subject_id PK
+        text name
+        integer department_id FK
+    }
+    
+    classrooms {
+        integer classroom_id PK
+        text room_number
+        integer capacity
+    }
+    
+    periods {
+        integer period_id PK
+        text label
+        time start_time
+        time end_time
+    }
+    
+    terms {
+        integer term_id PK
+        text label
+        date start_date
+        date end_date
+        integer school_year_id FK
+    }
+    
+    school_years {
+        integer school_year_id PK
+        date start_date
+        date end_date
+    }
+    
+    guardian_types {
+        integer guardian_type_id PK
+        text label
+    }
+    
+    fee_types {
+        integer fee_type_id PK
+        text name
+        numeric amount
+        text frequency
+    }
+    
+    %% Relationship Tables
+    student_guardians {
+        integer student_id FK
+        integer guardian_id FK
+        integer guardian_type_id FK
+        text family_id
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    teacher_subjects {
+        integer teacher_id FK
+        integer subject_id FK
+        integer department_id FK
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    %% Administrative Tables
+    attendance {
+        text attendance_id PK
+        integer student_id FK
+        date date
+        text status
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    discipline_reports {
+        text discipline_report_id PK
+        integer student_id FK
+        date date
+        text severity
+        text type
+        text action_taken
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    standardized_tests {
+        text test_id PK
+        integer student_id FK
+        text test_name
+        date test_date
+        integer score
+        text subject
+        integer percentile
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    student_grade_history {
+        text student_grade_history_id PK
+        integer student_id FK
+        integer school_year_id FK
+        numeric gpa
+        integer grade_level_id FK
+    }
+    
+    payments {
+        text payment_id PK
+        integer guardian_id FK
+        integer fee_type_id FK
+        numeric amount_paid
+        date payment_date
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    school_calendar {
+        date calendar_date PK
+        boolean is_school_day
+        boolean is_holiday
+        text holiday_name
+        text comment
+        text day_type
+        text label
+        integer school_year_id FK
+        text data_source_year
+    }
+    
+    school_metadata {
+        text school_name
+        text address
+        text city
+        text state
+        text zip
+        text phone
+        text email
+        text principal
+    }
+    
+    %% Relationships
+    students ||--o{ grade_levels : "has grade level"
+    students ||--o{ school_years : "enrolled in year"
+    students ||--o{ student_guardians : "has guardians"
+    students ||--o{ enrollments : "enrolled in classes"
+    students ||--o{ grades : "receives grades"
+    students ||--o{ attendance : "has attendance"
+    students ||--o{ discipline_reports : "may have reports"
+    students ||--o{ standardized_tests : "takes tests"
+    students ||--o{ student_grade_history : "has academic history"
+    
+    teachers ||--o{ departments : "belongs to department"
+    teachers ||--o{ classes : "teaches classes"
+    teachers ||--o{ teacher_subjects : "teaches subjects"
+    teachers ||--o{ school_years : "active in year"
+    
+    guardians ||--o{ student_guardians : "guards students"
+    guardians ||--o{ payments : "makes payments"
+    guardians ||--o{ school_years : "active in year"
+    
+    classes ||--o{ assignments : "has assignments"
+    classes ||--o{ enrollments : "has enrollments"
+    classes ||--o{ grades : "generates grades"
+    classes ||--o{ grade_levels : "for grade level"
+    classes ||--o{ teachers : "taught by teacher"
+    classes ||--o{ classrooms : "held in room"
+    classes ||--o{ periods : "during period"
+    classes ||--o{ terms : "in term"
+    classes ||--o{ school_years : "in school year"
+    
+    assignments ||--o{ grades : "graded"
+    assignments ||--o{ terms : "due in term"
+    assignments ||--o{ school_years : "assigned in year"
+    
+    grades ||--o{ students : "for student"
+    grades ||--o{ assignments : "on assignment"
+    grades ||--o{ classes : "in class"
+    grades ||--o{ terms : "in term"
+    grades ||--o{ school_years : "earned in year"
+    
+    subjects ||--o{ departments : "in department"
+    subjects ||--o{ teacher_subjects : "taught by teachers"
+    
+    student_guardians ||--o{ students : "student"
+    student_guardians ||--o{ guardians : "guardian"
+    student_guardians ||--o{ guardian_types : "relationship type"
+    
+    payments ||--o{ guardians : "paid by guardian"
+    payments ||--o{ fee_types : "for fee type"
+    
+    terms ||--o{ school_years : "within school year"
+    
+    school_calendar ||--o{ school_years : "for school year"
