@@ -1,8 +1,18 @@
-period_id,label,start_time,end_time
-1,Period 1,08:00:00,09:00:00
-2,Period 2,09:00:00,10:00:00
-3,Period 3,10:00:00,11:00:00
-4,Period 4,11:00:00,12:00:00
-5,Period 5,12:00:00,13:00:00
-6,Period 6,13:00:00,14:00:00
-7,Period 7,14:00:00,15:00:00
+label,start_time,end_time,period_id
+Period 1,8:00,8:40,1
+Period 2,8:50,9:30,2
+Period 3,9:40,10:20,3
+Period 4,10:30,11:10,4
+Lunch,11:15,12:15,10
+Period 5,12:30,13:10,5
+Period 6,13:20,14:00,6
+Period 7,14:10,14:50,7
+Period 1 ELE,8:00,8:45,11
+Period 2 ELE,9:00,9:45,22
+Period 3 ELE,10:00,10:45,33
+Lunch ELE,11:00,12:00,20
+Period 5 ELE,12:00,12:45,44
+Period 4 ELE,13:00,13:45,55
+Recess,13:45,14:10,30
+Nap,14:10,14:50,40
+Study Hall,14:10,14:50,50
