@@ -1,6 +1,14 @@
 fee_type_id,name,amount,frequency
-1,Tech Fee,100,One Time
-2,Field Trip Fund,50,One Time
-3,Lunch Plan,400,Monthly
-4,Tuition,8000,Annual
-5,Activity Fee,75,Per Term
+1,Tuition 2016-2018,8000,Annual
+2,Tuition 2019-2023,9000,Annual
+3,Tuition 2024-2026,10000,Annual
+4,Enrollment Fee,250,Annual
+5,Technology Fee,200,Annual
+6,Lab Fee (high school only),60,Annual
+7,Field Trip Fee,50,Annual
+8,Learning Support Fee,1000,Monthly
+9,Athletics Fee,300,Annual
+10,Lunch Program Fee,1500,Monthly
+11,Bus Fee,2000,Annual
+12,Late Payment Fee,50,Per Incident
+13,After Care,1000,Monthly
